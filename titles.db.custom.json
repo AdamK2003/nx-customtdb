@@ -1,0 +1,88 @@
+{
+	"0100B2C01470C000": {
+		"id": "0100B2C01470C000",
+		"name": "NINJA GAIDEN Master Collection Digital Art Book & Soundtrack",
+		"region": "US",
+		"size": 2029372047,
+		"releaseDate": 20210610,
+		"description": "A Digital Art Book & Soundtrack that include visuals, still images, and music tracks from series history."
+	},
+	"0100696014F4A000": {
+		"id": "0100696014F4A000",
+		"name": "NINJA GAIDEN Σ2",
+		"region": "US",
+		"size": 3360811909,
+		"releaseDate": 20210610,
+		"iconUrl": "https://ptpimg.me/ik4fxn.jpg",
+		"description": "Become Ryu Hayabusa, the ninja who inherited the Dragon Sword, a legendary blade, and once again experience high-speed ninja action in which you face battles all over the world. The game is also packed with additional features such as Hero Mode, a mode in which the player will guard automatically when they are in a pinch."
+	},
+	"0100E2F014F46000": {
+		"id": "0100E2F014F46000",
+		"name": "NINJA GAIDEN Σ",
+		"region": "US",
+		"size": 4123168604,
+		"releaseDate": 20210610,
+		"iconUrl": "https://ptpimg.me/9p7028.jpg",
+		"description": "In addition to being able to pull off unmatched dazzling techniques with Ryu Hayabusa, a young ninja who has inherited the ninja arts of the Hayabusa style, with beautiful stages in a westernized Japan embellished with spirit-world motifs, and more, the game is packed with features that are a must-play for any fan of action games."
+	},
+	"01002AF014F4C000": {
+		"id": "01002AF014F4C000",
+		"name": "NINJA GAIDEN 3 Razor's Edge",
+		"region": "US",
+		"size": 3854733148,
+		"releaseDate": 20210610,
+		"description": "The ultimate high-speed ninja action has returned! The game offers both extreme challenge, along with an equally extreme sense of accomplishment. Experience the series' most alluring high-speed action."
+	},
+	"0545014D32520000": {
+		"id": "0545014D32520000",
+		"name": "AM2R (Another Metroid 2 Remake) 1.5.2-NX",
+		"region": "US",
+		"releaseDate": 20210113,
+		"size": 150955224,
+		"iconUrl": "https://ptpimg.me/4oeg3n.jpg",
+		"description": "AM2R (Another Metroid 2 Remake) is an unofficial remake of the 1991 Game Boy game Metroid II: Return of Samus in the style of Metroid: Zero Mission (2004)."
+	},
+	"0100C56012C96000": {
+		"id": "0100C56012C96000",
+		"region": "US",
+		"releaseDate": 20210128,
+		"iconUrl": "https://i.postimg.cc/ZYsj3jtZ/arkspace.png",
+		"size": 199229440,
+		"name": "Arkanoid vs. Space Invaders",
+		"description": "Two of the most iconic classic games ever made meet in Arkanoid vs Space Invaders! – Combines the exciting shoot ‘em up and block breaking gameplays in one game. Reflect the invaders bullets right back at them. Gather energy and trigger Attack Mode to destroy your enemies."
+	},
+	"0100E48013A34000": {
+		"id": "0100E48013A34000",
+		"name": "BALAN WONDERWORLD Demo",
+		"releaseDate": 20210128,
+		"size": 2448131358
+	},
+	"010075F0130E8000": {
+		"id": "010075F0130E8000",
+		"region": "JP",
+		"releaseDate": 20210128,
+		"iconUrl": "https://i.postimg.cc/W3hQjstC/Ringo-Budda.jpg",
+		"size": 419430400,
+		"name": "The Friends of Ringo Ishikawa and Arrest of a Stone Buddha",
+		"description": "The Friends of Ringo Ishikawa is a unique and immersive existential open world beat ‘em up. Experience the story, meet new characters, and explore the town.\n\nIn Arrest of a Stone Buddha, a hitman is searching for an answer in 1970s France."
+	},
+	"010096F00FF22000": {
+		"id": "010096F00FF22000",
+		"name": "Borderlands 2: Game of the Year Edition",
+		"releaseDate": 20200529,
+		"description": "Shoot and loot as you explore the mayhem-filled world of Pandora in Borderlands 2  in Borderlands: The Handsome Collection. Experience the award-winning FPS-RPG series, including its bazillions of guns, trademark cooperative gameplay, and piles of bonus add-on content.\n*Borderlands 2: Commander Lilith & the Fight for Sanctuary add-content not included."
+	},
+	"0100CCC0002E6000": {
+		"id": "0100CCC0002E6000",
+		"name": "SKYLANDERS IMAGINATORS",
+		"region": "US",
+		"releaseDate": 20170503,
+		"iconUrl": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/s/skylanders-imaginators-switch/Switch_SkylandersImaginators_description-char.jpg",
+		"description": "Unleash Imagination. Create Your Own Skylanders\n\nKaos has discovered the ancient power of Mind Magic and is using it to create an unstoppable army of Doomlanders! Eon is calling upon all Portal Masters and Skylands' greatest mystic warriors, the Senseis, to stop Kaos and his minions. Now, you must use the power of your imagination to create your own Skylanders to battle in the ultimate adventure alongside the almighty Senseis to save Skylands."
+	},
+	"01002FF008C24000": {
+		"id": "01002FF008C24000",
+		"name": "Ring Fit Adventure",
+		"region": "US"
+	}
+}
