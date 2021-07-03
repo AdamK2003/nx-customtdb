@@ -33,15 +33,6 @@
 		"releaseDate": 20210610,
 		"description": "The ultimate high-speed ninja action has returned! The game offers both extreme challenge, along with an equally extreme sense of accomplishment. Experience the series' most alluring high-speed action."
 	},
-	"0100414d32524e00": {
-		"id": "0100414d32524e00",
-		"name": "AM2R (Another Metroid 2 Remake) 1.4.3",
-		"region": "US",
-		"releaseDate": 20210113,
-		"size": 165150720,
-		"iconUrl": "https://ptpimg.me/4oeg3n.jpg",
-		"description": "AM2R (Another Metroid 2 Remake) is an unofficial remake of the 1991 Game Boy game Metroid II: Return of Samus in the style of Metroid: Zero Mission (2004)."
-	},
 	"0545014D32520000": {
 		"id": "0545014D32520000",
 		"name": "AM2R (Another Metroid 2 Remake) 1.5.2-NX",
@@ -50,6 +41,14 @@
 		"size": 150955224,
 		"iconUrl": "https://ptpimg.me/4oeg3n.jpg",
 		"description": "AM2R (Another Metroid 2 Remake) is an unofficial remake of the 1991 Game Boy game Metroid II: Return of Samus in the style of Metroid: Zero Mission (2004)."
+	},
+	"054548454C4C0000": {
+		"id": "054548454C4C0000",
+		"name": "Helltaker 1.0.3",
+		"region": "US",
+		"releaseDate": 20200708,
+		"size": 1175000,
+		"description": "Helltaker 1.0.3 is an unofficial port of the pc game. You need to enable Install Unsigned Code in Tinfoil Options to install it because it is a modified NSP, but you can disable unsigned code after installation for safety. When enabling, Tinfoil will prompt you for the Konami Code: \n↑ ↑ ↓ ↓ ← → ← → B A +"
 	},
 	"0100C56012C96000": {
 		"id": "0100C56012C96000",
