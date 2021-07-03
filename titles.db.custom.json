@@ -33,6 +33,15 @@
 		"releaseDate": 20210610,
 		"description": "The ultimate high-speed ninja action has returned! The game offers both extreme challenge, along with an equally extreme sense of accomplishment. Experience the series' most alluring high-speed action."
 	},
+	"0100414d32524e00": {
+		"id": "0100414d32524e00",
+		"name": "AM2R (Another Metroid 2 Remake) 1.4.3",
+		"region": "US",
+		"releaseDate": 20210113,
+		"size": 165150720,
+		"iconUrl": "https://ptpimg.me/4oeg3n.jpg",
+		"description": "AM2R (Another Metroid 2 Remake) is an unofficial remake of the 1991 Game Boy game Metroid II: Return of Samus in the style of Metroid: Zero Mission (2004)."
+	},
 	"0545014D32520000": {
 		"id": "0545014D32520000",
 		"name": "AM2R (Another Metroid 2 Remake) 1.5.2-NX",
@@ -83,6 +92,188 @@
 	"01002FF008C24000": {
 		"id": "01002FF008C24000",
 		"name": "Ring Fit Adventure",
-		"region": "US"
+		"region": "US",
+		"releaseDate": 20191018,
+		"iconUrl": "https://ptpimg.me/8ttm0h.jpg",
+		"description": "Traverse grass-swept plains by jogging in place, attack enemies with overhead shoulder presses, and refill your health meter by striking some yoga poses. Two new accessories, the Ring-Con™ and Leg Strap, measure your real-world actions and help turn them into in-game movements. With additional minigames and customizable workout routines, Ring Fit Adventure is great escape for players of all skill levels and schedules.\n\nIn Adventure mode, defeat enemies with attacks based on real-world exercises as you traverse more than 100 levels in over 20 worlds. As you work through each level (and possibly work up a sweat), you’ll earn experience points. Between fights, you may encounter some unusual methods of transportation such as squat-powered launch pads. Then, pass around the Ring-Con and leg strap accessories and select from a few minigames: break boxes with gusts of air, craft pottery using squats, and more."
+	},
+	"010007400FF24000": {
+		"id": "010007400FF24000",
+		"name": "Borderlands: The Pre-Sequel Ultimate Edition",
+		"region": "US",
+		"releaseDate": 20200529,
+		"iconUrl": "https://ptpimg.me/e8k7uc.jpg",
+		"description": "Shoot and loot as you explore the lunar madness of Borderlands: The Pre-Sequel in Borderlands: The Handsome Collection. Experience the award-winning FPS-RPG series, including its bazillions of guns, trademark cooperative gameplay, and piles of bonus add-on content."
+	},
+	"010000000E5EE000": {
+		"id": "010000000E5EE000",
+		"name": "8-BIT YU-NO'S GREAT ADVENTURE",
+		"region": "US",
+		"releaseDate": 20191001,
+		"iconUrl": "https://i.postimg.cc/q7sChcnR/8bit-art-320x229.jpg",
+		"description": "Experience an action game set in classic 8-bit style featuring the characters from YU-NO!"
+	},
+	"0100165003504000": {
+		"id": "0100165003504000",
+		"name": "Nintendo Labo Toy-Con 04: VR Kit",
+		"region": "US",
+		"releaseDate": 20190412,
+		"iconUrl": "https://labo.nintendo.com/assets/vr-box-500w.png",
+		"description": "Introducing the most immersive, robust Nintendo Labo kit to date—this one combines DIY fun, pass-and-play multiplayer, and family-friendly play with simple, shareable VR gaming. It even includes a programming tool you can use to create your very own VR games and experiences! Feel your creations come to life as you and your family blast through an alien invasion, create 3D works of art, dive into an oceanic photo safari, soar atop a bird, and go wherever else your imagination takes you."
+	},
+	"01001E9003502000": {
+		"id": "01001E9003502000",
+		"name": "Nintendo Labo Toy-Con 03: Vehicle Kit",
+		"region": "US",
+		"releaseDate": 20180914,
+		"iconUrl": "https://labo.nintendo.com/assets/product-vehicle-500w.png",
+		"description": "Feel like you’re really in the driver’s seat by using the Toy-Con Car, Pedal, and Key from your Nintendo Labo: Vehicle Kit to control your in-game vehicle in the Mario Kart 8 Deluxe game."
+	},
+	"01009AB0034E0000": {
+		"id": "01009AB0034E0000",
+		"name": "Nintendo Labo Toy-Con 02: Robot Kit",
+		"region": "US",
+		"releaseDate": 20180420,
+		"iconUrl": "https://labo.nintendo.com/assets/robot-box-500w.png",
+		"description": "Build a backpack and visor that let you control a huge on-screen robot. Then smash buildings, fly, transform into a tank, and much more!"
+	},
+	"0100C4B0034B2000": {
+		"id": "0100C4B0034B2000",
+		"name": "Nintendo Labo Toy-Con 01: Variety Kit",
+		"iconUrl": "https://labo.nintendo.com/assets/variety-box-500w.png",
+		"region": "US",
+		"releaseDate": 20180420,
+		"description": "The Variety Kit includes five different projects to Make, Play, and Discover: two Toy-Con RC Cars, a Toy-Con Fishing Rod, a Toy-Con House, a Toy-Con Motorbike, and a Toy-Con Piano!"
+	},
+	"0100CEB00C624000": {
+		"id": "0100CEB00C624000",
+		"releaseDate": 20181115,
+		"description": "Supported Language: Japanese."
+	},
+	"0100E9F00B882000": {
+		"id": "0100E9F00B882000",
+		"name": "8-BIT ADVENTURE STEINS;GATE",
+		"region": "US",
+		"releaseDate": 20190219,
+		"iconUrl": "https://img-eshop.cdn.nintendo.net/i/bd75737bc8223ec1c5c69bfb461521ff631bb23cdae74daf9c086d3d19ed1c47.jpg",
+		"description": "Steins;Gate: 8-BIT ADV is a brand new retro-styled spinoff game that was initially released alongside Nintendo Switch copies of Steins;Gate Elite in Japan. This pixel-filled adventure introduces a brand new Steins;Gate side story, and accurately captures the presentation style of most traditional NES games."
+	},
+	"010060700EFBA000": {
+		"id": "010060700EFBA000",
+		"name": "Cooking Mama: Cookstar",
+		"region": "US",
+		"releaseDate": 20200331,
+		"iconUrl": "https://i.postimg.cc/HWXSkbcJ/010060700efba000-icon.jpg",
+		"description": "Cooking Mama is back with her most awesome and fun video game adventure ever. Cooking Mama: CookStar is a brand new Cooking Mama experience specially designed for the console. Cooking Mama: CookStar offers over 90 incredible new recipes that players have to master. The menu ranges from classic Japanese recipes to the most delicious home-style cooking and the culinary soul consolation of today. Cooking Mama offers something for every taste. Not a carnivore? No problem! For the first time ever, Cooking Mama offers both traditional and vegetarian recipes: burritos, bibimbap, bubble tea, baked Alaska, poke bowls and much more. Explore the diverse menu to find out what suits your tastes; you don't think you have what it takes to become a master chef? Don't worry, mom will take care of it! Just follow mom's instructions and create delicious and decadent treats that you can share with your friends. Chop, chop, cut, and dice! With mom's help, you become the greatest culinary artist in the world."
+	},
+	"054507E0B7552000": {
+		"id": "054507E0B7552000",
+		"name": "Super Mario 64 v8",
+		"region": "US",
+		"releaseDate": 20200918,
+		"iconUrl": "https://ptpimg.me/xna2p5.jpg",
+		"description": "Super Mario 64 was the original launch and pack-in title for the Nintendo 64. Developed by Shigeru Miyamoto's team at Nintendo EAD, it was released alongside the console on September 29th, 1996 in North America. The game pioneered many elements of the 3D subgenre of platformer. The game sold over 11.8 million copies worldwide and was also one of the first N64 games available for the Wii's Virtual Console collection of retro releases. The plot of Super Mario 64 starts off with Mario arriving at Princess Peach's castle at her invitation and promise of cake. However, upon arriving, he finds the castle nearly deserted and learns that the evil Bowser has once again abducted her. In order to stop Bowser and rescue the princess, Mario must explore the worlds within a series of paintings hanging in various rooms throughout the castle and collect the power stars hidden in each. Only once he has the necessary stars will he be able to face off against Bowser and save Peach."
+	},
+	"010045800ED1E000": {
+		"id": "010045800ED1E000",
+		"name": "Shin Megami Tensei III NOCTURNE HD (真・女神転生Ⅲ)"
+	},
+	"01001C400E9D8000": {
+		"id": "01001C400E9D8000",
+		"name": "Persona 5 Scramble: The Phantom Strikers (ペルソナ５ スクランブル)"
+	},
+	"0100B020117D8000": {
+		"id": "0100B020117D8000",
+		"name": "Atelier Ryza 2 (ライザのアトリエ２)"
+	},
+	"010002900294A000": {
+		"id": "010002900294A000",
+		"region": "US",
+		"releaseDate": 20170509,
+		"name": "NBA Playgrounds - Original Edition"
+	},
+	"01004DB00BC70000": {
+		"id": "01004DB00BC70000",
+		"region": "JP",
+		"releaseDate": 20180920,
+		"name": "DRAGON BALL Z Super Butoden"
+	},
+	"01002E50126B2000": {
+		"id": "01002E50126B2000",
+		"region": "JP",
+		"releaseDate": 20200827,
+		"name": "KonoSuba: この素晴らしい世界に祝福を！　カズマの飛び出せ大冒険！"
+	},
+	"0100D7D00E5A8000": {
+		"id": "0100D7D00E5A8000",
+		"region": "JP",
+		"releaseDate": 20191129
+	},
+	"010020F01272A000": {
+		"id": "010020F01272A000",
+		"region": "JP",
+		"releaseDate": 20201029
+	},
+	"0100AA20125D6000": {
+		"id": "0100AA20125D6000",
+		"region": "US",
+		"releaseDate": 20200720,
+		"name": "Cris Tales Demo",
+		"size": 800000000
+	},
+	"0100C0000CEEA000": {
+		"id": "0100C0000CEEA000",
+		"name": "Yo-kai Watch 1 (妖怪ウォッチ1)"
+	},
+	"05C8E9A645B8A000": {
+		"id": "05C8E9A645B8A000",
+		"region": "US",
+		"releaseDate": 20210119,
+		"iconUrl": "https://i.postimg.cc/kX6SHB25/image.png",
+		"name": "Sonic The Hedgehog 2",
+		"size": 50053848,
+		"description": "One of the greatest adventures of all time re-mastered for Nintendo Switch! This definitive version has been fully built from the ground up for Nintendo Switch, featuring re-mastered graphics and audio, and all new game content.\n\nA CLASSIC ADVENTURE\n\nRace as Sonic and Tails through high speed environments, or aim for the high score in Sonic 2's iconic half pipe Special Stage.\n\nEXCLUSIVE NEW CONTENT\n\nAn all new 'Boss Attack mode' challenges the player to defeat all of the game's devious bosses in one run. Additionally choose to play the game as Knuckles in addition to Sonic and Tails.\n\nEXCLUSIVE NEW LEVELS\n\nFor the first time ever explore the mysterious Hidden Palace Zone. These lost levels feature undiscovered enemies, new hazards and a climatic showdown with Dr. Eggman.\n\nREMASTERED FOR SWITCH\n\nRebuilt from the ground up, Sonic The Hedgehog 2 offers upgraded graphics, including widescreen display and a smooth 60fps frame rate, plus a re-mastered soundtrack."
+	},
+	"0579FF579A28A000": {
+		"id": "0579FF579A28A000",
+		"region": "US",
+		"releaseDate": 20210119,
+		"iconUrl": "https://i.postimg.cc/J0FsSSPg/Sonic1-2013-icon.png",
+		"size": 40682200,
+		"name": "Sonic The Hedgehog 1",
+		"description": "This re-mastered version of the SEGA Genesis classic features the full Sonic The Hedgehog game, plus these EXCLUSIVE features:\n\nNEW PLAYABLE CHARACTERS\n\nPlay as Sonic's friends Tails & Knuckles for the first time. Use their unique abilities to fly, climb, and glide around levels offering exciting new ways to explore.\n\nOPTIMIZED FOR SWITCH\n\nSonic The Hedgehog now plays in widescreen at a smooth 60FPS offering unrivalled performance and the game's legendary soundtrack has been fully re-mastered.\n\nGOTTA GO FAST\n\nChallenge yourself with an all-new Time Attack Mode!\n\nCONTROLLER SUPPORT"
+	},
+	"010043A0132AA000": {
+		"id": "010043A0132AA000",
+		"region": "GB",
+		"releaseDate": 20201126,
+		"iconUrl": "https://img-eshop.cdn.nintendo.net/i/c955563dd9946e38c05d63accf8f824598e584fb7874738431c187b4a1e798eb.jpg",
+		"size": 394264576,
+		"name": "Ubongo - Deluxe Edition",
+		"description": "Fast-paced, addictive, and easy to learn."
+	},
+	"01002F101340C000": {
+		"id": "01002F101340C000",
+		"region": "US",
+		"releaseDate": 20210222,
+		"iconUrl": "https://i.postimg.cc/Gh61Lz00/p5sb.jpg",
+		"size": 2265595248,
+		"name": "Persona 5 Strikers Bonus Content",
+		"description": "Pre-order Persona 5 Strikers and get access to exclusive digital bonus content at launch! Go behind the scenes with a digital art book, development videos, and a digital soundtrack with over 40 songs from the game!"
+	},
+	"01009DE010F48000": {
+		"id": "01009DE010F48000",
+		"region": "HK",
+		"releaseDate": 20201224,
+		"iconUrl": "https://i.postimg.cc/rpz7Q0VF/dance.jpg",
+		"size": 7399257088,
+		"name": "Just Dance 2020 China Ver."
+	},
+	"01003A400C3DA000": {
+		"id": "01003A400C3DA000",
+		"releaseDate": 20210215,
+		"size": 83000024,
+		"name": "Youtube v1.0.3 Patched",
+		"description": "The latest patched YouTube v1.0.3 that works without connecting to Nintendo. The base game has the update included. You need to enable Install Unsigned Code in Tinfoil Options to install it because it is a modified NSP, but you can disable unsigned code after installation for safety. When enabling, Tinfoil will prompt you for the Konami Code: \n↑ ↑ ↓ ↓ ← → ← → B A +"
 	}
 }
