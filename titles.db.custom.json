@@ -48,6 +48,7 @@
 		"region": "US",
 		"releaseDate": 20200708,
 		"size": 1175000,
+		"iconUrl": "https://i.postimg.cc/9QBcPfb9/300px-Helltaker-cover.jpg",
 		"description": "Helltaker 1.0.3 is an unofficial port of the pc game. You need to enable Install Unsigned Code in Tinfoil Options to install it because it is a modified NSP, but you can disable unsigned code after installation for safety. When enabling, Tinfoil will prompt you for the Konami Code: \n↑ ↑ ↓ ↓ ← → ← → B A +"
 	},
 	"0100C56012C96000": {
