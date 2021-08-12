@@ -282,5 +282,11 @@
                 "region": "US",
                 "size": 383254528,
                 "releaseDate": 20210706
+	},
+        "01002FC010240000": {
+                "id": "01002FC010240000",
+                "name": "Axiom Verge 2",
+                "region": "US",
+                "releaseDate": 20210812
 	}
 }
