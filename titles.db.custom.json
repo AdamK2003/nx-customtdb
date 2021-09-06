@@ -275,5 +275,68 @@
 		"size": 83000024,
 		"name": "Youtube v1.0.3 Patched",
 		"description": "The latest patched YouTube v1.0.3 that works without connecting to Nintendo. The base game has the update included. You need to enable Install Unsigned Code in Tinfoil Options to install it because it is a modified NSP, but you can disable unsigned code after installation for safety. When enabling, Tinfoil will prompt you for the Konami Code: \n↑ ↑ ↓ ↓ ← → ← → B A +"
+	},
+	"0500E1F003EE8000": {
+		"id": "0500E1F003EE8000",
+		"name": "The Jackbox Party Pack 4 v1.1.0 Patched",
+		"region": "US",
+		"size": 940516836,
+		"iconURL": "https://i.postimg.cc/K83pFfS9/j4.jpg",
+		"releaseDate": 20210905,
+		"description": "The latest patched Jackbox 4 that works without connecting to Nintendo. The base game has the v1.1.0 update included."
+	},
+	"0500AE5003EE6000": {
+		"id": "0500AE5003EE6000",
+		"name": "The Jackbox Party Pack Patched",
+		"region": "US",
+		"size": 1109690300,
+		"iconURL": "https://i.postimg.cc/fWjZG1GR/j.jpg",
+		"releaseDate": 20210905,
+		"description": "The latest patched Jackbox that works without connecting to Nintendo."
+	},
+	"050015D003EE4000": {
+		"id": "050015D003EE4000",
+		"name": "The Jackbox Party Pack 2 Patched",
+		"region": "US",
+		"size": 599171356,
+		"iconURL": "https://i.postimg.cc/BvXnsNxw/j2.jpg",
+		"releaseDate": 20210905,
+		"description": "The latest patched Jackbox 2 that works without connecting to Nintendo."
+	},
+	"0500CC80013D6000": {
+		"id": "0500CC80013D6000",
+		"name": "The Jackbox Party Pack 3 Patched",
+		"region": "US",
+		"size": 1384575216,
+		"iconURL": "https://i.postimg.cc/sDMJbCLk/j3.jpg",
+		"releaseDate": 20210905,
+		"description": "The latest patched Jackbox 3 that works without connecting to Nintendo."
+	},
+	"05005A400DB52000": {
+		"id": "05005A400DB52000",
+		"name": "The Jackbox Party Pack 6 v1.1.0 Patched",
+		"region": "US",
+		"size": 2087756550,
+		"iconURL": "https://i.postimg.cc/265D9C4g/j6.jpg",
+		"releaseDate": 20210905,
+		"description": "The latest patched Jackbox 6 that works without connecting to Nintendo. The base game has the v1.1.0 update included."
+	},
+	"05006FE0096AC000": {
+		"id": "05006FE0096AC000",
+		"name": "The Jackbox Party Pack 5 v1.0.1 Patched",
+		"region": "US",
+		"size": 2045552907,
+		"iconURL": "https://i.postimg.cc/LXDkhwmR/j5.jpg",
+		"releaseDate": 20210905,
+		"description": "The latest patched Jackbox 5 that works without connecting to Nintendo. The base game has the v1.0.1 update included."
+	},
+	"05007F30113A6000": {
+		"id": "05007F30113A6000",
+		"name": "The Jackbox Party Pack 7 v1.0.1 Patched",
+		"region": "US",
+		"size": 1786311384,
+		"iconURL": "https://i.postimg.cc/7PpyYZZx/j7.jpg",
+		"releaseDate": 20210905,
+		"description": "The latest patched Jackbox 7 that works without connecting to Nintendo. The base game has the v1.0.1 update included."
 	}
 }
