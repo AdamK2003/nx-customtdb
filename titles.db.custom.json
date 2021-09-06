@@ -269,8 +269,8 @@
 		"size": 7399257088,
 		"name": "Just Dance 2020 China Ver."
 	},
-	"01003A400C3DA000": {
-		"id": "01003A400C3DA000",
+	"05003A400C3DA000": {
+		"id": "05003A400C3DA000",
 		"releaseDate": 20210215,
 		"size": 83000024,
 		"name": "Youtube v1.0.3 Patched",
@@ -338,5 +338,18 @@
 		"iconURL": "https://i.postimg.cc/7PpyYZZx/j7.jpg",
 		"releaseDate": 20210905,
 		"description": "The latest patched Jackbox 7 that works without connecting to Nintendo. The base game has the v1.0.1 update included."
+	},
+        "0100358015762000": {
+                "id": "0100358015762000",
+                "name": "CLOSER - anagnorisis",
+                "region": "US",
+                "size": 383254528,
+                "releaseDate": 20210706
+	},
+        "01002FC010240000": {
+                "id": "01002FC010240000",
+                "name": "Axiom Verge 2",
+                "region": "US",
+                "releaseDate": 20210812
 	}
 }
