@@ -351,5 +351,14 @@
                 "name": "Axiom Verge 2",
                 "region": "US",
                 "releaseDate": 20210812
-	}
+	},
+	"05450B00BA020000": {
+                "id": "05450B00BA020000",
+                "name": "AM2R (Another Metroid 2 Remake) 1.5.2-nx fix",
+                "region": "US",
+                "releaseDate": 20210908,
+                "size": 159000000,
+                "iconUrl": "https://i.postimg.cc/gkv7BNBC/a.jpg",
+                "description": "AM2R (Another Metroid 2 Remake) is an unofficial remake of the 1991 Game Boy game Metroid II: Return of Samus in the style of Metroid: Zero Mission (2004).\n\nThis version fixes the game-breaking bugs."
+        }
 }
