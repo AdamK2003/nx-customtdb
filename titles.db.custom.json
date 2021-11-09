@@ -360,5 +360,13 @@
                 "size": 159000000,
                 "iconUrl": "https://i.postimg.cc/gkv7BNBC/a.jpg",
                 "description": "AM2R (Another Metroid 2 Remake) is an unofficial remake of the 1991 Game Boy game Metroid II: Return of Samus in the style of Metroid: Zero Mission (2004).\n\nThis version fixes the game-breaking bugs."
-        }
+        },
+	"0100000011D90000": {
+		"id": "0100000011D90000",
+		"name": "Pokémon™ Brilliant Diamond",
+		"region": "US",
+		"releaseDate": 20211119,
+		"iconUrl": "https://i.postimg.cc/NM2vdmgF/1.jpg",
+		"description": "Experience the nostalgic story from the Pokémon Diamond Version game in a reimagined adventure, Pokémon™ Brilliant Diamond, now on the Nintendo Switch™ system! Adventures in the Pokémon Brilliant Diamond game will take place in the familiar Sinnoh region. Rich in nature and with mighty Mount Coronet at its heart, Sinnoh is a land of many myths passed down through the ages. You’ll choose either Turtwig, Chimchar, or Piplup to be your first partner Pokémon and then set off on your journey to become the Champion of the Pokémon League. Along the way, you’ll run into the mysterious organization Team Galactic, and be able to encounter the Legendary Pokémon Dialga."
+	}
 }
