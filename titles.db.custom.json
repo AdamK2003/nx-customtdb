@@ -53,14 +53,6 @@
         "description": "GBA Emulator",
         "iconUrl": "https://i.postimg.cc/wvW0s7qv/s.jpg"
     }, 
-    "050027100372F000": {
-        "id": "050027100372F000",
-        "name": "Anime Movie Player - Hunter x Hunter Phantom Troupe",
-        "region": "JP",
-        "iconUrl": "https://i.postimg.cc/BvbzfH09/h.jpg",
-        "releaseDate": 20220409,
-        "description": "Hunter x Hunter is a Japanese anime television series. Taking place mostly in Yorknew City itself, Kurapika's mission eventually becomes intertwined with the killers of his clan and the target of his vengeance, the infamous Phantom Troupe."
-    },
     "050050CE11E48000": {
         "id": "050050CE11E48000",
         "name": "Anime Movie Player - Made in Abyss",
