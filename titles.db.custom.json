@@ -1,400 +1,883 @@
 {
-	"0100B2C01470C000": {
-		"id": "0100B2C01470C000",
-		"name": "NINJA GAIDEN Master Collection Digital Art Book & Soundtrack",
-		"region": "US",
-		"size": 2029372047,
-		"releaseDate": 20210610,
-		"description": "A Digital Art Book & Soundtrack that include visuals, still images, and music tracks from series history."
-	},
-	"0100696014F4A000": {
-		"id": "0100696014F4A000",
-		"name": "NINJA GAIDEN Σ2",
-		"region": "US",
-		"size": 3360811909,
-		"releaseDate": 20210610,
-		"iconUrl": "https://ptpimg.me/ik4fxn.jpg",
-		"description": "Become Ryu Hayabusa, the ninja who inherited the Dragon Sword, a legendary blade, and once again experience high-speed ninja action in which you face battles all over the world. The game is also packed with additional features such as Hero Mode, a mode in which the player will guard automatically when they are in a pinch."
-	},
-	"0100E2F014F46000": {
-		"id": "0100E2F014F46000",
-		"name": "NINJA GAIDEN Σ",
-		"region": "US",
-		"size": 4123168604,
-		"releaseDate": 20210610,
-		"iconUrl": "https://ptpimg.me/9p7028.jpg",
-		"description": "In addition to being able to pull off unmatched dazzling techniques with Ryu Hayabusa, a young ninja who has inherited the ninja arts of the Hayabusa style, with beautiful stages in a westernized Japan embellished with spirit-world motifs, and more, the game is packed with features that are a must-play for any fan of action games."
-	},
-	"01002AF014F4C000": {
-		"id": "01002AF014F4C000",
-		"name": "NINJA GAIDEN 3 Razor's Edge",
-		"region": "US",
-		"size": 3854733148,
-		"releaseDate": 20210610,
-		"description": "The ultimate high-speed ninja action has returned! The game offers both extreme challenge, along with an equally extreme sense of accomplishment. Experience the series' most alluring high-speed action."
-	},
-	"0545014D32520000": {
-		"id": "0545014D32520000",
-		"name": "AM2R (Another Metroid 2 Remake) 1.5.2-NX",
-		"region": "US",
-		"releaseDate": 20210113,
-		"size": 150955224,
-		"iconUrl": "https://ptpimg.me/4oeg3n.jpg",
-		"description": "AM2R (Another Metroid 2 Remake) is an unofficial remake of the 1991 Game Boy game Metroid II: Return of Samus in the style of Metroid: Zero Mission (2004)."
-	},
-	"054548454C4C0000": {
-		"id": "054548454C4C0000",
-		"name": "Helltaker 1.0.3",
-		"region": "US",
-		"releaseDate": 20200708,
-		"size": 1175000,
-		"iconUrl": "https://i.postimg.cc/9QBcPfb9/300px-Helltaker-cover.jpg",
-		"description": "Helltaker 1.0.3 is an unofficial port of the pc game. You need to enable Install Unsigned Code in Tinfoil Options to install it because it is a modified NSP, but you can disable unsigned code after installation for safety. When enabling, Tinfoil will prompt you for the Konami Code: \n↑ ↑ ↓ ↓ ← → ← → B A +"
-	},
-	"0100C56012C96000": {
-		"id": "0100C56012C96000",
-		"region": "US",
-		"releaseDate": 20210128,
-		"iconUrl": "https://i.postimg.cc/ZYsj3jtZ/arkspace.png",
-		"size": 199229440,
-		"name": "Arkanoid vs. Space Invaders",
-		"description": "Two of the most iconic classic games ever made meet in Arkanoid vs Space Invaders! – Combines the exciting shoot ‘em up and block breaking gameplays in one game. Reflect the invaders bullets right back at them. Gather energy and trigger Attack Mode to destroy your enemies."
-	},
-	"0100E48013A34000": {
-		"id": "0100E48013A34000",
-		"name": "BALAN WONDERWORLD Demo",
-		"releaseDate": 20210128,
-		"size": 2448131358
-	},
-	"010075F0130E8000": {
-		"id": "010075F0130E8000",
-		"region": "JP",
-		"releaseDate": 20210128,
-		"iconUrl": "https://i.postimg.cc/W3hQjstC/Ringo-Budda.jpg",
-		"size": 419430400,
-		"name": "The Friends of Ringo Ishikawa and Arrest of a Stone Buddha",
-		"description": "The Friends of Ringo Ishikawa is a unique and immersive existential open world beat ‘em up. Experience the story, meet new characters, and explore the town.\n\nIn Arrest of a Stone Buddha, a hitman is searching for an answer in 1970s France."
-	},
-	"010096F00FF22000": {
-		"id": "010096F00FF22000",
-		"name": "Borderlands 2: Game of the Year Edition",
-		"releaseDate": 20200529,
-		"description": "Shoot and loot as you explore the mayhem-filled world of Pandora in Borderlands 2  in Borderlands: The Handsome Collection. Experience the award-winning FPS-RPG series, including its bazillions of guns, trademark cooperative gameplay, and piles of bonus add-on content.\n*Borderlands 2: Commander Lilith & the Fight for Sanctuary add-content not included."
-	},
-	"0100CCC0002E6000": {
-		"id": "0100CCC0002E6000",
-		"name": "SKYLANDERS IMAGINATORS",
-		"region": "US",
-		"releaseDate": 20170503,
-		"iconUrl": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/s/skylanders-imaginators-switch/Switch_SkylandersImaginators_description-char.jpg",
-		"description": "Unleash Imagination. Create Your Own Skylanders\n\nKaos has discovered the ancient power of Mind Magic and is using it to create an unstoppable army of Doomlanders! Eon is calling upon all Portal Masters and Skylands' greatest mystic warriors, the Senseis, to stop Kaos and his minions. Now, you must use the power of your imagination to create your own Skylanders to battle in the ultimate adventure alongside the almighty Senseis to save Skylands."
-	},
-	"01002FF008C24000": {
-		"id": "01002FF008C24000",
-		"name": "Ring Fit Adventure",
-		"region": "US",
-		"releaseDate": 20191018,
-		"iconUrl": "https://ptpimg.me/8ttm0h.jpg",
-		"description": "Traverse grass-swept plains by jogging in place, attack enemies with overhead shoulder presses, and refill your health meter by striking some yoga poses. Two new accessories, the Ring-Con™ and Leg Strap, measure your real-world actions and help turn them into in-game movements. With additional minigames and customizable workout routines, Ring Fit Adventure is great escape for players of all skill levels and schedules.\n\nIn Adventure mode, defeat enemies with attacks based on real-world exercises as you traverse more than 100 levels in over 20 worlds. As you work through each level (and possibly work up a sweat), you’ll earn experience points. Between fights, you may encounter some unusual methods of transportation such as squat-powered launch pads. Then, pass around the Ring-Con and leg strap accessories and select from a few minigames: break boxes with gusts of air, craft pottery using squats, and more."
-	},
-	"010007400FF24000": {
-		"id": "010007400FF24000",
-		"name": "Borderlands: The Pre-Sequel Ultimate Edition",
-		"region": "US",
-		"releaseDate": 20200529,
-		"iconUrl": "https://ptpimg.me/e8k7uc.jpg",
-		"description": "Shoot and loot as you explore the lunar madness of Borderlands: The Pre-Sequel in Borderlands: The Handsome Collection. Experience the award-winning FPS-RPG series, including its bazillions of guns, trademark cooperative gameplay, and piles of bonus add-on content."
-	},
-	"010000000E5EE000": {
-		"id": "010000000E5EE000",
-		"name": "8-BIT YU-NO'S GREAT ADVENTURE",
-		"region": "US",
-		"releaseDate": 20191001,
-		"iconUrl": "https://i.postimg.cc/q7sChcnR/8bit-art-320x229.jpg",
-		"description": "Experience an action game set in classic 8-bit style featuring the characters from YU-NO!"
-	},
-	"0100165003504000": {
-		"id": "0100165003504000",
-		"name": "Nintendo Labo Toy-Con 04: VR Kit",
-		"region": "US",
-		"releaseDate": 20190412,
-		"iconUrl": "https://labo.nintendo.com/assets/vr-box-500w.png",
-		"description": "Introducing the most immersive, robust Nintendo Labo kit to date—this one combines DIY fun, pass-and-play multiplayer, and family-friendly play with simple, shareable VR gaming. It even includes a programming tool you can use to create your very own VR games and experiences! Feel your creations come to life as you and your family blast through an alien invasion, create 3D works of art, dive into an oceanic photo safari, soar atop a bird, and go wherever else your imagination takes you."
-	},
-	"01001E9003502000": {
-		"id": "01001E9003502000",
-		"name": "Nintendo Labo Toy-Con 03: Vehicle Kit",
-		"region": "US",
-		"releaseDate": 20180914,
-		"iconUrl": "https://labo.nintendo.com/assets/product-vehicle-500w.png",
-		"description": "Feel like you’re really in the driver’s seat by using the Toy-Con Car, Pedal, and Key from your Nintendo Labo: Vehicle Kit to control your in-game vehicle in the Mario Kart 8 Deluxe game."
-	},
-	"01009AB0034E0000": {
-		"id": "01009AB0034E0000",
-		"name": "Nintendo Labo Toy-Con 02: Robot Kit",
-		"region": "US",
-		"releaseDate": 20180420,
-		"iconUrl": "https://labo.nintendo.com/assets/robot-box-500w.png",
-		"description": "Build a backpack and visor that let you control a huge on-screen robot. Then smash buildings, fly, transform into a tank, and much more!"
-	},
-	"0100C4B0034B2000": {
-		"id": "0100C4B0034B2000",
-		"name": "Nintendo Labo Toy-Con 01: Variety Kit",
-		"iconUrl": "https://labo.nintendo.com/assets/variety-box-500w.png",
-		"region": "US",
-		"releaseDate": 20180420,
-		"description": "The Variety Kit includes five different projects to Make, Play, and Discover: two Toy-Con RC Cars, a Toy-Con Fishing Rod, a Toy-Con House, a Toy-Con Motorbike, and a Toy-Con Piano!"
-	},
-	"0100CEB00C624000": {
-		"id": "0100CEB00C624000",
-		"releaseDate": 20181115,
-		"description": "Supported Language: Japanese."
-	},
-	"0100E9F00B882000": {
-		"id": "0100E9F00B882000",
-		"name": "8-BIT ADVENTURE STEINS;GATE",
-		"region": "US",
-		"releaseDate": 20190219,
-		"iconUrl": "https://img-eshop.cdn.nintendo.net/i/bd75737bc8223ec1c5c69bfb461521ff631bb23cdae74daf9c086d3d19ed1c47.jpg",
-		"description": "Steins;Gate: 8-BIT ADV is a brand new retro-styled spinoff game that was initially released alongside Nintendo Switch copies of Steins;Gate Elite in Japan. This pixel-filled adventure introduces a brand new Steins;Gate side story, and accurately captures the presentation style of most traditional NES games."
-	},
-	"010060700EFBA000": {
-		"id": "010060700EFBA000",
-		"name": "Cooking Mama: Cookstar",
-		"region": "US",
-		"releaseDate": 20200331,
-		"iconUrl": "https://i.postimg.cc/HWXSkbcJ/010060700efba000-icon.jpg",
-		"description": "Cooking Mama is back with her most awesome and fun video game adventure ever. Cooking Mama: CookStar is a brand new Cooking Mama experience specially designed for the console. Cooking Mama: CookStar offers over 90 incredible new recipes that players have to master. The menu ranges from classic Japanese recipes to the most delicious home-style cooking and the culinary soul consolation of today. Cooking Mama offers something for every taste. Not a carnivore? No problem! For the first time ever, Cooking Mama offers both traditional and vegetarian recipes: burritos, bibimbap, bubble tea, baked Alaska, poke bowls and much more. Explore the diverse menu to find out what suits your tastes; you don't think you have what it takes to become a master chef? Don't worry, mom will take care of it! Just follow mom's instructions and create delicious and decadent treats that you can share with your friends. Chop, chop, cut, and dice! With mom's help, you become the greatest culinary artist in the world."
-	},
-	"054507E0B7552000": {
-		"id": "054507E0B7552000",
-		"name": "Super Mario 64 v8",
-		"region": "US",
-		"releaseDate": 20200918,
-		"iconUrl": "https://ptpimg.me/xna2p5.jpg",
-		"description": "Super Mario 64 was the original launch and pack-in title for the Nintendo 64. Developed by Shigeru Miyamoto's team at Nintendo EAD, it was released alongside the console on September 29th, 1996 in North America. The game pioneered many elements of the 3D subgenre of platformer. The game sold over 11.8 million copies worldwide and was also one of the first N64 games available for the Wii's Virtual Console collection of retro releases. The plot of Super Mario 64 starts off with Mario arriving at Princess Peach's castle at her invitation and promise of cake. However, upon arriving, he finds the castle nearly deserted and learns that the evil Bowser has once again abducted her. In order to stop Bowser and rescue the princess, Mario must explore the worlds within a series of paintings hanging in various rooms throughout the castle and collect the power stars hidden in each. Only once he has the necessary stars will he be able to face off against Bowser and save Peach."
-	},
-	"010045800ED1E000": {
-		"id": "010045800ED1E000",
-		"name": "Shin Megami Tensei III NOCTURNE HD (真・女神転生Ⅲ)"
-	},
-	"01001C400E9D8000": {
-		"id": "01001C400E9D8000",
-		"name": "Persona 5 Scramble: The Phantom Strikers (ペルソナ５ スクランブル)"
-	},
-	"0100B020117D8000": {
-		"id": "0100B020117D8000",
-		"name": "Atelier Ryza 2 (ライザのアトリエ２)"
-	},
-	"010002900294A000": {
-		"id": "010002900294A000",
-		"region": "US",
-		"releaseDate": 20170509,
-		"name": "NBA Playgrounds - Original Edition"
-	},
-	"01004DB00BC70000": {
-		"id": "01004DB00BC70000",
-		"region": "JP",
-		"releaseDate": 20180920,
-		"name": "DRAGON BALL Z Super Butoden"
-	},
-	"01002E50126B2000": {
-		"id": "01002E50126B2000",
-		"region": "JP",
-		"releaseDate": 20200827,
-		"name": "KonoSuba: この素晴らしい世界に祝福を！　カズマの飛び出せ大冒険！"
-	},
-	"0100D7D00E5A8000": {
-		"id": "0100D7D00E5A8000",
-		"region": "JP",
-		"releaseDate": 20191129
-	},
-	"010020F01272A000": {
-		"id": "010020F01272A000",
-		"region": "JP",
-		"releaseDate": 20201029
-	},
-	"0100AA20125D6000": {
-		"id": "0100AA20125D6000",
-		"region": "US",
-		"releaseDate": 20200720,
-		"name": "Cris Tales Demo",
-		"size": 800000000
-	},
-	"0100C0000CEEA000": {
-		"id": "0100C0000CEEA000",
-		"name": "Yo-kai Watch 1 (妖怪ウォッチ1)"
-	},
-	"05C8E9A645B8A000": {
-		"id": "05C8E9A645B8A000",
-		"region": "US",
-		"releaseDate": 20210119,
-		"iconUrl": "https://i.postimg.cc/kX6SHB25/image.png",
-		"name": "Sonic The Hedgehog 2",
-		"size": 50053848,
-		"description": "One of the greatest adventures of all time re-mastered for Nintendo Switch! This definitive version has been fully built from the ground up for Nintendo Switch, featuring re-mastered graphics and audio, and all new game content.\n\nA CLASSIC ADVENTURE\n\nRace as Sonic and Tails through high speed environments, or aim for the high score in Sonic 2's iconic half pipe Special Stage.\n\nEXCLUSIVE NEW CONTENT\n\nAn all new 'Boss Attack mode' challenges the player to defeat all of the game's devious bosses in one run. Additionally choose to play the game as Knuckles in addition to Sonic and Tails.\n\nEXCLUSIVE NEW LEVELS\n\nFor the first time ever explore the mysterious Hidden Palace Zone. These lost levels feature undiscovered enemies, new hazards and a climatic showdown with Dr. Eggman.\n\nREMASTERED FOR SWITCH\n\nRebuilt from the ground up, Sonic The Hedgehog 2 offers upgraded graphics, including widescreen display and a smooth 60fps frame rate, plus a re-mastered soundtrack."
-	},
-	"0579FF579A28A000": {
-		"id": "0579FF579A28A000",
-		"region": "US",
-		"releaseDate": 20210119,
-		"iconUrl": "https://i.postimg.cc/J0FsSSPg/Sonic1-2013-icon.png",
-		"size": 40682200,
-		"name": "Sonic The Hedgehog 1",
-		"description": "This re-mastered version of the SEGA Genesis classic features the full Sonic The Hedgehog game, plus these EXCLUSIVE features:\n\nNEW PLAYABLE CHARACTERS\n\nPlay as Sonic's friends Tails & Knuckles for the first time. Use their unique abilities to fly, climb, and glide around levels offering exciting new ways to explore.\n\nOPTIMIZED FOR SWITCH\n\nSonic The Hedgehog now plays in widescreen at a smooth 60FPS offering unrivalled performance and the game's legendary soundtrack has been fully re-mastered.\n\nGOTTA GO FAST\n\nChallenge yourself with an all-new Time Attack Mode!\n\nCONTROLLER SUPPORT"
-	},
-	"010043A0132AA000": {
-		"id": "010043A0132AA000",
-		"region": "GB",
-		"releaseDate": 20201126,
-		"iconUrl": "https://img-eshop.cdn.nintendo.net/i/c955563dd9946e38c05d63accf8f824598e584fb7874738431c187b4a1e798eb.jpg",
-		"size": 394264576,
-		"name": "Ubongo - Deluxe Edition",
-		"description": "Fast-paced, addictive, and easy to learn."
-	},
-	"01002F101340C000": {
-		"id": "01002F101340C000",
-		"region": "US",
-		"releaseDate": 20210222,
-		"iconUrl": "https://i.postimg.cc/Gh61Lz00/p5sb.jpg",
-		"size": 2265595248,
-		"name": "Persona 5 Strikers Bonus Content",
-		"description": "Pre-order Persona 5 Strikers and get access to exclusive digital bonus content at launch! Go behind the scenes with a digital art book, development videos, and a digital soundtrack with over 40 songs from the game!"
-	},
-	"01009DE010F48000": {
-		"id": "01009DE010F48000",
-		"region": "HK",
-		"releaseDate": 20201224,
-		"iconUrl": "https://i.postimg.cc/rpz7Q0VF/dance.jpg",
-		"size": 7399257088,
-		"name": "Just Dance 2020 China Ver."
-	},
-	"05003A400C3DA000": {
-		"id": "05003A400C3DA000",
-		"releaseDate": 20210215,
-		"size": 83000024,
-		"name": "Youtube v1.0.3 Patched",
-		"description": "The latest patched YouTube v1.0.3 that works without connecting to Nintendo. The base game has the update included. You need to enable Install Unsigned Code in Tinfoil Options to install it because it is a modified NSP, but you can disable unsigned code after installation for safety. When enabling, Tinfoil will prompt you for the Konami Code: \n↑ ↑ ↓ ↓ ← → ← → B A +"
-	},
-	"0500E1F003EE8000": {
-		"id": "0500E1F003EE8000",
-		"name": "The Jackbox Party Pack 4 v1.1.0 Patched",
-		"region": "US",
-		"size": 940516836,
-		"iconURL": "https://i.postimg.cc/K83pFfS9/j4.jpg",
-		"releaseDate": 20210905,
-		"description": "The latest patched Jackbox 4 that works without connecting to Nintendo. The base game has the v1.1.0 update included."
-	},
-	"0500AE5003EE6000": {
-		"id": "0500AE5003EE6000",
-		"name": "The Jackbox Party Pack Patched",
-		"region": "US",
-		"size": 1109690300,
-		"iconURL": "https://i.postimg.cc/fWjZG1GR/j.jpg",
-		"releaseDate": 20210905,
-		"description": "The latest patched Jackbox that works without connecting to Nintendo."
-	},
-	"050015D003EE4000": {
-		"id": "050015D003EE4000",
-		"name": "The Jackbox Party Pack 2 Patched",
-		"region": "US",
-		"size": 599171356,
-		"iconURL": "https://i.postimg.cc/BvXnsNxw/j2.jpg",
-		"releaseDate": 20210905,
-		"description": "The latest patched Jackbox 2 that works without connecting to Nintendo."
-	},
-	"0500CC80013D6000": {
-		"id": "0500CC80013D6000",
-		"name": "The Jackbox Party Pack 3 Patched",
-		"region": "US",
-		"size": 1384575216,
-		"iconURL": "https://i.postimg.cc/sDMJbCLk/j3.jpg",
-		"releaseDate": 20210905,
-		"description": "The latest patched Jackbox 3 that works without connecting to Nintendo."
-	},
-	"05005A400DB52000": {
-		"id": "05005A400DB52000",
-		"name": "The Jackbox Party Pack 6 v1.1.0 Patched",
-		"region": "US",
-		"size": 2087756550,
-		"iconURL": "https://i.postimg.cc/265D9C4g/j6.jpg",
-		"releaseDate": 20210905,
-		"description": "The latest patched Jackbox 6 that works without connecting to Nintendo. The base game has the v1.1.0 update included."
-	},
-	"05006FE0096AC000": {
-		"id": "05006FE0096AC000",
-		"name": "The Jackbox Party Pack 5 v1.0.1 Patched",
-		"region": "US",
-		"size": 2045552907,
-		"iconURL": "https://i.postimg.cc/LXDkhwmR/j5.jpg",
-		"releaseDate": 20210905,
-		"description": "The latest patched Jackbox 5 that works without connecting to Nintendo. The base game has the v1.0.1 update included."
-	},
-	"05007F30113A6000": {
-		"id": "05007F30113A6000",
-		"name": "The Jackbox Party Pack 7 v1.0.1 Patched",
-		"region": "US",
-		"size": 1786311384,
-		"iconURL": "https://i.postimg.cc/7PpyYZZx/j7.jpg",
-		"releaseDate": 20210905,
-		"description": "The latest patched Jackbox 7 that works without connecting to Nintendo. The base game has the v1.0.1 update included."
-	},
-        "0100358015762000": {
-                "id": "0100358015762000",
-                "name": "CLOSER - anagnorisis",
-                "region": "US",
-                "size": 383254528,
-                "releaseDate": 20210706
-	},
-        "01002FC010240000": {
-                "id": "01002FC010240000",
-                "name": "Axiom Verge 2",
-                "region": "US",
-                "releaseDate": 20210812
-	},
-	"05450B00BA020000": {
-                "id": "05450B00BA020000",
-                "name": "AM2R (Another Metroid 2 Remake) 1.5.2-nx fix4",
-                "region": "US",
-                "releaseDate": 20210908,
-                "size": 159000000,
-                "iconUrl": "https://i.postimg.cc/gkv7BNBC/a.jpg",
-                "description": "AM2R (Another Metroid 2 Remake) is an unofficial remake of the 1991 Game Boy game Metroid II: Return of Samus in the style of Metroid: Zero Mission (2004).\n\nThis version fixes the game-breaking bugs."
+    "01006E6017792000": {
+        "id": "01006E6017792000",
+        "region": "US",
+        "releaseDate": 20220608,
+        "name": "Fire Emblem Warriors Three Hopes Demo"
     },
-	"0100000011D90000": {
-		"id": "0100000011D90000",
-		"name": "Pokémon™ Brilliant Diamond",
-		"region": "US",
-		"releaseDate": 20211119,
-		"iconUrl": "https://i.postimg.cc/NM2vdmgF/1.jpg",
-		"description": "Experience the nostalgic story from the Pokémon Diamond Version game in a reimagined adventure, Pokémon™ Brilliant Diamond, now on the Nintendo Switch™ system! Adventures in the Pokémon Brilliant Diamond game will take place in the familiar Sinnoh region. Rich in nature and with mighty Mount Coronet at its heart, Sinnoh is a land of many myths passed down through the ages. You’ll choose either Turtwig, Chimchar, or Piplup to be your first partner Pokémon and then set off on your journey to become the Champion of the Pokémon League. Along the way, you’ll run into the mysterious organization Team Galactic, and be able to encounter the Legendary Pokémon Dialga."
-	},
-	"010065A014024000": {
-		"id": "010065A014024000",
-		"name": "Grand Theft Auto San Andreas – The Definitive Edition",
-		"region": "US",
-		"releaseDate": 20211111,
-		"iconUrl": "https://i.postimg.cc/d1z5PXVh/gta.png",
-		"description": "Five years ago, Carl ‘CJ’ Johnson escaped the haze of Los Santos, San Andreas...a city tearing itself apart with gang trouble, drugs, and corruption. Now, it's the early 90s. CJ’s got to go home - his mother has been murdered, his family has fallen apart, and his childhood friends are all heading towards disaster. On his return to the neighborhood, a couple of cops frame him for homicide, forcing CJ on a journey that takes him across the entire state of San Andreas, to save his family and to take control of the streets in the next iteration of the series that changed everything."
-	},
-	"0100C3C012718000": {
-		"id": "0100C3C012718000",
-		"name": "Grand Theft Auto III – The Definitive Edition",
-		"region": "US",
-		"releaseDate": 20211111,
-		"iconUrl": "https://i.postimg.cc/d1z5PXVh/gta.png",
-		"description": "It all starts in Liberty City. With the revolutionary freedom to go anywhere and jack anyone, Grand Theft Auto III puts the center of the criminal underworld at your fingertips, if you have enough guts to take it."
-	},
-	"0100182014022000": {
-		"id": "0100182014022000",
-		"name": "Grand Theft Auto Vice City – The Definitive Edition",
-		"region": "US",
-		"releaseDate": 20211111,
-		"iconUrl": "https://i.postimg.cc/d1z5PXVh/gta.png",
-		"description": "Welcome to the 1980s. From the decade of big hair and pastel suits comes the story of one man's rise to the top of the criminal pile. Grand Theft Auto returns with Tommy Vercetti’s tale of betrayal and revenge in a neon-soaked tropical town full of excess and brimming with possibilities."
-	},
-	"01003C300B274000": {
-		"id": "01003C300B274000",
-		"name": "The Battle Cats Unite (ふたりで！にゃんこ大戦争)"
-	}
+    "0100B2C01470C000": {
+        "id": "0100B2C01470C000",
+        "name": "NINJA GAIDEN Master Collection Digital Art Book & Soundtrack",
+        "region": "US",
+        "size": 2029372047,
+        "releaseDate": 20210610,
+        "description": "A Digital Art Book & Soundtrack that include visuals, still images, and music tracks from series history."
+    },
+    "05004B900049001C": {
+        "id": "05004B900049001C",
+        "name": "Nintendo Game Boy Emulator - TETRIS (EN)(TOUCH V3)",
+        "region": "JP",
+        "releaseDate": 20220418,
+        "description": "hiyoko",
+        "iconUrl": "https://i.postimg.cc/tC6k1cJb/g.jpg"
+    },
+    "05004B9000490000": {
+        "id": "05004B9000490000",
+        "name": "Nintendo Game Boy Color Emulator -  Zelda no Densetsu - Yume o Miru Shima DX (JP)",
+        "region": "JP",
+        "releaseDate": 20220418,
+        "description": "hiyoko",
+        "iconUrl": "https://i.postimg.cc/Y0H9dj6b/d.jpg"
+    },
+    "05004B9000490011": {
+        "id": "05004B9000490011",
+        "name": "Nintendo Game Boy Emulator - Super Mario Land",
+        "region": "JP",
+        "releaseDate": 20220418,
+        "description": "hiyoko",
+        "iconUrl": "https://i.postimg.cc/tC6k1cJb/g.jpg"
+    }, 
+    "05004B9000490015": {
+        "id": "05004B9000490015",
+        "name": "Nintendo Game Boy Emulator - QIX (EN)(Touch V2)",
+        "region": "JP",
+        "releaseDate": 20220418,
+        "description": "hiyoko",
+        "iconUrl": "https://i.postimg.cc/tC6k1cJb/g.jpg"
+    }, 
+    "05008BF00A1C8000": {
+        "id": "05008BF00A1C8000",
+        "name": "Nintendo Game Boy Advance Emulator - Sloop",
+        "region": "JP",
+        "releaseDate": 20220422,
+        "description": "GBA Emulator",
+        "iconUrl": "https://i.postimg.cc/wvW0s7qv/s.jpg"
+    }, 
+    "050050CE11E48000": {
+        "id": "050050CE11E48000",
+        "name": "Anime Movie Player - Made in Abyss",
+        "region": "JP",
+        "iconUrl": "https://i.postimg.cc/DzrcP748/a.jpg",
+        "releaseDate": 20220409,
+        "description": "The Abyss—a gaping chasm stretching down into the depths of the earth, filled with mysterious creatures and relics from a time long past. How did it come to be? What lies at the bottom? Countless brave individuals, known as Divers, have sought to solve these mysteries of the Abyss, fearlessly descending into its darkest realms. The best and bravest of the Divers, the White Whistles, are hailed as legends by those who remain on the surface."
+    },
+    "05005E2892018000": {
+        "id": "05005E2892018000",
+        "releaseDate": 20220616,
+        "region": "US",
+        "iconUrl": "https://i.postimg.cc/FzMMJ9JD/z.jpg",
+        "name": "ZeroRanger fix5",
+        "description": "ZeroRanger is a vertically-scrolling 2D co-op shoot'em up with heavy emphasis on shooting, dodging and... mystery?\n\nVersion 2021 fix 1:\n-Fix collision boxes being slightly wrong in all sprites\n-Improve performance in specific areas of the game (there are still some areas with performance issues remaining)\n-Organise sprites into texture groups for better performance overall\n-Fix text formatting throughout the game\n-Fix rank calculation for white vanilla\n\nfix2\n-Fixed all areas with performance issues except one the Switch is not able to handle\n-Fixed a certain power up not reflecting bullets\n-Fixed a certain projectile's radius when interacting with player projectiles\n-Fixed another projectile's rotation being wrong in a specific scenario\n-Account selection is now in the menu\nReally fix text formatting\n\nfix3\n-new port exclusive feature: after unlocking the gallery, you may put the images you unlock on either side of the screen (if you're using a configuration where the sides of the screen are blank)\n-A is now the accept button, as is standard for Switch games\n-you now must hold R (or whatever button you configured FIRE 3 to be) to go to the main menu from the pause menu, so you don't do it by accident\n-you now have to press yes on the initial start prompt\n-fixed some odd issues related to saving\n-fixed rotation issue with 2-1 boss (which you probably would have never noticed since he dies incredibly quickly)\n-fixed something incredibly important that I have no idea how I missed related to the final fight\n-more performance fixes\n\nfix4\n-wallpapers now work properly on docked\n-account selection fixed\n\nfix5\nfix white vanilla fast scrolling\n-fix missing flower on white vanilla game over"
+    },
+    "050050CE11E58000": {
+        "id": "050050CE11E58000",
+        "name": "Anime Movie Player - ERASED",
+        "region": "JP",
+        "iconUrl": "https://i.postimg.cc/V6tL694C/e.jpg",
+        "releaseDate": 20220409,
+        "description": "When tragedy is about to strike, Satoru Fujinuma finds himself sent back several minutes before the accident occurs. The detached, 29-year-old manga artist has taken advantage of this powerful yet mysterious phenomenon, which he calls Revival, to save many lives."
+    },
+    "0100696014F4A000": {
+        "id": "0100696014F4A000",
+        "name": "NINJA GAIDEN Σ2",
+        "region": "US",
+        "size": 3360811909,
+        "releaseDate": 20210610,
+        "iconUrl": "https://i.postimg.cc/ZnyjfZQf/2.jpg",
+        "description": "Become Ryu Hayabusa, the ninja who inherited the Dragon Sword, a legendary blade, and once again experience high-speed ninja action in which you face battles all over the world. The game is also packed with additional features such as Hero Mode, a mode in which the player will guard automatically when they are in a pinch."
+    },
+    "0100B77012BD4000": {
+        "id": "0100B77012BD4000",
+        "region": "JP",
+        "releaseDate": 20210610,
+        "name": "NINJA GAIDEN Σ"
+    },
+    "0100628012BD6000": {
+        "id": "0100628012BD6000",
+        "region": "JP",
+        "releaseDate": 20210610,
+        "name": "NINJA GAIDEN Σ2"
+    },
+    "0100A9C00C5C4000": {
+        "id": "0100A9C00C5C4000",
+        "region": "GB",
+        "releaseDate": 20190219,
+        "name": "8-BIT ADVENTURE STEINS;GATE"
+    },
+    "01005EB00F95C000": {
+        "id": "01005EB00F95C000",
+        "region": "JP",
+        "releaseDate": 20191128,
+        "name": "Is It Wrong to Try to Shoot 'Em Up Girls in a Dungeon"
+    },
+    "0100E2F014F46000": {
+        "id": "0100E2F014F46000",
+        "name": "NINJA GAIDEN Σ",
+        "size": 4123168604,
+        "region": "US",
+        "releaseDate": 20210610,
+        "iconUrl": "https://i.postimg.cc/Bv5HhbN7/n.jpg",
+        "description": "In addition to being able to pull off unmatched dazzling techniques with Ryu Hayabusa, a young ninja who has inherited the ninja arts of the Hayabusa style, with beautiful stages in a westernized Japan embellished with spirit-world motifs, and more, the game is packed with features that are a must-play for any fan of action games."
+    },
+    "01002AF014F4C000": {
+        "id": "01002AF014F4C000",
+        "name": "NINJA GAIDEN 3 Razor's Edge",
+        "region": "US",
+        "size": 3854733148,
+        "releaseDate": 20210610,
+        "description": "The ultimate high-speed ninja action has returned! The game offers both extreme challenge, along with an equally extreme sense of accomplishment. Experience the series' most alluring high-speed action."
+    },
+    "0100C56012C96000": {
+        "id": "0100C56012C96000",
+        "region": "US",
+        "releaseDate": 20210128,
+        "size": 199229440,
+        "iconUrl": "https://i.postimg.cc/ZYsj3jtZ/arkspace.png",
+        "name": "Arkanoid vs. Space Invaders",
+        "description": "Two of the most iconic classic games ever made meet in Arkanoid vs Space Invaders! – Combines the exciting shoot ‘em up and block breaking gameplays in one game. Reflect the invaders bullets right back at them. Gather energy and trigger Attack Mode to destroy your enemies."
+    },
+    "010075F0130E8000": {
+        "id": "010075F0130E8000",
+        "size": 419430400,
+        "region": "JP",
+        "releaseDate": 20210128,
+        "iconUrl": "https://i.postimg.cc/W3hQjstC/Ringo-Budda.jpg",
+        "name": "The Friends of Ringo Ishikawa and Arrest of a Stone Buddha",
+        "description": "The Friends of Ringo Ishikawa is a unique and immersive existential open world beat ‘em up. Experience the story, meet new characters, and explore the town.\n\nIn Arrest of a Stone Buddha, a hitman is searching for an answer in 1970s France."
+    },
+    "010096F00FF22000": {
+        "id": "010096F00FF22000",
+        "name": "Borderlands 2: Game of the Year Edition",
+        "releaseDate": 20200529,
+        "description": "Shoot and loot as you explore the mayhem-filled world of Pandora in Borderlands 2  in Borderlands: The Handsome Collection. Experience the award-winning FPS-RPG series, including its bazillions of guns, trademark cooperative gameplay, and piles of bonus add-on content.\n*Borderlands 2: Commander Lilith & the Fight for Sanctuary add-content not included."
+    },
+    "0100CCC0002E6000": {
+        "id": "0100CCC0002E6000",
+        "name": "SKYLANDERS IMAGINATORS",
+        "region": "US",
+        "releaseDate": 20170503,
+        "iconUrl": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/s/skylanders-imaginators-switch/Switch_SkylandersImaginators_description-char.jpg",
+        "description": "Unleash Imagination. Create Your Own Skylanders\n\nKaos has discovered the ancient power of Mind Magic and is using it to create an unstoppable army of Doomlanders! Eon is calling upon all Portal Masters and Skylands' greatest mystic warriors, the Senseis, to stop Kaos and his minions. Now, you must use the power of your imagination to create your own Skylanders to battle in the ultimate adventure alongside the almighty Senseis to save Skylands."
+    },
+    "01002FF008C24000": {
+        "id": "01002FF008C24000",
+        "name": "Ring Fit Adventure",
+        "region": "US",
+        "releaseDate": 20191018,
+        "iconUrl": "https://i.postimg.cc/CMDQHsVw/r.jpg",
+        "description": "Traverse grass-swept plains by jogging in place, attack enemies with overhead shoulder presses, and refill your health meter by striking some yoga poses. Two new accessories, the Ring-Con™ and Leg Strap, measure your real-world actions and help turn them into in-game movements. With additional minigames and customizable workout routines, Ring Fit Adventure is great escape for players of all skill levels and schedules.\n\nIn Adventure mode, defeat enemies with attacks based on real-world exercises as you traverse more than 100 levels in over 20 worlds. As you work through each level (and possibly work up a sweat), you’ll earn experience points. Between fights, you may encounter some unusual methods of transportation such as squat-powered launch pads. Then, pass around the Ring-Con and leg strap accessories and select from a few minigames: break boxes with gusts of air, craft pottery using squats, and more."
+    },
+    "010000000E5EE000": {
+        "id": "010000000E5EE000",
+        "name": "8-BIT YU-NO'S GREAT ADVENTURE",
+        "region": "US",
+        "releaseDate": 20191001,
+        "iconUrl": "https://i.postimg.cc/nhL25vNj/y.jpg",
+        "description": "Experience an action game set in classic 8-bit style featuring the characters from YU-NO!"
+    },
+    "0100165003504000": {
+        "id": "0100165003504000",
+        "name": "Nintendo Labo Toy-Con 04: VR Kit",
+        "region": "US",
+        "releaseDate": 20190412,
+        "iconUrl": "https://i.postimg.cc/SK6nfPVW/v.jpg",
+        "description": "Introducing the most immersive, robust Nintendo Labo kit to date—this one combines DIY fun, pass-and-play multiplayer, and family-friendly play with simple, shareable VR gaming. It even includes a programming tool you can use to create your very own VR games and experiences! Feel your creations come to life as you and your family blast through an alien invasion, create 3D works of art, dive into an oceanic photo safari, soar atop a bird, and go wherever else your imagination takes you."
+    },
+    "01001E9003502000": {
+        "id": "01001E9003502000",
+        "name": "Nintendo Labo Toy-Con 03: Vehicle Kit",
+        "region": "US",
+        "releaseDate": 20180914,
+        "iconUrl": "https://i.postimg.cc/5NWNngYg/k.jpg",
+        "description": "Feel like you’re really in the driver’s seat by using the Toy-Con Car, Pedal, and Key from your Nintendo Labo: Vehicle Kit to control your in-game vehicle in the Mario Kart 8 Deluxe game."
+    },
+    "01009AB0034E0000": {
+        "id": "01009AB0034E0000",
+        "name": "Nintendo Labo Toy-Con 02: Robot Kit",
+        "region": "US",
+        "releaseDate": 20180420,
+        "iconUrl": "https://i.postimg.cc/VvQ1Zs6v/b.jpg",
+        "description": "Build a backpack and visor that let you control a huge on-screen robot. Then smash buildings, fly, transform into a tank, and much more!"
+    },
+    "0100C4B0034B2000": {
+        "id": "0100C4B0034B2000",
+        "name": "Nintendo Labo Toy-Con 01: Variety Kit",
+        "iconUrl": "https://i.postimg.cc/PJjsz638/l.jpg",
+        "region": "US",
+        "releaseDate": 20180420,
+        "description": "The Variety Kit includes five different projects to Make, Play, and Discover: two Toy-Con RC Cars, a Toy-Con Fishing Rod, a Toy-Con House, a Toy-Con Motorbike, and a Toy-Con Piano!"
+    },
+    "01008CF014560000": {
+        "id": "01008CF014560000",
+        "region": "US",
+        "releaseDate": 20210528,
+        "name": "Monster World IV"
+    },
+    "0100CEB00C624000": {
+        "id": "0100CEB00C624000",
+        "releaseDate": 20181115,
+        "description": "Supported Language: Japanese."
+    },
+    "0100E9F00B882000": {
+        "id": "0100E9F00B882000",
+        "name": "8-BIT ADVENTURE STEINS;GATE",
+        "region": "US",
+        "releaseDate": 20190219,
+        "iconUrl": "https://i.postimg.cc/jS914gCd/8.jpg",
+        "description": "Steins;Gate: 8-BIT ADV is a brand new retro-styled spinoff game that was initially released alongside Nintendo Switch copies of Steins;Gate Elite in Japan. This pixel-filled adventure introduces a brand new Steins;Gate side story, and accurately captures the presentation style of most traditional NES games."
+    },
+    "010060700EFBA000": {
+        "id": "010060700EFBA000",
+        "name": "Cooking Mama: Cookstar",
+        "region": "US",
+        "releaseDate": 20200331,
+        "iconUrl": "https://i.postimg.cc/ZKnjs8G9/c.jpg",
+        "description": "Cooking Mama is back with her most awesome and fun video game adventure ever. Cooking Mama: CookStar is a brand new Cooking Mama experience specially designed for the console. Cooking Mama: CookStar offers over 90 incredible new recipes that players have to master. The menu ranges from classic Japanese recipes to the most delicious home-style cooking and the culinary soul consolation of today. Cooking Mama offers something for every taste. Not a carnivore? No problem! For the first time ever, Cooking Mama offers both traditional and vegetarian recipes: burritos, bibimbap, bubble tea, baked Alaska, poke bowls and much more. Explore the diverse menu to find out what suits your tastes; you don't think you have what it takes to become a master chef? Don't worry, mom will take care of it! Just follow mom's instructions and create delicious and decadent treats that you can share with your friends. Chop, chop, cut, and dice! With mom's help, you become the greatest culinary artist in the world."
+    },
+    "054507E0B7552000": {
+        "id": "054507E0B7552000",
+        "name": "Super Mario 64 v8",
+        "region": "US",
+        "releaseDate": 20200918,
+        "iconUrl": "https://i.postimg.cc/NMGR9YYy/m.jpg",
+        "description": "Super Mario 64 was the original launch and pack-in title for the Nintendo 64. Developed by Shigeru Miyamoto's team at Nintendo EAD, it was released alongside the console on September 29th, 1996 in North America. The game pioneered many elements of the 3D subgenre of platformer. The game sold over 11.8 million copies worldwide and was also one of the first N64 games available for the Wii's Virtual Console collection of retro releases. The plot of Super Mario 64 starts off with Mario arriving at Princess Peach's castle at her invitation and promise of cake. However, upon arriving, he finds the castle nearly deserted and learns that the evil Bowser has once again abducted her. In order to stop Bowser and rescue the princess, Mario must explore the worlds within a series of paintings hanging in various rooms throughout the castle and collect the power stars hidden in each. Only once he has the necessary stars will he be able to face off against Bowser and save Peach."
+    },
+    "010045800ED1E000": {
+        "id": "010045800ED1E000",
+        "name": "Shin Megami Tensei III NOCTURNE HD (真・女神転生Ⅲ)"
+    },
+    "01001C400E9D8000": {
+        "id": "01001C400E9D8000",
+        "name": "Persona 5 Scramble: The Phantom Strikers (ペルソナ５ スクランブル)"
+    },
+    "0100B020117D8000": {
+        "id": "0100B020117D8000",
+        "name": "Atelier Ryza 2 (ライザのアトリエ２)"
+    },
+    "010002900294A000": {
+        "id": "010002900294A000",
+        "region": "US",
+        "releaseDate": 20170509,
+        "name": "NBA Playgrounds - Original Edition"
+    },
+    "01004DB00BC70000": {
+        "id": "01004DB00BC70000",
+        "region": "JP",
+        "releaseDate": 20180920,
+        "name": "DRAGON BALL Z Super Butoden"
+    },
+    "01002E50126B2000": {
+        "id": "01002E50126B2000",
+        "region": "JP",
+        "releaseDate": 20200827,
+        "name": "KonoSuba: この素晴らしい世界に祝福を！　カズマの飛び出せ大冒険！"
+    },
+    "0100D7D00E5A8000": {
+        "id": "0100D7D00E5A8000",
+        "region": "JP",
+        "releaseDate": 20191129
+    },
+    "010020F01272A000": {
+        "id": "010020F01272A000",
+        "region": "JP",
+        "releaseDate": 20201029,
+        "name": "KAMEN RIDER memory of heroez DIGITAL ART COLLECTION"
+    },
+    "0100C0000CEEA000": {
+        "id": "0100C0000CEEA000",
+        "name": "Yo-kai Watch 1 (妖怪ウォッチ1)"
+    },
+    "05C8E9A645B8A000": {
+        "id": "05C8E9A645B8A000",
+        "size": 50053848,
+        "region": "US",
+        "releaseDate": 20210119,
+        "iconUrl": "https://i.postimg.cc/9XKqVy4w/s.jpg",
+        "name": "Sonic The Hedgehog 2",
+        "description": "One of the greatest adventures of all time re-mastered for Nintendo Switch! This definitive version has been fully built from the ground up for Nintendo Switch, featuring re-mastered graphics and audio, and all new game content.\n\nA CLASSIC ADVENTURE\n\nRace as Sonic and Tails through high speed environments, or aim for the high score in Sonic 2's iconic half pipe Special Stage.\n\nEXCLUSIVE NEW CONTENT\n\nAn all new 'Boss Attack mode' challenges the player to defeat all of the game's devious bosses in one run. Additionally choose to play the game as Knuckles in addition to Sonic and Tails.\n\nEXCLUSIVE NEW LEVELS\n\nFor the first time ever explore the mysterious Hidden Palace Zone. These lost levels feature undiscovered enemies, new hazards and a climatic showdown with Dr. Eggman.\n\nREMASTERED FOR SWITCH\n\nRebuilt from the ground up, Sonic The Hedgehog 2 offers upgraded graphics, including widescreen display and a smooth 60fps frame rate, plus a re-mastered soundtrack."
+    },
+    "0579FF579A28A000": {
+        "id": "0579FF579A28A000",
+        "region": "US",
+        "releaseDate": 20210119,
+        "size": 40682200,
+        "iconUrl": "https://i.postimg.cc/vBjt6BzP/1.jpg",
+        "name": "Sonic The Hedgehog 1",
+        "description": "This re-mastered version of the SEGA Genesis classic features the full Sonic The Hedgehog game, plus these EXCLUSIVE features:\n\nNEW PLAYABLE CHARACTERS\n\nPlay as Sonic's friends Tails & Knuckles for the first time. Use their unique abilities to fly, climb, and glide around levels offering exciting new ways to explore.\n\nOPTIMIZED FOR SWITCH\n\nSonic The Hedgehog now plays in widescreen at a smooth 60FPS offering unrivalled performance and the game's legendary soundtrack has been fully re-mastered.\n\nGOTTA GO FAST\n\nChallenge yourself with an all-new Time Attack Mode!\n\nCONTROLLER SUPPORT"
+    },
+    "010043A0132AA000": {
+        "id": "010043A0132AA000",
+        "region": "GB",
+        "releaseDate": 20201126,
+        "size": 394264576,
+        "iconUrl": "hhttps://i.postimg.cc/FzV1XC7j/u.jpg",
+        "name": "Ubongo - Deluxe Edition",
+        "description": "Fast-paced, addictive, and easy to learn."
+    },
+    "01002F101340C000": {
+        "id": "01002F101340C000",
+        "region": "US",
+        "releaseDate": 20210222,
+        "size": 2265595248,
+        "iconUrl": "https://i.postimg.cc/HxHg1Y5h/5.jpg",
+        "description": "Pre-order Persona 5 Strikers and get access to exclusive digital bonus content at launch! Go behind the scenes with a digital art book, development videos, and a digital soundtrack with over 40 songs from the game!"
+    },
+    "05003A400C3DA000": {
+        "id": "05003A400C3DA000",
+        "releaseDate": 20210905,
+        "region": "US",
+        "iconUrl": "https://i.postimg.cc/Gtmn9XXP/g.jpg",
+        "size": 83000024,
+        "name": "Youtube v2.0.0 Patched",
+        "description": "The latest patched YouTube v2.0.0 that works without connecting to Nintendo. The base game has the v2.0.0 update included."
+    },
+    "054548454C4C0000": {
+        "id": "054548454C4C0000",
+        "releaseDate": 20211002,
+        "iconUrl": "https://i.postimg.cc/sD8CD97S/g.jpg",
+        "region": "US",
+        "name": "Helltaker 1.1.0",
+        "description": "Helltaker is a short game about sharply dressed demon girls."
+    },
+    "050050CE11E68000": {
+        "id": "050050CE11E68000",
+        "name": "Anime Movie Player - Panty & Stocking with Garterbelt",
+        "region": "JP",
+        "iconUrl": "https://i.postimg.cc/52hJpqt1/g.jpg",
+        "releaseDate": 20210904,
+        "description": "Panty & Stocking with Garterbelt is a Japanese anime television series produced by Gainax. The series follows two angel sisters, Panty and Stocking, who were kicked out of Heaven for bad behavior and, in order to return, must earn Heaven Coins by defeating Ghosts, evil spirits that plague Daten City."
+    },
+    "050027100372F000": {
+        "id": "050027100372F000",
+        "name": "Anime Movie Player - Hunter x Hunter Phantom Troupe",
+        "region": "JP",
+        "iconUrl": "https://i.postimg.cc/BvbzfH09/h.jpg",
+        "releaseDate": 20220409,
+        "description": "Hunter x Hunter is a Japanese anime television series. Taking place mostly in Yorknew City itself, Kurapika's mission eventually becomes intertwined with the killers of his clan and the target of his vengeance, the infamous Phantom Troupe."
+    },
+    "050050CE11ED8000": {
+        "id": "050050CE11ED8000",
+        "name": "Movie Player - Doctor Strange",
+        "region": "US",
+        "iconUrl": "https://i.postimg.cc/T3Svd1dd/s.jpg",
+        "releaseDate": 20220410,
+        "description": "While on a journey of physical and spiritual healing, a brilliant neurosurgeon is drawn into the world of the mystic arts."
+    },
+    "0500C14007E42000": {
+        "id": "0500C14007E42000",
+        "name": "Movie Player - The Matrix Trilogy",
+        "region": "US",
+        "iconUrl": "https://i.postimg.cc/VksZx8XY/m.jpg",
+        "releaseDate": 20220410,
+        "description": "While on a journey of drawn into the world of the mystic arts."
+    },
+    "05006D300BDA0000": {
+        "id": "05006D300BDA0000",
+        "name": "Anime Movie Player - Darling in the Franxx",
+        "region": "JP",
+        "iconUrl": "https://i.postimg.cc/PxtPqXSj/x.jpg",
+        "releaseDate": 20220409,
+        "description": "In the distant future, humanity has been driven to near-extinction by giant beasts known as Klaxosaurs, forcing the surviving humans to take refuge in massive fortress cities called Plantations. Children raised here are trained to pilot giant mechas known as FranXX—the only weapons known to be effective against the Klaxosaurs—in boy-girl pairs. Bred for the sole purpose of piloting these machines, these children and best girl zero two know nothing of the outside world and are only able to prove their existence by defending their race."
+    },
+    "05005A400DB52000": {
+        "id": "05005A400DB52000",
+        "name": "The Jackbox Party Pack 6 v1.1.0 Patched",
+        "region": "US",
+        "iconUrl": "https://i.postimg.cc/B6ZVCX24/6.jpg",
+        "releaseDate": 20210905,
+        "description": "The latest patched Jackbox 6 that works without connecting to Nintendo. The base game has the v1.1.0 update included."
+    },
+    "0500E1F003EE8000": {
+        "id": "0500E1F003EE8000",
+        "name": "The Jackbox Party Pack 4 v1.1.0 Patched",
+        "region": "US",
+        "iconUrl": "https://i.postimg.cc/Mpy32yDz/4.jpg",
+        "releaseDate": 20210905,
+        "description": "The latest patched Jackbox 4 that works without connecting to Nintendo. The base game has the v1.1.0 update included."
+    },
+    "0500AE5003EE6000": {
+        "id": "0500AE5003EE6000",
+        "name": "The Jackbox Party Pack Patched",
+        "region": "US",
+        "iconUrl": "https://i.postimg.cc/HxPB43p9/j.jpg",
+        "releaseDate": 20210905,
+        "description": "The latest patched Jackbox that works without connecting to Nintendo."
+    },
+    "050015D003EE4000": {
+        "id": "050015D003EE4000",
+        "name": "The Jackbox Party Pack 2 Patched",
+        "region": "US",
+        "iconUrl": "https://i.postimg.cc/fLF1TM0s/a.jpg",
+        "releaseDate": 20210905,
+        "description": "The latest patched Jackbox 2 that works without connecting to Nintendo."
+    },
+    "0500CC80013D6000": {
+        "id": "0500CC80013D6000",
+        "name": "The Jackbox Party Pack 3 Patched",
+        "region": "US",
+        "iconUrl": "https://i.postimg.cc/zvv9nB6s/g.jpg",
+        "releaseDate": 20210905,
+        "description": "The latest patched Jackbox 3 that works without connecting to Nintendo."
+    },
+    "05006FE0096AC000": {
+        "id": "05006FE0096AC000",
+        "name": "The Jackbox Party Pack 5 v1.0.1 Patched",
+        "region": "US",
+        "iconUrl": "https://i.postimg.cc/xTkw8XKH/g.jpg",
+        "releaseDate": 20210905,
+        "description": "The latest patched Jackbox 5 that works without connecting to Nintendo. The base game has the v1.0.1 update included."
+    },
+    "05007F30113A6000": {
+        "id": "05007F30113A6000",
+        "name": "The Jackbox Party Pack 7 v1.0.1 Patched",
+        "region": "US",
+        "iconUrl": "https://i.postimg.cc/KzvV2jG1/g.jpg",
+        "releaseDate": 20210905,
+        "description": "The latest patched Jackbox 7 that works without connecting to Nintendo. The base game has the v1.0.1 update included."
+    },
+    "050050CE11E98000": {
+        "id": "050050CE11E98000",
+        "name": "Anime Movie Player - Steins;Gate",
+        "region": "JP",
+        "iconUrl": "https://i.postimg.cc/cCqV753j/i.jpg",
+        "releaseDate": 20210905,
+        "description": "A group of friends creates a machine capable of sending messages across time, and cause ripples through the past and present."
+    },
+    "0500E8500A780000": {
+        "id": "0500E8500A780000",
+        "name": "Anime Movie Player - Your Lie in April",
+        "region": "JP",
+        "iconUrl": "https://i.postimg.cc/7Zw6qzFt/ylia.jpg",
+        "releaseDate": 20210916,
+        "description": "After his mother's death, a piano prodigy's will to play disappears. But meeting a free-spirited girl who plays the violin turns his life around."
+    },
+    "05450B00BA020000": {
+        "id": "05450B00BA020000",
+        "name": "AM2R (Another Metroid 2 Remake) 1.5.2-nx fix4",
+        "region": "US",
+        "size": 150955224,
+        "releaseDate": 20211102,
+        "iconUrl": "https://i.postimg.cc/gkv7BNBC/a.jpg",
+        "description": "AM2R (Another Metroid 2 Remake) is an unofficial remake of the 1991 Game Boy game Metroid II: Return of Samus in the style of Metroid: Zero Mission (2004).\n\nFix GFS Thoth elevator softlock\nFix Tester (that boss in The Tower) crashing when you destroy one of its cannons\nFix looping spin sound when jumping into water/lava\nFix Tester music\nFix Item Room music\nFix several spots with frame drops\nFix Gallery\nHide window, widescreen, and keyboard options\nChange defaults for Nintendo controls\nAdd Nintendo button graphics\n\nChanged in fix2:\nFix crash in dead end during escape sequence\nFix post-credits lag\nFix possible post-credits crash\nFix Game Over text being invisible\nMaybe fix possible GFS Thoth crash?\nFix credits text, fadein, positioning\nRemove Exit Game button\n\nChanged in fix3:\nFix memory leak in the Nest\nFix analog control direction sensitivity\nFix missing Spanish powerbomb tank translation\nFix Eris lag\nFix underwater/lava lag by removing the wobble effect\nFix ending not showing your achieved level of Samus nakedness"
+    },
+    "0500E80B00BA0000": {
+        "id": "0500E80B00BA0000",
+        "name": "Anime Movie Player - Flip Flappers",
+        "region": "JP",
+        "iconUrl": "https://i.postimg.cc/qMSZRLdr/f.jpg",
+        "releaseDate": 20210918,
+        "description": "As a middle school student, Cocona has been trying to decide what to do with her life. Magical Girl, however, wasn’t a career path that she’d ever considered. When suddenly a strange girl named Papika thrusts her into a secret organization called Flip Flap, Cocona’s outlook does a radical flip-flop. Her views start to change when she is dragged into an alternate dimension called Pure Illusion where she’s charged with gathering crystal shards and fighting strange creatures."
+    },
+    "0500CA8888884000": {
+        "id": "0500CA8888884000",
+        "name": "cate bossfight v1.3.1",
+        "region": "US",
+        "iconUrl": "https://i.postimg.cc/0NgNRLrb/c.jpg",
+        "releaseDate": 20211214,
+        "description": "A remake of the scratch game cate remix remix remix remix remix remix."
+    },
+    "050050F015280000": {
+        "id": "050050F015280000",
+        "releaseDate": 20211015,
+        "region": "US",
+        "iconUrl": "https://i.postimg.cc/dtHGH0XW/g.jpg",
+        "name": "The Jackbox Party Pack 8 Patched"
+    },
+    "0100FAF015212000": {
+        "id": "0100FAF015212000",
+        "releaseDate": 20210928,
+        "region": "GB",
+        "name": "Crysis Remastered"
+    },
+    "0100094014BE4000": {
+        "id": "0100094014BE4000",
+        "releaseDate": 20210930,
+        "region": "JP",
+        "name": "Cotton Guardian Force Saturn Tribute"
+    },
+    "0100728013024000": {
+        "id": "0100728013024000",
+        "releaseDate": 20201120,
+        "region": "US",
+        "name": "Waifu Uncovered R18+"
+    },
+    "0100A80011778000": {
+        "id": "0100A80011778000",
+        "releaseDate": 20200611,
+        "region": "JP",
+        "name": "Reading Training GO !"
+    },
+    "0100815009DD4000": {
+        "id": "0100815009DD4000",
+        "releaseDate": 20180920,
+        "region": "JP",
+        "name": "ファミコレADV STEINS;GATE"
+    },
+    "010000600EC82000": {
+        "id": "010000600EC82000",
+        "releaseDate": 20210324,
+        "region": "JP",
+        "name": "爆釣ハンターズ"
+    },
+    "010019C014042000": {
+        "id": "010019C014042000",
+        "releaseDate": 20210429,
+        "region": "JP",
+        "name": "リディー＆スールのアトリエ ～不思議な絵画の錬金術士～ DX デジタルアートブック"
+    },
+    "0100029014040000": {
+        "id": "0100029014040000",
+        "releaseDate": 20210429,
+        "region": "JP",
+        "name": "フィリスのアトリエ ～不思議な旅の錬金術士～ DX デジタルアートブック"
+    },
+    "0100DA801403E000": {
+        "id": "0100DA801403E000",
+        "releaseDate": 20210429,
+        "region": "JP",
+        "name": "ソフィーのアトリエ ～不思議な本の錬金術士～ DX デジタルアートブック"
+    },
+    "010011900E720000": {
+        "id": "010011900E720000",
+        "releaseDate": 20210223,
+        "region": "JP",
+        "name": "黄金夢想曲†CROSS"
+    },
+    "010065A014024000": {
+        "id": "010065A014024000",
+        "region": "US",
+        "releaseDate": 20211111,
+        "iconUrl": "https://i.postimg.cc/5yj7m8SR/icon-American-English3.jpg",
+        "name": "Grand Theft Auto San Andreas \u2013 The Definitive Edition"
+    },
+    "0100C3C012718000": {
+        "id": "0100C3C012718000",
+        "region": "US",
+        "releaseDate": 20211111,
+        "iconUrl": "https://i.postimg.cc/1XTW74W5/icon-American-English.jpg",
+        "name": "Grand Theft Auto III \u2013 The Definitive Edition"
+    },
+    "0100182014022000": {
+        "id": "0100182014022000",
+        "region": "US",
+        "releaseDate": 20211111,
+        "iconUrl": "https://i.postimg.cc/P5D7cznG/icon-American-English2.jpg",
+        "name": "Grand Theft Auto Vice City \u2013 The Definitive Edition"
+    },
+    "01006DD00CC96000": {
+        "id": "01006DD00CC96000",
+        "name": "Girls und Panzer Dream Tank Match DX (少女與戰車 戰車夢幻大會戰 DX)"
+    },
+    "0100E30015C22000": {
+        "id": "0100E30015C22000",
+        "name": "AIKAGI 3 (アイカギ３)"
+    },
+    "01005C5012710000": {
+        "id": "01005C5012710000",
+        "name": "Aleste Collection (アレスタコレクション)"
+    },
+    "0100F9600E746000": {
+        "id": "0100F9600E746000",
+        "name": "ESP Ra De Psi (エスプレイドΨ)"
+    },
+    "0100000016546000": {
+        "id": "0100000016546000",
+        "region": "US",
+        "releaseDate": 20210903,
+        "name": "Void's Ballad DEMO"
+    },
+    "0100726014BF4000": {
+        "id": "0100726014BF4000",
+        "region": "US",
+        "releaseDate": 20210930,
+        "name": "MELTY BLOOD ARCHIVES"
+    },
+    "0100F35012E64000": {
+        "id": "0100F35012E64000",
+        "region": "US",
+        "releaseDate": 20210915,
+        "name": "METAL SLUG 2nd MISSION"
+    },
+    "0100F2B012E62000": {
+        "id": "0100F2B012E62000",
+        "name": "METAL SLUG 1st MISSION"
+    },
+    "0100E520126A6000": {
+        "id": "0100E520126A6000",
+        "region": "US",
+        "releaseDate": 20210626,
+        "name": "Super Seducer"
+    },
+    "010076800B422000": {
+        "id": "010076800B422000",
+        "releaseDate": 20180802,
+        "region": "JP",
+        "name": "\u5c02\u7528\u30c0\u30a6\u30f3\u30ed\u30fc\u30c9\u30b2\u30fc\u30e0\u300e\u30b9\u30fc\u30d1\u30fc\u30d5\u30a1\u30df\u30b9\u30bf\u30ec\u30c8\u30ed2018\u300f"
+    },
+    "01007D4014226000": {
+        "id": "01007D4014226000",
+        "region": "US",
+        "releaseDate": 20210422,
+        "name": "Atelier Lydie & Suelle The Alchemists and the Mysterious Paintings DX Digital Art Book"
+    },
+    "0100448014224000": {
+        "id": "0100448014224000",
+        "region": "US",
+        "releaseDate": 20210421,
+        "name": "Atelier Firis The Alchemist and the Mysterious Journey DX Digital Art Book"
+    },
+    "0100C4A00CE9E000": {
+        "id": "0100C4A00CE9E000",
+        "releaseDate": 20190314,
+        "region": "JP",
+        "name": "\u30d5\u30a1\u30df\u30b3\u30ecACT \u30e6\u30fc\u30ce\u306e\u5927\u5192\u967a"
+    },
+    "0100D0E01618C000": {
+        "id": "0100D0E01618C000",
+        "region": "GB",
+        "releaseDate": 20211203,
+        "name": "Danganronpa S - Ultimate Summer Camp"
+    },
+    "010066A015F94000": {
+        "id": "010066A015F94000",
+        "releaseDate": 20211124,
+        "region": "JP",
+        "name": "Power Poke Dash (\u30d1\u30ef\u30dd\u30b1\u30c0\u30c3\u30b7\u30e5)"
+    },
+    "010022201229A000": {
+        "id": "010022201229A000",
+        "name": "Super Robot Wars 30 (超級機器人大戰30)"
+    },
+    "010059F00D3E0000": {
+        "id": "010059F00D3E0000",
+        "name": "Ace Angler (釣りスピリッツ Nintendo Switchバージョン)"
+    },
+    "010070D01483A000": {
+        "id": "010070D01483A000",
+        "name": "BanG Dream! Girls Band Party! (バンドリ！ ガールズバンドパーティ！ for Nintendo Switch)"
+    },
+    "010055700CEA8000": {
+        "id": "010055700CEA8000",
+        "name": "SD Gundam G Generation Cross Rays (SDガンダム ジージェネレーション クロスレイズ)"
+    },
+    "0100DAE016AEA000": {
+        "id": "0100DAE016AEA000",
+        "name": "Space Stella: The Unknown Planet (スペースステラ 未知の惑星)"
+    },
+    "0100DBC01181E000": {
+        "id": "0100DBC01181E000",
+        "name": "Everyone's Hanafuda (みんなの花札)"
+    },
+    "0100BFF012AA8000": {
+        "id": "0100BFF012AA8000",
+        "releaseDate": 20201217,
+        "region": "JP",
+        "name": "\u5bb6\u5ead\u8a13\u7df4\u6a5f - Family Trainer"
+    },
+    "0100283016A28000": {
+        "id": "0100283016A28000",
+        "region": "US",
+        "releaseDate": 20211220,
+        "name": "Figment 2 Creed Valley Demo"
+    },
+    "01001E10155EA000": {
+        "id": "01001E10155EA000",
+        "region": "US",
+        "releaseDate": 20211111,
+        "name": "Heaven's Machine"
+    },
+    "0100782016AD8000": {
+        "id": "0100782016AD8000",
+        "name": "CRYSTAR - Digital Art Book (クライスタ- デジタルアートブック)"
+    },
+    "010093100DA04000": {
+        "id": "010093100DA04000",
+        "name": "Momotaro Dentetsu: Showa, Heisei, Reiwa mo Teiban! (桃太郎電鉄 ～昭和 平成 令和も定番)"
+    },
+    "01005CF014794000": {
+        "id": "01005CF014794000",
+        "releaseDate": 20220209,
+        "region": "JP",
+        "name": "GetsuFumaDen"
+    },
+    "01006A300BA2C000": {
+        "id": "01006A300BA2C000",
+        "name": "Umineko When They Cry Saku: Symphony of Catbox and Dreams (うみねこのなく頃に咲 ～猫箱と夢想の交響曲～)"
+    },
+    "01003C300B274000": {
+        "id": "01003C300B274000",
+        "name": "The Battle Cats Unite (ふたりで！にゃんこ大戦争)"
+    },
+    "0100DB001724E000": {
+        "id": "0100DB001724E000",
+        "releaseDate": 20220615,
+        "region": "US",
+        "name": "MONSTER HUNTER RISE SUNBREAK DEMO"
+    },
+    "0100E77018A58000": {
+        "id": "0100E77018A58000",
+        "size": 160417464,
+        "releaseDate": 20220617,
+        "name": "Car Dealer Driver"
+    },
+    "0100FCF017FCE000": {
+        "id": "0100FCF017FCE000",
+        "size": 927276287,
+        "releaseDate": 20220617,
+        "name": "Demon's Residence"
+    },
+    "01003F90150FE000": {
+        "id": "01003F90150FE000",
+        "size": 940854634,
+        "releaseDate": 20220324,
+        "name": "MUSICUS!\u3000\u4f53\u9a13\u7248"
+    },
+    "0100664016D5C000": {
+        "id": "0100664016D5C000",
+        "size": 4511694073,
+        "releaseDate": 20220716,
+        "name": "Redout 2"
+    },
+    "0100FC10159EC000": {
+        "id": "0100FC10159EC000",
+        "size": 1417911262,
+        "releaseDate": 20220616,
+        "name": "Space Marshals 3"
+    },
+    "0100C84017658000": {
+        "id": "0100C84017658000",
+        "size": 1322508669,
+        "releaseDate": 20220324,
+        "name": "\u306f\u3074\u306d\u3059\uff01 SakuraCelebration \u4f53\u9a13\u7248"
+    },
+    "010041701652A000": {
+        "id": "010041701652A000",
+        "size": 1667319692,
+        "releaseDate": 20220325,
+        "name": "\u30a2\u30a4\u30ad\u30b93cute\u4f53\u9a13\u7248"
+    },
+    "010012C01643E000": {
+        "id": "010012C01643E000",
+        "size": 1527090914,
+        "releaseDate": 20220412,
+        "name": "\u5341\u4e09\u673a\u5175\u9632\u536b\u5708 Digital Artworks"
+    },
+    "0100CE001643C000": {
+        "id": "0100CE001643C000",
+        "size": 171200510,
+        "releaseDate": 20220412,
+        "name": "\u5341\u4e09\u673a\u5175\u9632\u536b\u5708 Digital Secret File"
+    },
+    "0100C54015002000": {
+        "id": "0100C54015002000",
+        "size": 1621526337,
+        "releaseDate": 20220412,
+        "name": "\u5341\u4e09\u6a5f\u5175\u9632\u885b\u570f \u4f53\u9a13\u7248"
+    },
+    "0100F44014DE6000": {
+        "id": "0100F44014DE6000",
+        "size": 1036028247,
+        "releaseDate": 20220412,
+        "name": "\u5341\u4e09\u6a5f\u5175\u9632\u885b\u570f\u30c7\u30b8\u30bf\u30eb\u30fb\u30a2\u30fc\u30c8\u30ef\u30fc\u30af\u30b9"
+    },
+    "0100B91014DE8000": {
+        "id": "0100B91014DE8000",
+        "size": 155806854,
+        "releaseDate": 20220412,
+        "name": "\u5341\u4e09\u6a5f\u5175\u9632\u885b\u570f\u30c7\u30b8\u30bf\u30eb\u30fb\u30b7\u30fc\u30af\u30ec\u30c3\u30c8\u30d5\u30a1\u30a4\u30eb"
+    },
+    "0100452016B98000": {
+        "id": "0100452016B98000",
+        "size": 630448798,
+        "releaseDate": 20220331,
+        "name": "\u653e\u8ab2\u5f8c\u30b7\u30f3\u30c7\u30ec\u30e9 \u4f53\u9a13\u7248"
+    },
+    "01002410151E4000": {
+        "id": "01002410151E4000",
+        "size": 766984020,
+        "releaseDate": 20220324,
+        "name": "\u6771\u4eac24\u533a -\u7948- \u4f53\u9a13\u7248"
+    },
+    "0100048013BAE000": {
+        "id": "0100048013BAE000",
+        "size": 84783370,
+        "releaseDate": 20220428,
+        "name": "\u6d17\u8133\u30b2\u30fc\u30e0 TEKI\u30fbPAKI"
+    },
+    "0100AAD016738000": {
+        "id": "0100AAD016738000",
+        "size": 922708291,
+        "releaseDate": 20220511,
+        "name": "9-nine- \u4f53\u9a13\u7248"
+    },
+    "0100FA7017CA6000": {
+        "id": "0100FA7017CA6000",
+        "size": 299211657,
+        "releaseDate": 20220318,
+        "name": "Miss Kobayashi's Dragonmaid Burst Forth!! Choro-gon\u2606Breath Demo"
+    },
+    "0100CB8018826000": {
+        "id": "0100CB8018826000",
+        "size": 1146513266,
+        "releaseDate": 20220728,
+        "name": "ReLieF \u301c\u89aa\u611b\u306a\u308b\u3042\u306a\u305f\u3078\u301c FoR SwitcH \u4f53\u9a13\u7248"
+    },
+    "0100F350182E6000": {
+        "id": "0100F350182E6000",
+        "size": 983307999,
+        "releaseDate": 20220602,
+        "name": "\u30cf\u30b8\u30e9\u30d6 -Making Lovers- \u4f53\u9a13\u7248"
+    },
+    "01001DB012174000": {
+        "id": "01001DB012174000",
+        "size": 152691693,
+        "releaseDate": 20220618,
+        "name": "\u30d6\u30ec\u30a4\u30d6\u30c0\u30f3\u30b8\u30e7\u30f3 \u6b63\u7fa9\u306e\u610f\u5473\uff08\u4f53\u9a13\u7248\uff09"
+    },
+    "0100AA80177CC000": {
+        "id": "0100AA80177CC000",
+        "size": 1067694562,
+        "releaseDate": 20220425,
+        "name": "\u51a5\u5951\u306e\u30eb\u30da\u30eb\u30ab\u30ea\u30a2 \u4f53\u9a13\u7248"
+    },
+    "01003C7017BB4000": {
+        "id": "01003C7017BB4000",
+        "size": 1065964936,
+        "releaseDate": 20220525,
+        "name": "\u7a62\u7ffc\u306e\u30e6\u30fc\u30b9\u30c6\u30a3\u30a2 \u4f53\u9a13\u7248"
+    },
+    "0100FAB0152EA000": {
+        "id": "0100FAB0152EA000",
+        "size": 1242244746,
+        "releaseDate": 20220113,
+        "name": "Eternal Radiance"
+    },
+    "010052C0161C2000": {
+        "id": "010052C0161C2000",
+        "size": 191129040,
+        "releaseDate": 20220115,
+        "name": "KUUKIYOMI Consider It 1\uff652\uff653+"
+    },
+    "0100AC0012068000": {
+        "id": "0100AC0012068000",
+        "size": 2995844271,
+        "releaseDate": 20200430,
+        "name": "Streets of Rage 4"
+    },
+    "0100589015962000": {
+        "id": "0100589015962000",
+        "size": 776265138,
+        "releaseDate": 20220213,
+        "name": "Treasures of the Aegean"
+    },
+    "0100A01016F48000": {
+        "id": "0100A01016F48000",
+        "size": 299307016,
+        "releaseDate": 20220513,
+        "name": "Waifu Discovered 2 - Medieval Fantasy R18+"
+    },
+    "01004A40167C2000": {
+        "id": "01004A40167C2000",
+        "name": "Pocky and Rocky ReShrined (奇々怪界 黒マントの謎)"
+    }
 }
