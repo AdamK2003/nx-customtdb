@@ -885,6 +885,9 @@
     "0500515C51CA0000": {
         "id": "0500515C51CA0000",
         "size": 36814032,
+        "region": "US",
+        "iconUrl": "https://i.postimg.cc/8ccWCr7n/o.jpg",
+        "description": "A port of the fangame Sonic 1 SMS Remake for the Nintendo Switch.",
         "releaseDate": 20220620,
         "name": "Sonic 1 SMS Remake"
     }
