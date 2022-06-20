@@ -688,6 +688,8 @@
     },
     "0100782016AD8000": {
         "id": "0100782016AD8000",
+        "region": "JP",
+        "releaseDate": 20220224,
         "name": "CRYSTAR - Digital Art Book (クライスタ- デジタルアートブック)"
     },
     "010093100DA04000": {
@@ -879,5 +881,11 @@
     "01004A40167C2000": {
         "id": "01004A40167C2000",
         "name": "Pocky and Rocky ReShrined (奇々怪界 黒マントの謎)"
+    },
+    "0500515C51CA0000": {
+        "id": "0500515C51CA0000",
+        "size": 36814032,
+        "releaseDate": 20220620,
+        "name": "Sonic 1 SMS Remake"
     }
 }
