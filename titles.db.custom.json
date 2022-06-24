@@ -806,12 +806,6 @@
         "releaseDate": 20220428,
         "name": "\u6d17\u8133\u30b2\u30fc\u30e0 TEKI\u30fbPAKI"
     },
-    "0100AAD016738000": {
-        "id": "0100AAD016738000",
-        "size": 922708291,
-        "releaseDate": 20220511,
-        "name": "9-nine- \u4f53\u9a13\u7248"
-    },
     "0100FA7017CA6000": {
         "id": "0100FA7017CA6000",
         "size": 299211657,
@@ -890,5 +884,14 @@
         "description": "A port of the fangame Sonic 1 SMS Remake for the Nintendo Switch.",
         "releaseDate": 20220620,
         "name": "Sonic 1 SMS Remake"
+    },
+    "0500525C51CA0000": {
+        "id": "0500525C51CA0000",
+        "size": 45954136,
+        "region": "US",
+        "iconUrl": "https://i.postimg.cc/PJM3J1kC/9.jpg",
+        "description": "A port of the fangame Sonic 2 SMS Remake for the Nintendo Switch.",
+        "releaseDate": 20220623,
+        "name": "Sonic 2 SMS Remake"
     }
 }
