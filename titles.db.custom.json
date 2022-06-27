@@ -898,5 +898,14 @@
         "description": "A port of the fangame Sonic 2 SMS Remake for the Nintendo Switch.",
         "releaseDate": 20220623,
         "name": "Sonic 2 SMS Remake"
+    },
+    "05005873236D0000": {
+        "id": "05005873236D0000",
+        "size": 134292143,
+        "iconUrl": "https://i.postimg.cc/VvPPgnLL/t.jpg",
+        "description": "A port of the fangame Sonic Time Twisted for the Nintendo Switch.",
+        "region": "US",
+        "releaseDate": 20220626,
+        "name": "Sonic Time Twisted v1.1.2.1"
     }
 }
