@@ -907,5 +907,20 @@
         "region": "US",
         "releaseDate": 20220626,
         "name": "Sonic Time Twisted v1.1.2.1"
-    }
+    },
+      "01007BB017812000": {
+         "id": "01007BB017812000",
+         "size": 2806875460,
+         "iconUrl": "https://i.postimg.cc/Qd2DyXfx/t.jpg",
+         "region": "US",
+         "releaseDate": 20220628,
+         "name": "Portal"
+      },
+      "0100535014D76000": {
+         "id": "0100535014D76000",
+         "size": 1123349316,
+         "region": "US",
+         "releaseDate": 20220628,
+         "name": "Little Noah Scion of Paradise"
+      }
 }
