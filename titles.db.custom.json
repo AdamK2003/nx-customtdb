@@ -920,7 +920,16 @@
          "id": "0100535014D76000",
          "size": 1123349316,
          "region": "US",
+        "iconUrl": "https://i.postimg.cc/ncsB4kgb/t.jpg",
          "releaseDate": 20220628,
          "name": "Little Noah Scion of Paradise"
+      },
+      "0100A5F017E9E000": {
+         "id": "0100A5F017E9E000",
+         "size": 1035245441,
+        "region": "US",
+        "iconUrl": "https://i.postimg.cc/y8CqBfz7/t.jpg",
+         "releaseDate": 20220628,
+         "name": "LIVE A LIVE Demo Version"
       }
 }
