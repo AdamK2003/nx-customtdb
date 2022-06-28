@@ -931,5 +931,12 @@
         "iconUrl": "https://i.postimg.cc/y8CqBfz7/t.jpg",
          "releaseDate": 20220628,
          "name": "LIVE A LIVE Demo Version"
+      },
+      "0100ABD01785C000": {
+          "id": "0100ABD01785C000",
+          "region": "US",
+          "iconUrl": "https://i.postimg.cc/yYXwbvqt/SQ-NSwitch-Portal-Companion-Collection-en-GB.jpg",
+          "releaseDate": 20220628,
+          "name": "Portal 2"
       }
 }
