@@ -946,5 +946,21 @@
           "iconUrl": "https://i.postimg.cc/ZR60jsDH/0100814017-CB6000.jpg",
           "releaseDate": 20220630,
           "name": "The Jackbox Party Starter Patched"
+      },
+      "01001900145B2000": {
+         "id": "01001900145B2000",
+         "size": 247481808,
+        "region": "US",
+         "iconUrl": "https://i.postimg.cc/1tTdWSPk/t.jpg",
+         "releaseDate": 20210625,
+         "name": "Crawlco Block Knockers R18+"
+      },
+      "0100386014952000": {
+         "id": "0100386014952000",
+         "size": 788263955,
+        "region": "US",
+         "iconUrl": "https://i.postimg.cc/4NGPXy88/t.jpg",
+         "releaseDate": 20211112,
+         "name": "Perky Little Things R18+"
       }
 }
