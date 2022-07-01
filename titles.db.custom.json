@@ -938,5 +938,13 @@
           "iconUrl": "https://i.postimg.cc/yYXwbvqt/SQ-NSwitch-Portal-Companion-Collection-en-GB.jpg",
           "releaseDate": 20220628,
           "name": "Portal 2"
+      },
+      "0500814017CB6000": {
+          "id": "0500814017CB6000",
+          "size": 4482556938,
+          "region": "US",
+          "iconUrl": "https://i.postimg.cc/WzcXC6k2/0100-FBF0181-C6000.jpg",
+          "releaseDate": 20220630,
+          "name": "The Jackbox Party Starter Patched"
       }
 }
