@@ -962,5 +962,11 @@
          "iconUrl": "https://i.postimg.cc/4NGPXy88/t.jpg",
          "releaseDate": 20211112,
          "name": "Perky Little Things R18+"
-      }
+      },
+      "0100BBA015E8E000": {
+        "id": "0100BBA015E8E000",
+        "region": "US",
+        "iconUrl": "https://i.postimg.cc/wB9dQQ2r/ezgif-com-gif-maker.png",
+        "releaseDate": 20220708,
+        "name": "Klonoa Phantasy Reverie Collection"
 }
