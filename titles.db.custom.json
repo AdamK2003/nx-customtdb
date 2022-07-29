@@ -1,12 +1,7 @@
 {
-    "01006E6017792000": {
-        "id": "01006E6017792000",
-        "region": "US",
-        "releaseDate": 20220608,
-        "name": "Fire Emblem Warriors Three Hopes Demo"
-    },
     "0100B2C01470C000": {
         "id": "0100B2C01470C000",
+        "iconUrl": "https://i.postimg.cc/HsQ77SQs/0100-B2-C01470-C000.jpg",
         "name": "NINJA GAIDEN Master Collection Digital Art Book & Soundtrack",
         "region": "US",
         "size": 2029372047,
@@ -36,7 +31,7 @@
         "releaseDate": 20220418,
         "description": "hiyoko",
         "iconUrl": "https://i.postimg.cc/tC6k1cJb/g.jpg"
-    }, 
+    },
     "05004B9000490015": {
         "id": "05004B9000490015",
         "name": "Nintendo Game Boy Emulator - QIX (EN)(Touch V2)",
@@ -44,7 +39,7 @@
         "releaseDate": 20220418,
         "description": "hiyoko",
         "iconUrl": "https://i.postimg.cc/tC6k1cJb/g.jpg"
-    }, 
+    },
     "05008BF00A1C8000": {
         "id": "05008BF00A1C8000",
         "name": "Nintendo Game Boy Advance Emulator - Sloop",
@@ -52,7 +47,7 @@
         "releaseDate": 20220422,
         "description": "GBA Emulator",
         "iconUrl": "https://i.postimg.cc/wvW0s7qv/s.jpg"
-    }, 
+    },
     "050027100372F000": {
         "id": "050027100372F000",
         "name": "Anime Movie Player - Hunter x Hunter Phantom Troupe",
@@ -97,23 +92,27 @@
     "0100B77012BD4000": {
         "id": "0100B77012BD4000",
         "region": "JP",
+        "iconUrl": "https://i.postimg.cc/3rGkPLfC/0100-B77012-BD4000.jpg",
         "releaseDate": 20210610,
         "name": "NINJA GAIDEN Σ"
     },
     "0100628012BD6000": {
         "id": "0100628012BD6000",
+        "iconUrl": "https://i.postimg.cc/NjhHP3xc/0100628012-BD6000.jpg",
         "region": "JP",
         "releaseDate": 20210610,
         "name": "NINJA GAIDEN Σ2"
     },
     "0100A9C00C5C4000": {
         "id": "0100A9C00C5C4000",
+        "iconUrl": "https://i.postimg.cc/cCLfcfZ5/0100-A9-C00-C5-C4000.jpg",
         "region": "GB",
         "releaseDate": 20190219,
         "name": "8-BIT ADVENTURE STEINS;GATE"
     },
     "01005EB00F95C000": {
         "id": "01005EB00F95C000",
+        "iconUrl": "https://i.postimg.cc/BQJWc6r9/01005-EB00-F95-C000.jpg",
         "region": "JP",
         "releaseDate": 20191128,
         "name": "Is It Wrong to Try to Shoot 'Em Up Girls in a Dungeon"
@@ -130,9 +129,6 @@
     "01002AF014F4C000": {
         "id": "01002AF014F4C000",
         "name": "NINJA GAIDEN 3 Razor's Edge",
-        "region": "US",
-        "size": 3854733148,
-        "releaseDate": 20210610,
         "description": "The ultimate high-speed ninja action has returned! The game offers both extreme challenge, along with an equally extreme sense of accomplishment. Experience the series' most alluring high-speed action."
     },
     "0100C56012C96000": {
@@ -155,9 +151,7 @@
     },
     "010096F00FF22000": {
         "id": "010096F00FF22000",
-        "name": "Borderlands 2: Game of the Year Edition",
-        "releaseDate": 20200529,
-        "description": "Shoot and loot as you explore the mayhem-filled world of Pandora in Borderlands 2  in Borderlands: The Handsome Collection. Experience the award-winning FPS-RPG series, including its bazillions of guns, trademark cooperative gameplay, and piles of bonus add-on content.\n*Borderlands 2: Commander Lilith & the Fight for Sanctuary add-content not included."
+        "name": "Borderlands 2: Game of the Year Edition"
     },
     "0100CCC0002E6000": {
         "id": "0100CCC0002E6000",
@@ -217,12 +211,14 @@
     },
     "01008CF014560000": {
         "id": "01008CF014560000",
+        "iconUrl": "https://i.postimg.cc/2ywKXQsp/01008-CF014560000.jpg",
         "region": "US",
         "releaseDate": 20210528,
         "name": "Monster World IV"
     },
     "0100CEB00C624000": {
         "id": "0100CEB00C624000",
+        "iconUrl": "https://i.postimg.cc/t4QtKZz7/0100-CEB00-C624000.jpg",
         "releaseDate": 20181115,
         "description": "Supported Language: Japanese."
     },
@@ -250,44 +246,37 @@
         "iconUrl": "https://i.postimg.cc/NMGR9YYy/m.jpg",
         "description": "Super Mario 64 was the original launch and pack-in title for the Nintendo 64. Developed by Shigeru Miyamoto's team at Nintendo EAD, it was released alongside the console on September 29th, 1996 in North America. The game pioneered many elements of the 3D subgenre of platformer. The game sold over 11.8 million copies worldwide and was also one of the first N64 games available for the Wii's Virtual Console collection of retro releases. The plot of Super Mario 64 starts off with Mario arriving at Princess Peach's castle at her invitation and promise of cake. However, upon arriving, he finds the castle nearly deserted and learns that the evil Bowser has once again abducted her. In order to stop Bowser and rescue the princess, Mario must explore the worlds within a series of paintings hanging in various rooms throughout the castle and collect the power stars hidden in each. Only once he has the necessary stars will he be able to face off against Bowser and save Peach."
     },
-    "010045800ED1E000": {
-        "id": "010045800ED1E000",
-        "name": "Shin Megami Tensei III NOCTURNE HD (真・女神転生Ⅲ)"
-    },
-    "01001C400E9D8000": {
-        "id": "01001C400E9D8000",
-        "name": "Persona 5 Scramble: The Phantom Strikers (ペルソナ５ スクランブル)"
-    },
-    "0100B020117D8000": {
-        "id": "0100B020117D8000",
-        "name": "Atelier Ryza 2 (ライザのアトリエ２)"
-    },
     "010002900294A000": {
         "id": "010002900294A000",
         "region": "US",
+        "iconUrl": "https://i.postimg.cc/prhmsChr/010002900294-A000.jpg",
         "releaseDate": 20170509,
         "name": "NBA Playgrounds - Original Edition"
     },
     "01004DB00BC70000": {
         "id": "01004DB00BC70000",
         "region": "JP",
+        "iconUrl": "https://i.postimg.cc/BvR9xC0M/01004-DB00-BC70000.jpg",
         "releaseDate": 20180920,
         "name": "DRAGON BALL Z Super Butoden"
     },
     "01002E50126B2000": {
         "id": "01002E50126B2000",
         "region": "JP",
+        "iconUrl": "https://i.postimg.cc/Zn8SYvXj/01002-E50126-B2000.jpg",
         "releaseDate": 20200827,
         "name": "KonoSuba: この素晴らしい世界に祝福を！　カズマの飛び出せ大冒険！"
     },
     "0100D7D00E5A8000": {
         "id": "0100D7D00E5A8000",
+        "iconUrl": "https://i.postimg.cc/rphh2ymb/0100-D7-D00-E5-A8000.jpg",
         "name": "SDガンダム ジージェネレーション モノアイガンダムズ",
         "region": "JP",
         "releaseDate": 20191129
     },
     "010020F01272A000": {
         "id": "010020F01272A000",
+        "iconUrl": "https://i.postimg.cc/CKq6VT3s/010020-F01272-A000.jpg",
         "region": "JP",
         "releaseDate": 20201029,
         "name": "KAMEN RIDER memory of heroez DIGITAL ART COLLECTION"
@@ -489,16 +478,19 @@
         "id": "0100FAF015212000",
         "releaseDate": 20210928,
         "region": "GB",
+        "iconUrl": "https://i.postimg.cc/23RPPj6v/0100-FAF015212000.jpg",
         "name": "Crysis Remastered"
     },
     "0100094014BE4000": {
         "id": "0100094014BE4000",
+        "iconUrl": "https://i.postimg.cc/RhDcFqf6/0100094014-BE4000.jpg",
         "releaseDate": 20210930,
         "region": "JP",
         "name": "Cotton Guardian Force Saturn Tribute"
     },
     "0100728013024000": {
         "id": "0100728013024000",
+        "iconUrl": "https://i.postimg.cc/T161fDtY/0100728013024000.jpg",
         "releaseDate": 20201120,
         "region": "US",
         "name": "Waifu Uncovered R18+"
@@ -506,17 +498,20 @@
     "0100A80011778000": {
         "id": "0100A80011778000",
         "releaseDate": 20200611,
+        "iconUrl": "https://i.postimg.cc/g2Vrnnbw/0100-A80011778000.jpg",
         "region": "JP",
         "name": "Reading Training GO !"
     },
     "0100815009DD4000": {
         "id": "0100815009DD4000",
+        "iconUrl": "https://i.postimg.cc/R0dJhNxS/0100815009-DD4000.jpg",
         "releaseDate": 20180920,
         "region": "JP",
         "name": "ファミコレADV STEINS;GATE"
     },
     "010000600EC82000": {
         "id": "010000600EC82000",
+        "iconUrl": "https://i.postimg.cc/rwdfS2w2/010000600-EC82000.jpg",
         "releaseDate": 20210324,
         "region": "JP",
         "name": "爆釣ハンターズ"
@@ -524,23 +519,27 @@
     "010019C014042000": {
         "id": "010019C014042000",
         "releaseDate": 20210429,
+        "iconUrl": "https://i.postimg.cc/KztVtSQ8/01007-D4014226000.jpg",
         "region": "JP",
         "name": "リディー＆スールのアトリエ ～不思議な絵画の錬金術士～ DX デジタルアートブック"
     },
     "0100029014040000": {
         "id": "0100029014040000",
         "releaseDate": 20210429,
+        "iconUrl": "https://i.postimg.cc/R0gq9ywq/0100029014040000.jpg",
         "region": "JP",
         "name": "フィリスのアトリエ ～不思議な旅の錬金術士～ DX デジタルアートブック"
     },
     "0100DA801403E000": {
         "id": "0100DA801403E000",
         "releaseDate": 20210429,
+        "iconUrl": "https://i.postimg.cc/SNWDNfRc/0100-DA801403-E000.jpg",
         "region": "JP",
         "name": "ソフィーのアトリエ ～不思議な本の錬金術士～ DX デジタルアートブック"
     },
     "010011900E720000": {
         "id": "010011900E720000",
+        "iconUrl": "https://i.postimg.cc/j5hcssZP/010011900-E720000.jpg",
         "releaseDate": 20210223,
         "region": "JP",
         "name": "黄金夢想曲†CROSS"
@@ -548,6 +547,7 @@
     "010065A014024000": {
         "id": "010065A014024000",
         "region": "US",
+        "size": 6495569775,
         "releaseDate": 20211111,
         "iconUrl": "https://i.postimg.cc/5yj7m8SR/icon-American-English3.jpg",
         "name": "Grand Theft Auto San Andreas \u2013 The Definitive Edition"
@@ -555,6 +555,7 @@
     "0100C3C012718000": {
         "id": "0100C3C012718000",
         "region": "US",
+        "size": 3233031504,
         "releaseDate": 20211111,
         "iconUrl": "https://i.postimg.cc/1XTW74W5/icon-American-English.jpg",
         "name": "Grand Theft Auto III \u2013 The Definitive Edition"
@@ -562,6 +563,7 @@
     "0100182014022000": {
         "id": "0100182014022000",
         "region": "US",
+        "size": 5395312380,
         "releaseDate": 20211111,
         "iconUrl": "https://i.postimg.cc/P5D7cznG/icon-American-English2.jpg",
         "name": "Grand Theft Auto Vice City \u2013 The Definitive Edition"
@@ -585,11 +587,13 @@
     "0100000016546000": {
         "id": "0100000016546000",
         "region": "US",
+        "iconUrl": "https://i.postimg.cc/13cf7ftG/0100000016546000.jpg",
         "releaseDate": 20210903,
         "name": "Void's Ballad DEMO"
     },
     "0100726014BF4000": {
         "id": "0100726014BF4000",
+        "iconUrl": "https://i.postimg.cc/HkQyG6S7/0100726014-BF4000.jpg",
         "region": "US",
         "releaseDate": 20210930,
         "name": "MELTY BLOOD ARCHIVES"
@@ -597,6 +601,7 @@
     "0100F35012E64000": {
         "id": "0100F35012E64000",
         "region": "US",
+        "iconUrl": "https://i.postimg.cc/sxC7tbpq/0100-F35012-E64000.jpg",
         "releaseDate": 20210915,
         "name": "METAL SLUG 2nd MISSION"
     },
@@ -607,23 +612,27 @@
     "0100E520126A6000": {
         "id": "0100E520126A6000",
         "region": "US",
+        "iconUrl": "https://i.postimg.cc/4dDQXYT8/0100-E520126-A6000.jpg",
         "releaseDate": 20210626,
         "name": "Super Seducer"
     },
     "010076800B422000": {
         "id": "010076800B422000",
+        "iconUrl": "https://i.postimg.cc/dQ46pV7K/010076800-B422000.jpg",
         "releaseDate": 20180802,
         "region": "JP",
         "name": "\u5c02\u7528\u30c0\u30a6\u30f3\u30ed\u30fc\u30c9\u30b2\u30fc\u30e0\u300e\u30b9\u30fc\u30d1\u30fc\u30d5\u30a1\u30df\u30b9\u30bf\u30ec\u30c8\u30ed2018\u300f"
     },
     "01007D4014226000": {
         "id": "01007D4014226000",
+        "iconUrl": "https://i.postimg.cc/KztVtSQ8/01007-D4014226000.jpg",
         "region": "US",
         "releaseDate": 20210422,
         "name": "Atelier Lydie & Suelle The Alchemists and the Mysterious Paintings DX Digital Art Book"
     },
     "0100448014224000": {
         "id": "0100448014224000",
+        "iconUrl": "https://i.postimg.cc/R0gq9ywq/0100029014040000.jpg",
         "region": "US",
         "releaseDate": 20210421,
         "name": "Atelier Firis The Alchemist and the Mysterious Journey DX Digital Art Book"
@@ -631,17 +640,20 @@
     "0100C4A00CE9E000": {
         "id": "0100C4A00CE9E000",
         "releaseDate": 20190314,
+        "iconUrl": "https://i.postimg.cc/Z55KKjHQ/0100-C4-A00-CE9-E000.jpg",
         "region": "JP",
         "name": "\u30d5\u30a1\u30df\u30b3\u30ecACT \u30e6\u30fc\u30ce\u306e\u5927\u5192\u967a"
     },
     "0100D0E01618C000": {
         "id": "0100D0E01618C000",
+        "iconUrl": "https://i.postimg.cc/05z4xS7C/0100-D0-E01618-C000.jpg",
         "region": "GB",
         "releaseDate": 20211203,
         "name": "Danganronpa S - Ultimate Summer Camp"
     },
     "010066A015F94000": {
         "id": "010066A015F94000",
+        "iconUrl": "https://i.postimg.cc/cCXFcs30/010066-A015-F94000.jpg",
         "releaseDate": 20211124,
         "region": "JP",
         "name": "Power Poke Dash (\u30d1\u30ef\u30dd\u30b1\u30c0\u30c3\u30b7\u30e5)"
@@ -662,22 +674,20 @@
         "id": "010055700CEA8000",
         "name": "SD Gundam G Generation Cross Rays (SDガンダム ジージェネレーション クロスレイズ)"
     },
-    "0100DAE016AEA000": {
-        "id": "0100DAE016AEA000",
-        "name": "Space Stella: The Unknown Planet (スペースステラ 未知の惑星)"
-    },
     "0100DBC01181E000": {
         "id": "0100DBC01181E000",
         "name": "Everyone's Hanafuda (みんなの花札)"
     },
     "0100BFF012AA8000": {
         "id": "0100BFF012AA8000",
+        "iconUrl": "https://i.postimg.cc/wMYjqp45/0100-BFF012-AA8000.jpg",
         "releaseDate": 20201217,
         "region": "JP",
         "name": "\u5bb6\u5ead\u8a13\u7df4\u6a5f - Family Trainer"
     },
     "0100283016A28000": {
         "id": "0100283016A28000",
+        "iconUrl": "https://i.postimg.cc/qMWsHh4W/0100283016-A28000.jpg",
         "region": "US",
         "releaseDate": 20211220,
         "name": "Figment 2 Creed Valley Demo"
@@ -685,11 +695,13 @@
     "01001E10155EA000": {
         "id": "01001E10155EA000",
         "region": "US",
+        "iconUrl": "https://i.postimg.cc/rpHcfkSG/01001-E10155-EA000.jpg",
         "releaseDate": 20211111,
         "name": "Heaven's Machine"
     },
     "0100782016AD8000": {
         "id": "0100782016AD8000",
+        "iconUrl": "https://i.postimg.cc/pdRnPK7c/0100782016-AD8000.jpg",
         "region": "JP",
         "releaseDate": 20220224,
         "name": "CRYSTAR - Digital Art Book (クライスタ- デジタルアートブック)"
@@ -700,6 +712,7 @@
     },
     "01005CF014794000": {
         "id": "01005CF014794000",
+        "iconUrl": "https://i.postimg.cc/JnJwKB7m/01005-CF014794000.jpg",
         "releaseDate": 20220209,
         "region": "JP",
         "name": "GetsuFumaDen"
@@ -715,24 +728,15 @@
     "0100DB001724E000": {
         "id": "0100DB001724E000",
         "releaseDate": 20220615,
+        "iconUrl": "https://i.postimg.cc/bwpLGSSW/0100-DB001724-E000.jpg",
         "region": "US",
         "name": "MONSTER HUNTER RISE SUNBREAK DEMO"
     },
-    "0100E77018A58000": {
-        "id": "0100E77018A58000",
-        "size": 160417464,
-        "releaseDate": 20220617,
-        "name": "Car Dealer Driver"
-    },
-    "0100FCF017FCE000": {
-        "id": "0100FCF017FCE000",
-        "size": 927276287,
-        "releaseDate": 20220617,
-        "name": "Demon's Residence"
-    },
     "01003F90150FE000": {
         "id": "01003F90150FE000",
+        "iconUrl": "https://i.postimg.cc/YqxHJg6C/01003-F90150-FE000.jpg",
         "size": 940854634,
+        "region": "JP",
         "releaseDate": 20220324,
         "name": "MUSICUS!\u3000\u4f53\u9a13\u7248"
     },
@@ -740,35 +744,36 @@
         "id": "0100664016D5C000",
         "size": 4511694073,
         "region": "US",
+        "iconUrl": "https://i.postimg.cc/R04TbmbJ/redout2.jpg",
         "releaseDate": 20220716,
         "name": "Redout 2"
     },
-    "0100FC10159EC000": {
-        "id": "0100FC10159EC000",
-        "size": 1417911262,
-        "releaseDate": 20220616,
-        "name": "Space Marshals 3"
-    },
     "0100C84017658000": {
         "id": "0100C84017658000",
+        "iconUrl": "https://i.postimg.cc/3NZY3Dv7/0100-C84017658000.jpg",
         "size": 1322508669,
+        "region": "JP",
         "releaseDate": 20220324,
         "name": "\u306f\u3074\u306d\u3059\uff01 SakuraCelebration \u4f53\u9a13\u7248"
     },
     "010041701652A000": {
         "id": "010041701652A000",
         "size": 1667319692,
+        "region": "JP",
+        "iconUrl": "https://i.postimg.cc/bNnGb6fF/010041701652-A000.jpg",
         "releaseDate": 20220325,
         "name": "\u30a2\u30a4\u30ad\u30b93cute\u4f53\u9a13\u7248"
     },
     "010012C01643E000": {
         "id": "010012C01643E000",
+        "iconUrl": "https://i.postimg.cc/X7sPfgKd/010012-C01643-E000.jpg",
         "size": 1527090914,
         "releaseDate": 20220412,
         "name": "\u5341\u4e09\u673a\u5175\u9632\u536b\u5708 Digital Artworks"
     },
     "0100CE001643C000": {
         "id": "0100CE001643C000",
+        "iconUrl": "https://i.postimg.cc/DfNccYJr/0100-CE001643-C000.jpg",
         "size": 171200510,
         "releaseDate": 20220412,
         "name": "\u5341\u4e09\u673a\u5175\u9632\u536b\u5708 Digital Secret File"
@@ -776,35 +781,44 @@
     "0100C54015002000": {
         "id": "0100C54015002000",
         "size": 1621526337,
+        "region": "JP",
+        "iconUrl": "https://i.postimg.cc/qRypZFBN/0100-C54015002000.jpg",
         "releaseDate": 20220412,
         "name": "\u5341\u4e09\u6a5f\u5175\u9632\u885b\u570f \u4f53\u9a13\u7248"
     },
     "0100F44014DE6000": {
         "id": "0100F44014DE6000",
         "size": 1036028247,
+        "iconUrl": "https://i.postimg.cc/GhQG579g/0100-F44014-DE6000.jpg",
         "releaseDate": 20220412,
         "name": "\u5341\u4e09\u6a5f\u5175\u9632\u885b\u570f\u30c7\u30b8\u30bf\u30eb\u30fb\u30a2\u30fc\u30c8\u30ef\u30fc\u30af\u30b9"
     },
     "0100B91014DE8000": {
         "id": "0100B91014DE8000",
         "size": 155806854,
+        "iconUrl": "https://i.postimg.cc/HLKLN5Qh/0100-B91014-DE8000.jpg",
         "releaseDate": 20220412,
         "name": "\u5341\u4e09\u6a5f\u5175\u9632\u885b\u570f\u30c7\u30b8\u30bf\u30eb\u30fb\u30b7\u30fc\u30af\u30ec\u30c3\u30c8\u30d5\u30a1\u30a4\u30eb"
     },
     "0100452016B98000": {
         "id": "0100452016B98000",
+        "iconUrl": "https://i.postimg.cc/prpFgx72/0100452016-B98000.jpg",
         "size": 630448798,
+        "region": "JP",
         "releaseDate": 20220331,
         "name": "\u653e\u8ab2\u5f8c\u30b7\u30f3\u30c7\u30ec\u30e9 \u4f53\u9a13\u7248"
     },
     "01002410151E4000": {
         "id": "01002410151E4000",
+        "iconUrl": "https://i.postimg.cc/QtnBgwMv/01002410151-E4000.jpg",
         "size": 766984020,
+        "region": "JP",
         "releaseDate": 20220324,
         "name": "\u6771\u4eac24\u533a -\u7948- \u4f53\u9a13\u7248"
     },
     "0100048013BAE000": {
         "id": "0100048013BAE000",
+        "iconUrl": "https://i.postimg.cc/nhQ1XK3H/0100048013-BAE000.jpg",
         "size": 84783370,
         "releaseDate": 20220428,
         "name": "\u6d17\u8133\u30b2\u30fc\u30e0 TEKI\u30fbPAKI"
@@ -812,6 +826,7 @@
     "0100FA7017CA6000": {
         "id": "0100FA7017CA6000",
         "size": 299211657,
+        "iconUrl": "https://i.postimg.cc/J0K0PFKb/0100-FA7017-CA6000.jpg",
         "releaseDate": 20220318,
         "region": "US",
         "name": "Miss Kobayashi's Dragonmaid Burst Forth!! Choro-gon\u2606Breath Demo"
@@ -820,66 +835,77 @@
         "id": "0100CB8018826000",
         "size": 1146513266,
         "releaseDate": 20220608,
+        "iconUrl": "https://i.postimg.cc/QCFJ3cPK/0100-CB8018826000.jpg",
         "region": "JP",
         "name": "ReLieF \u301c\u89aa\u611b\u306a\u308b\u3042\u306a\u305f\u3078\u301c FoR SwitcH \u4f53\u9a13\u7248"
     },
     "0100F350182E6000": {
         "id": "0100F350182E6000",
         "size": 983307999,
+        "region": "JP",
+        "iconUrl": "https://i.postimg.cc/WzVq9gVP/0100-F350182-E6000.jpg",
         "releaseDate": 20220602,
         "name": "\u30cf\u30b8\u30e9\u30d6 -Making Lovers- \u4f53\u9a13\u7248"
     },
     "01001DB012174000": {
         "id": "01001DB012174000",
+        "iconUrl": "https://i.postimg.cc/0215gPhc/01001-DB012174000.jpg",
         "size": 152691693,
+        "region": "JP",
         "releaseDate": 20220618,
         "name": "\u30d6\u30ec\u30a4\u30d6\u30c0\u30f3\u30b8\u30e7\u30f3 \u6b63\u7fa9\u306e\u610f\u5473\uff08\u4f53\u9a13\u7248\uff09"
     },
     "0100AA80177CC000": {
         "id": "0100AA80177CC000",
+        "iconUrl": "https://i.postimg.cc/G22p7K8Y/0100-AA80177-CC000.jpg",
         "size": 1067694562,
+        "region": "JP",
         "releaseDate": 20220425,
         "name": "\u51a5\u5951\u306e\u30eb\u30da\u30eb\u30ab\u30ea\u30a2 \u4f53\u9a13\u7248"
     },
     "01003C7017BB4000": {
         "id": "01003C7017BB4000",
+        "iconUrl": "https://i.postimg.cc/PfYhQ0NZ/01003-C7017-BB4000.jpg",
         "size": 1065964936,
+        "region": "JP",
         "releaseDate": 20220525,
         "name": "\u7a62\u7ffc\u306e\u30e6\u30fc\u30b9\u30c6\u30a3\u30a2 \u4f53\u9a13\u7248"
     },
     "0100FAB0152EA000": {
         "id": "0100FAB0152EA000",
+        "iconUrl": "https://i.postimg.cc/J0Bf6H1M/0100-FAB0152-EA000.jpg",
         "size": 1242244746,
         "releaseDate": 20220113,
         "name": "Eternal Radiance"
     },
     "010052C0161C2000": {
         "id": "010052C0161C2000",
+        "iconUrl": "https://i.postimg.cc/SRyZ8XJg/010052-C0161-C2000.jpg",
         "size": 191129040,
         "releaseDate": 20220115,
         "name": "KUUKIYOMI Consider It 1\uff652\uff653+"
     },
     "0100AC0012068000": {
         "id": "0100AC0012068000",
+        "iconUrl": "https://i.postimg.cc/c1vR6M9r/0100-AC0012068000.jpg",
         "size": 2995844271,
         "releaseDate": 20200430,
         "name": "Streets of Rage 4"
     },
     "0100589015962000": {
         "id": "0100589015962000",
+        "iconUrl": "https://i.postimg.cc/W3rzBn6H/0100589015962000.jpg",
         "size": 776265138,
         "releaseDate": 20220213,
         "name": "Treasures of the Aegean"
     },
     "0100A01016F48000": {
         "id": "0100A01016F48000",
+        "iconUrl": "https://i.postimg.cc/j23P3CSq/0100-A01016-F48000.jpg",
         "size": 299307016,
+        "region": "US",
         "releaseDate": 20220513,
         "name": "Waifu Discovered 2 - Medieval Fantasy R18+"
-    },
-    "01004A40167C2000": {
-        "id": "01004A40167C2000",
-        "name": "Pocky and Rocky ReShrined (奇々怪界 黒マントの謎)"
     },
     "0500515C51CA0000": {
         "id": "0500515C51CA0000",
@@ -890,6 +916,14 @@
         "releaseDate": 20220620,
         "name": "Sonic 1 SMS Remake"
     },
+    "0100F35017750000": {
+        "id": "0100F35017750000",
+        "region": "JP",
+        "iconUrl": "https://i.postimg.cc/MKdfDnrh/0100-F35017750000.jpg",
+        "size": 1340495929,
+        "releaseDate": 20220622,
+        "name": "KLONOA Phantasy Reverie Series Demo"
+    },
     "0500525C51CA0000": {
         "id": "0500525C51CA0000",
         "size": 45954136,
@@ -898,6 +932,22 @@
         "description": "A port of the fangame Sonic 2 SMS Remake for the Nintendo Switch.",
         "releaseDate": 20220623,
         "name": "Sonic 2 SMS Remake"
+    },
+    "0100FD50185E2000": {
+        "id": "0100FD50185E2000",
+        "size": 525750907,
+        "iconUrl": "https://i.postimg.cc/26PkSDyj/0100-FD50185-E2000.jpg",
+        "region": "JP",
+        "releaseDate": 20220623,
+        "name": "void tRrLM2(); Trial,Ver"
+    },
+    "0100460017CE8000": {
+        "id": "0100460017CE8000",
+        "iconUrl": "https://i.postimg.cc/zDcWTbb3/0100460017-CE8000.jpg",
+        "size": 1539267310,
+        "region": "JP",
+        "releaseDate": 20220623,
+        "name": "\u5343\u306e\u5203\u6fe4\u3001\u6843\u82b1\u67d3\u306e\u7687\u59eb \u4f53\u9a13\u7248"
     },
     "05005873236D0000": {
         "id": "05005873236D0000",
@@ -908,66 +958,605 @@
         "releaseDate": 20220626,
         "name": "Sonic Time Twisted v1.1.2.1"
     },
-      "01007BB017812000": {
-         "id": "01007BB017812000",
-         "size": 2806875460,
-         "iconUrl": "https://i.postimg.cc/Qd2DyXfx/t.jpg",
-         "region": "US",
-         "releaseDate": 20220628,
-         "name": "Portal"
-      },
-      "0100535014D76000": {
-         "id": "0100535014D76000",
-         "size": 1123349316,
-         "region": "US",
+    "01007BB017812000": {
+        "id": "01007BB017812000",
+        "size": 2806875460,
+        "iconUrl": "https://i.postimg.cc/Qd2DyXfx/t.jpg",
+        "region": "US",
+        "releaseDate": 20220628,
+        "name": "Portal"
+    },
+    "0100535014D76000": {
+        "id": "0100535014D76000",
+        "size": 1123349316,
+        "region": "US",
         "iconUrl": "https://i.postimg.cc/ncsB4kgb/t.jpg",
-         "releaseDate": 20220628,
-         "name": "Little Noah Scion of Paradise"
-      },
-      "0100A5F017E9E000": {
-         "id": "0100A5F017E9E000",
-         "size": 1035245441,
+        "releaseDate": 20220628,
+        "name": "Little Noah Scion of Paradise"
+    },
+    "0100A5F017E9E000": {
+        "id": "0100A5F017E9E000",
+        "size": 1035245441,
         "region": "US",
         "iconUrl": "https://i.postimg.cc/y8CqBfz7/t.jpg",
-         "releaseDate": 20220628,
-         "name": "LIVE A LIVE Demo Version"
-      },
-      "0100ABD01785C000": {
-          "id": "0100ABD01785C000",
-          "region": "US",
-          "iconUrl": "https://i.postimg.cc/yYXwbvqt/SQ-NSwitch-Portal-Companion-Collection-en-GB.jpg",
-          "releaseDate": 20220628,
-          "name": "Portal 2"
-      },
-      "0500814017CB6000": {
-          "id": "0500814017CB6000",
-          "size": 4482556938,
-          "region": "US",
-          "iconUrl": "https://i.postimg.cc/ZR60jsDH/0100814017-CB6000.jpg",
-          "releaseDate": 20220630,
-          "name": "The Jackbox Party Starter Patched"
-      },
-      "01001900145B2000": {
-         "id": "01001900145B2000",
-         "size": 247481808,
+        "releaseDate": 20220628,
+        "name": "LIVE A LIVE Demo Version"
+    },
+    "0100ABD01785C000": {
+        "id": "0100ABD01785C000",
+        "size": 7803945284,
+        "releaseDate": 20220628,
         "region": "US",
-         "iconUrl": "https://i.postimg.cc/1tTdWSPk/t.jpg",
-         "releaseDate": 20210625,
-         "name": "Crawlco Block Knockers R18+"
-      },
-      "0100386014952000": {
-         "id": "0100386014952000",
-         "size": 788263955,
+        "iconUrl": "https://i.postimg.cc/dVyRYBjm/t.jpg",
+        "name": "Portal 2"
+    },
+    "01002C4015CCE000": {
+        "id": "01002C4015CCE000",
+        "size": 1048590660,
+        "region": "JP",
+        "iconUrl": "https://i.postimg.cc/zX8w3StS/t.jpg",
+        "releaseDate": 20220628,
+        "name": "ANONYMOUS;CODE \u4f53\u9a13\u7248"
+    },
+    "0100D350183AA000": {
+        "id": "0100D350183AA000",
+        "size": 391329604,
         "region": "US",
-         "iconUrl": "https://i.postimg.cc/4NGPXy88/t.jpg",
-         "releaseDate": 20211112,
-         "name": "Perky Little Things R18+"
-      },
-      "0100BBA015E8E000": {
+        "iconUrl": "https://i.postimg.cc/CKBz60JG/0100-D350183-AA000.jpg",
+        "releaseDate": 20220629,
+        "name": "Viki Spotter Around The World"
+    },
+    "0100868018CCC000": {
+        "id": "0100868018CCC000",
+        "size": 106989380,
+        "region": "US",
+        "iconUrl": "https://i.postimg.cc/yYtGn9jd/0100868018-CCC000.jpg",
+        "releaseDate": 20220629,
+        "name": "Alien Engine"
+    },
+    "0100EF70178D8000": {
+        "id": "0100EF70178D8000",
+        "size": 67160900,
+        "region": "US",
+        "iconUrl": "https://i.postimg.cc/ZRgB3B53/0100-EF70178-D8000.jpg",
+        "releaseDate": 20220629,
+        "name": "Arcade Archives THUNDER CEPTOR"
+    },
+    "010015F017BFE000": {
+        "id": "010015F017BFE000",
+        "size": 53304644,
+        "region": "US",
+        "iconUrl": "https://i.postimg.cc/66YJVyF2/010015-F017-BFE000.jpg",
+        "releaseDate": 20220629,
+        "name": "Box to the Box"
+    },
+    "01007FD0189A2000": {
+        "id": "01007FD0189A2000",
+        "size": 197274436,
+        "region": "US",
+        "iconUrl": "https://i.postimg.cc/YqD77h3K/01007-FD0189-A2000.jpg",
+        "releaseDate": 20220629,
+        "name": "JDM Drag Racing Car Driving Simulator 2022 Games"
+    },
+    "0100EB6018A1E000": {
+        "id": "0100EB6018A1E000",
+        "size": 1561441604,
+        "region": "US",
+        "iconUrl": "https://i.postimg.cc/85gDY9b7/0100-EB6018-A1-E000.jpg",
+        "releaseDate": 20220629,
+        "name": "The Legacy Prisoner"
+    },
+    "010049E017598000": {
+        "id": "010049E017598000",
+        "size": 2919443268,
+        "region": "US",
+        "iconUrl": "https://i.postimg.cc/cCJzkBPK/010049-E017598000.jpg",
+        "releaseDate": 20220629,
+        "name": "ZIC Zombies in City"
+    },
+    "0100D0A018296000": {
+        "id": "0100D0A018296000",
+        "size": 191598404,
+        "region": "JP",
+        "iconUrl": "https://i.postimg.cc/2yP1923T/0100-D0-A018296000.jpg",
+        "releaseDate": 20220629,
+        "name": "\u96d1\u5b66\u30af\u30a4\u30ba\u5927\u81e3"
+    },
+    "0100BD8016D2C000": {
+        "id": "0100BD8016D2C000",
+        "name": "Galaxy Tales: Story of Rapunzel"
+    },
+    "0100BCD0184BE000": {
+        "id": "0100BCD0184BE000",
+        "size": 108461380,
+        "region": "US",
+        "iconUrl": "https://i.postimg.cc/nL5dYtV9/0100-BCD0184-BE000.jpg",
+        "releaseDate": 20220630,
+        "name": "Sixty Words by POWGI"
+    },
+    "0100B0E018B2E000": {
+        "id": "0100B0E018B2E000",
+        "size": 76722500,
+        "region": "US",
+        "iconUrl": "https://i.postimg.cc/bwmVrtKT/0100-B0-E018-B2-E000.jpg",
+        "releaseDate": 20220630,
+        "name": "Supaplex Squares"
+    },
+    "0100A33018B0C000": {
+        "id": "0100A33018B0C000",
+        "size": 401773380,
+        "region": "US",
+        "iconUrl": "https://i.postimg.cc/kgGjnjXf/0100-A33018-B0-C000.jpg",
+        "releaseDate": 20220630,
+        "name": "The Maze Game Runner and Escapist"
+    },
+    "0100FBF0181C6000": {
+        "id": "0100FBF0181C6000",
+        "size": 127995204,
+        "region": "US",
+        "iconUrl": "https://i.postimg.cc/WzcXC6k2/0100-FBF0181-C6000.jpg",
+        "releaseDate": 20220630,
+        "name": "UFS LEAGUE"
+    },
+    "0100814017CB6000": {
+        "id": "0100814017CB6000",
+        "size": 4482730056,
+        "region": "US",
+        "iconUrl": "https://i.postimg.cc/ZR60jsDH/0100814017-CB6000.jpg",
+        "releaseDate": 20220630,
+        "name": "The Jackbox Party Starter"
+    },
+    "0500814017CB6000": {
+        "id": "0500814017CB6000",
+        "size": 4482556938,
+        "region": "US",
+        "iconUrl": "https://i.postimg.cc/ZR60jsDH/0100814017-CB6000.jpg",
+        "releaseDate": 20220630,
+        "name": "The Jackbox Party Starter Patched"
+    },
+    "01001900145B2000": {
+        "id": "01001900145B2000",
+        "size": 247481808,
+        "region": "US",
+        "iconUrl": "https://i.postimg.cc/1tTdWSPk/t.jpg",
+        "releaseDate": 20210625,
+        "name": "Crawlco Block Knockers R18+"
+    },
+    "0100386014952000": {
+        "id": "0100386014952000",
+        "size": 788263955,
+        "region": "US",
+        "iconUrl": "https://i.postimg.cc/4NGPXy88/t.jpg",
+        "releaseDate": 20211112,
+        "name": "Perky Little Things R18+"
+    },
+    "0100BF80187FA000": {
+        "id": "0100BF80187FA000",
+        "size": 414021956,
+        "region": "US",
+        "iconUrl": "https://i.postimg.cc/CMv56WjG/0100-BF80187-FA000.jpg",
+        "releaseDate": 20220707,
+        "name": "Crazy Plane Landing"
+    },
+    "0100C84018338000": {
+        "id": "0100C84018338000",
+        "size": 28679208,
+        "region": "US",
+        "iconUrl": "https://i.postimg.cc/rpPjkw2T/0100-C84018338000.jpg",
+        "releaseDate": 20220707,
+        "name": "Arcade Archives RABIO LEPUS"
+    },
+    "01001A70189AC000": {
+        "id": "01001A70189AC000",
+        "size": 222802851,
+        "region": "US",
+        "iconUrl": "https://i.postimg.cc/W3ZGcm7m/01001-A70189-AC000.jpg",
+        "releaseDate": 20220707,
+        "name": "Farm Simulator USA Car Games - Driving games & Car 2022 Farming"
+    },
+    "0100164017A40000": {
+        "id": "0100164017A40000",
+        "size": 237684562,
+        "region": "US",
+        "iconUrl": "https://i.postimg.cc/5NgwJ28r/0100164017-A40000.jpg",
+        "releaseDate": 20220707,
+        "name": "Harlow"
+    },
+    "0100C34017764000": {
+        "id": "0100C34017764000",
+        "size": 572890583,
+        "region": "US",
+        "iconUrl": "https://i.postimg.cc/Vs3ht4Tw/0100-C34017764000.jpg",
+        "releaseDate": 20220707,
+        "name": "KLONOA Digital Artbook & Soundtrack"
+    },
+    "010089C018ACA000": {
+        "id": "010089C018ACA000",
+        "size": 175696997,
+        "region": "US",
+        "iconUrl": "https://i.postimg.cc/hPD2TwrH/010089-C018-ACA000.jpg",
+        "releaseDate": 20220707,
+        "name": "Luberman and The Legend of Animals Warriors-Platformer Game 2022"
+    },
+    "010000D017ABA000": {
+        "id": "010000D017ABA000",
+        "size": 33374167,
+        "releaseDate": 20220707,
+        "name": "QUByte Classics Zero Tolerance Collection by PIKO"
+    },
+    "01008DE0154D8000": {
+        "id": "01008DE0154D8000",
+        "size": 202587130,
+        "region": "US",
+        "iconUrl": "https://i.postimg.cc/gkStWsGh/01008-DE0154-D8000.jpg",
+        "releaseDate": 20220707,
+        "name": "APICO"
+    },
+    "01007DC018AEA000": {
+        "id": "01007DC018AEA000",
+        "size": 207848982,
+        "region": "US",
+        "iconUrl": "https://i.postimg.cc/RVd5nw4C/01007-DC018-AEA000.jpg",
+        "releaseDate": 20220707,
+        "name": "Our Summer Sports"
+    },
+    "01007490178F6000": {
+        "id": "01007490178F6000",
+        "size": 226410106,
+        "region": "US",
+        "iconUrl": "https://i.postimg.cc/BbK3qJqk/01007490178-F6000.jpg",
+        "releaseDate": 20220707,
+        "name": "Plan B from Outer Space A Bavarian Odyssey"
+    },
+    "01001A1018A50000": {
+        "id": "01001A1018A50000",
+        "size": 57165894,
+        "region": "US",
+        "iconUrl": "https://i.postimg.cc/GmXcWnyP/01001-A1018-A50000.jpg",
+        "releaseDate": 20220707,
+        "name": "Retro Pocket Rocket"
+    },
+    "0100FEE0175FA000": {
+        "id": "0100FEE0175FA000",
+        "size": 591423788,
+        "region": "US",
+        "iconUrl": "https://i.postimg.cc/fy4ZBsrw/0100-FEE0175-FA000.jpg",
+        "releaseDate": 20220707,
+        "name": "The Galactic Junkers"
+    },
+    "0100BBA015E8E000": {
         "id": "0100BBA015E8E000",
+        "size": 6784075832,
         "region": "US",
-        "iconUrl": "https://i.postimg.cc/wB9dQQ2r/ezgif-com-gif-maker.png",
+        "iconUrl": "https://i.postimg.cc/nctB4Kdm/0100-BBA015-E8-E000.jpg",
         "releaseDate": 20220708,
-        "name": "Klonoa Phantasy Reverie Collection"
-      }
+        "name": "KLONOA Phantasy Reverie Series"
+    },
+    "0100B8B018962000": {
+        "id": "0100B8B018962000",
+        "size": 311577855,
+        "size": 6784075832,
+        "region": "US",
+        "iconUrl": "https://i.postimg.cc/xCc49jRH/0100-B8-B018962000.jpg",
+        "releaseDate": 20220711,
+        "name": "Firefighter Car Fire Truck Sim Driving 2022 Simulator"
+    },
+    "010060001833A000": {
+        "id": "010060001833A000",
+        "size": 43120964,
+        "region": "US",
+        "iconUrl": "https://i.postimg.cc/431w8jmy/010060001833-A000.jpg",
+        "releaseDate": 20220714,
+        "name": "Arcade Archives DRAGON SABER"
+    },
+    "0100976017FFC000": {
+        "id": "0100976017FFC000",
+        "size": 107784516,
+        "region": "JP",
+        "iconUrl": "https://i.postimg.cc/pX7SzNFt/0100976017-FFC000.jpg",
+        "releaseDate": 20220714,
+        "name": "G-MODE\u30a2\u30fc\u30ab\u30a4\u30d6\u30b9+ \u5973\u795e\u8ee2\u751f\u5916\u4f1d \u65b0\u7d04\u30e9\u30b9\u30c8\u30d0\u30a4\u30d6\u30eb"
+    },
+    "0100CBA018B56000": {
+        "id": "0100CBA018B56000",
+        "size": 1066641793,
+        "region": "US",
+        "iconUrl": "https://i.postimg.cc/MZ0Z9DY4/0100-CBA018-B56000.jpg",
+        "releaseDate": 20220714,
+        "name": "Mojito the Cat"
+    },
+    "010057A018246000": {
+        "id": "010057A018246000",
+        "region": "US",
+        "iconUrl": "https://i.postimg.cc/441Z63fR/010057-A018246000.jpg",
+        "size": 654022468,
+        "releaseDate": 20220714,
+        "name": "Pet Rock"
+    },
+    "01008BD018D82000": {
+        "id": "01008BD018D82000",
+        "size": 76923716,
+        "region": "US",
+        "iconUrl": "https://i.postimg.cc/k4QChJW8/01008-BD018-D82000.jpg",
+        "releaseDate": 20220714,
+        "name": "Supaplex Go!"
+    },
+    "0100469018D6C000": {
+        "id": "0100469018D6C000",
+        "size": 1916175172,
+        "region": "US",
+        "iconUrl": "https://i.postimg.cc/0N7h9tr1/0100469018-D6-C000.jpg",
+        "releaseDate": 20220714,
+        "name": "The Legacy The Tree of Might"
+    },
+    "0100229018A5C000": {
+        "id": "0100229018A5C000",
+        "size": 446713156,
+        "region": "US",
+        "iconUrl": "https://i.postimg.cc/wxF8tb26/0100229018-A5-C000.jpg",
+        "releaseDate": 20220714,
+        "name": "Deadliest catch -Ocean Boat Driving & Fishing 2022 Simulator"
+    },
+    "0100CB0018ACC000": {
+        "id": "0100CB0018ACC000",
+        "size": 1165306180,
+        "region": "US",
+        "iconUrl": "https://i.postimg.cc/DwTqtBVX/0100-CB0018-ACC000.jpg",
+        "releaseDate": 20220714,
+        "name": "Faith and Shield 4044 Tower Defence Space Wars Game 2022"
+    },
+    "010057C017DE6000": {
+        "id": "010057C017DE6000",
+        "size": 373250312,
+        "region": "US",
+        "iconUrl": "https://i.postimg.cc/52KLFr5v/010057-C017-DE6000.jpg",
+        "releaseDate": 20220714,
+        "name": "Clutter Evolution Beyond Xtreme"
+    },
+    "01005EA017CCE000": {
+        "id": "01005EA017CCE000",
+        "size": 609588511,
+        "region": "US",
+        "iconUrl": "https://i.postimg.cc/QtT7FK55/01005-EA017-CCE000.jpg",
+        "releaseDate": 20220714,
+        "name": "Egg Over It"
+    },
+    "010015D0182BC000": {
+        "id": "010015D0182BC000",
+        "size": 112181289,
+        "region": "US",
+        "iconUrl": "https://i.postimg.cc/vZ2xXttf/010015-D0182-BC000.jpg",
+        "releaseDate": 20220714,
+        "name": "Mini Subway Logic on the metro line"
+    },
+    "0100DEC018E52000": {
+        "id": "0100DEC018E52000",
+        "size": 174900826,
+        "region": "US",
+        "iconUrl": "https://i.postimg.cc/RCjV1ZMQ/0100-DEC018-E52000.jpg",
+        "releaseDate": 20220715,
+        "name": "Driving Quest"
+    },
+    "0100438018284000": {
+        "id": "0100438018284000",
+        "size": 28761568,
+        "region": "US",
+        "iconUrl": "https://i.postimg.cc/7YxHnqh5/0100438018284000.jpg",
+        "releaseDate": 20220715,
+        "name": "Raging Blasters"
+    },
+    "0100EC6018C88000": {
+        "id": "0100EC6018C88000",
+        "size": 486964036,
+        "region": "US",
+        "iconUrl": "https://i.postimg.cc/3JLN0SHD/0100-EC6018-C88000.jpg",
+        "releaseDate": 20220718,
+        "name": "Motorcycle Driving Simulator - Dirt & Parking 2022 Racing Games Ultimate 4x4 City, Offroad Kart"
+    },
+    "0100A61018680000": {
+        "id": "0100A61018680000",
+        "size": 4645111108,
+        "region": "US",
+        "iconUrl": "https://i.postimg.cc/0yK4Jz2J/0100-A61018680000.jpg",
+        "releaseDate": 20220720,
+        "name": "Baldur's Gate Dark Alliance II"
+    },
+    "010056E0187FE000": {
+        "id": "010056E0187FE000",
+        "size": 441645892,
+        "region": "GB",
+        "iconUrl": "https://i.postimg.cc/15nBvLxk/010056-E0187-FE000.jpg",
+        "releaseDate": 20220721,
+        "name": "Construction Ramp Jumping"
+    },
+    "0100CBC015C2C000": {
+        "id": "0100CBC015C2C000",
+        "size": 575685956,
+        "region": "US",
+        "iconUrl": "https://i.postimg.cc/Pr8zQr09/0100-CBC015-C2-C000.jpg",
+        "releaseDate": 20220720,
+        "name": "Super Bullet Break Demo"
+    },
+    "0100765018DD6000": {
+        "id": "0100765018DD6000",
+        "size": 879235396,
+        "region": "JP",
+        "iconUrl": "https://i.postimg.cc/KYbNzSqV/0100765018-DD6000.jpg",
+        "releaseDate": 20220720,
+        "name": "\u30a2\u30d1\u30b7\u30fc \u9cf4\u795e\u5b66\u5712\u4e03\u4e0d\u601d\u8b70 \u4f53\u9a13\u7248"
+    },
+    "01002C8018554000": {
+        "id": "01002C8018554000",
+        "size": 468868420,
+        "region": "JP",
+        "iconUrl": "https://i.postimg.cc/4311HLj3/01002-C8018554000.jpg",
+        "releaseDate": 20220720,
+        "name": "\u30b0\u30ea\u30e0\u30b0\u30ea\u30e2\u30a2 OnceMore \u4f53\u9a13\u7248"
+    },
+    "0100180018732000": {
+        "id": "0100180018732000",
+        "size": 704578372,
+        "region": "JP",
+        "iconUrl": "https://i.postimg.cc/J49xfBbR/0100180018732000.jpg",
+        "releaseDate": 20220720,
+        "name": "\u672a\u7136\u63a2\u5075 The Protea Cases \u4f53\u9a13\u7248"
+    },
+    "010014A016E0C000": {
+        "id": "010014A016E0C000",
+        "size": 34821806,
+        "region": "US",
+        "iconUrl": "https://i.postimg.cc/g0MKpBjp/010014-A016-E0-C000.jpg",
+        "releaseDate": 20220721,
+        "name": "Arcade Archives Chack'n Pop"
+    },
+    "0100C01015FA0000": {
+        "id": "0100C01015FA0000",
+        "size": 1745890295,
+        "region": "JP",
+        "iconUrl": "https://i.postimg.cc/0QcFLfRK/0100-C01015-FA0000.jpg",
+        "releaseDate": 20220721,
+        "name": "Fragment's Note+"
+    },
+    "056783A0CC4A0000": {
+        "id": "056783A0CC4A0000",
+        "size": 40000000,
+        "region": "US",
+        "iconUrl": "https://i.postimg.cc/FsmVJ91N/h.jpg",
+        "releaseDate": 20220722,
+        "name": "Ocarina of Time - Ship of Harkinian v3.0.0ra"
+    },
+    "0100E0D018E0E000": {
+        "id": "0100E0D018E0E000",
+        "size": 36952246,
+        "region": "US",
+        "iconUrl": "https://i.postimg.cc/8CxL9kwf/0100-E0-D018-E0-E000.jpg",
+        "releaseDate": 20220721,
+        "name": "9 in 1 Puzzles"
+    },
+    "010044F018C30000": {
+        "id": "010044F018C30000",
+        "size": 415030048,
+        "region": "US",
+        "iconUrl": "https://i.postimg.cc/gk6wfsFj/010044-F018-C30000.jpg",
+        "releaseDate": 20220721,
+        "name": "Encounters"
+    },
+    "0100B140185CE000": {
+        "id": "0100B140185CE000",
+        "size": 1271715916,
+        "region": "US",
+        "iconUrl": "https://i.postimg.cc/rpTqZCcB/0100-B140185-CE000.jpg",
+        "releaseDate": 20220721,
+        "name": "Faircroft's Antiques The Mountaineer's Legacy - Collector's Edition"
+    },
+    "0100DD3018CAE000": {
+        "id": "0100DD3018CAE000",
+        "size": 59560479,
+        "region": "US",
+        "iconUrl": "https://i.postimg.cc/zBgZJyJC/0100-DD3018-CAE000.jpg",
+        "releaseDate": 20220721,
+        "name": "Polygraph Escape from the lie detector"
+    },
+    "01003D2018E06000": {
+        "id": "01003D2018E06000",
+        "size": 48291173,
+        "region": "US",
+        "iconUrl": "https://i.postimg.cc/Dfxd2BMc/01003-D2018-E06000.jpg",
+        "releaseDate": 20220721,
+        "name": "Tiki Party Quiz Game with Friends"
+    },
+    "0100829018568000": {
+        "id": "0100829018568000",
+        "size": 1860417071,
+        "region": "JP",
+        "iconUrl": "https://i.postimg.cc/sgy6Hm1C/0100829018568000.jpg",
+        "releaseDate": 20220722,
+        "name": "SD GUNDAM BATTLE ALLIANCE Demo Version"
+    },
+    "01007100188FE000": {
+        "id": "01007100188FE000",
+        "size": 413324100,
+        "region": "US",
+        "iconUrl": "https://i.postimg.cc/43gQL2F6/01007100188-FE000.jpg",
+        "releaseDate": 20220722,
+        "name": "Puzzle Galaxy"
+    },
+    "01008EB018F2C000": {
+        "id": "01008EB018F2C000",
+        "size": 2197775684,
+        "region": "US",
+        "iconUrl": "https://i.postimg.cc/DfbpH7rD/01008-EB018-F2-C000.jpg",
+        "releaseDate": 20220728,
+        "name": "Backgrounds for life"
+    },
+    "010019B018F42000": {
+        "id": "010019B018F42000",
+        "size": 269430084,
+        "region": "US",
+        "iconUrl": "https://i.postimg.cc/W3q8B7kr/010019-B018-F42000.jpg",
+        "releaseDate": 20220728,
+        "name": "Whack first! - Fight the moles"
+    },
+    "0100CD2018CB2000": {
+        "id": "0100CD2018CB2000",
+        "size": 64347104,
+        "region": "US",
+        "iconUrl": "https://i.postimg.cc/sfBbzYrT/0100-CD2018-CB2000.jpg",
+        "releaseDate": 20220728,
+        "name": "Adopt an animal near me"
+    },
+    "0100896018FD4000": {
+        "id": "0100896018FD4000",
+        "size": 303892071,
+        "region": "US",
+        "iconUrl": "https://i.postimg.cc/C1SnbmKs/0100896018-FD4000.jpg",
+        "releaseDate": 20220727,
+        "name": "City Super Hero 3D - Flying Legend Warriors Deluxe Simulator"
+    },
+    "0100946018B80000": {
+        "id": "0100946018B80000",
+        "size": 1003105517,
+        "region": "US",
+        "iconUrl": "https://i.postimg.cc/3NPKFxBQ/0100946018-B80000.jpg",
+        "releaseDate": 20220727,
+        "name": "Counter Recon 2 The New War"
+    },
+    "0100B0F018FE6000": {
+        "id": "0100B0F018FE6000",
+        "size": 52979610,
+        "region": "US",
+        "iconUrl": "https://i.postimg.cc/pTkn4hCK/0100-B0-F018-FE6000.jpg",
+        "releaseDate": 20220727,
+        "name": "Supaplex Think!"
+    },
+    "01009D3018550000": {
+        "id": "01009D3018550000",
+        "size": 26598437,
+        "region": "JP",
+        "iconUrl": "https://i.postimg.cc/s2mXgFWr/01009-D3018550000.jpg",
+        "releaseDate": 20220728,
+        "name": "\u30a2\u30fc\u30b1\u30fc\u30c9\u30a2\u30fc\u30ab\u30a4\u30d6\u30b9 \u30ed\u30fc\u30e9\u30fc\u30b8\u30e3\u30de\u30fc"
+    },
+    "0100DD30161E6000": {
+        "id": "0100DD30161E6000",
+        "size": 2458595929,
+        "region": "JP",
+        "iconUrl": "https://i.postimg.cc/GmYTrSzL/0100-DD30161-E6000.jpg",
+        "releaseDate": 20220728,
+        "name": "\u30b9\u30fc\u30d1\u30fc\u91ce\u7530\u30b2\u30fcWORLD"
+    },
+    "0100EC9018C50000": {
+        "id": "0100EC9018C50000",
+        "size": 376636970,
+        "region": "JP",
+        "iconUrl": "https://i.postimg.cc/RF6DTDtH/0100-EC9018-C50000.jpg",
+        "releaseDate": 20220727,
+        "name": "\u30d4\u30af\u30ed\u30b9X\uff1a\u30d4\u30af\u30d3\u30c3\u30c4VS\u30a6\u30c4\u30dc\u30ed\u30b9 \u4f53\u9a13\u7248"
+    },
+    "010047500B7B2000": {
+        "id": "010047500B7B2000",
+        "size": 5332986368,
+        "releaseDate": 20220729,
+        "name": "DIGIMON SURVIVE"
+    }
 }
