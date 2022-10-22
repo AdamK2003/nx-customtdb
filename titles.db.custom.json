@@ -1558,5 +1558,13 @@
         "size": 5332986368,
         "releaseDate": 20220729,
         "name": "DIGIMON SURVIVE"
-    }
+    },
+      "0500BFB018134000": {
+         "id": "0500BFB018134000",
+         "size": 4886630994,
+"iconUrl": "https://tinfoil.media/ti/0100BFB018134000/128/128",
+         "region": "US",
+         "releaseDate": 20221021,
+         "name": "The Jackbox Party Pack 9 Patched"
+      }
 }
