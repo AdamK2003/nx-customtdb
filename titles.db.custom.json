@@ -70,7 +70,7 @@
         "region": "US",
         "iconUrl": "https://i.postimg.cc/FzMMJ9JD/z.jpg",
         "name": "ZeroRanger fix9",
-        "description": "ZeroRanger is a vertically-scrolling 2D co-op shoot'em up with heavy emphasis on shooting, dodging and... mystery?\n-port all significant, known changes from the latest official patch (29/9/2022 B)\n-remove obsolete fullscreen option, re-add DESTRUCTION debris option\n-actually fix a certain bossfight's background\n-fix OVERLOAD score display option\n-fix minor graphical issues in the options menu\n-fix the laser in the brain bossfight\n-negate stuttering in specific areas by loading all graphics on launch\n-miscellaneous optimizations"
+        "description": "ZeroRanger is a vertically-scrolling 2D co-op shoot'em up with heavy emphasis on shooting, dodging and... mystery? Changelog fix9:\n-port all significant, known changes from the latest official patch (29/9/2022 B)\n-remove obsolete fullscreen option, readd 'DESTRUCTION' debris option\n-actually fix a certain bossfight's background\n-fix 'OVERLOAD' score display option\n-fix minor graphical issues in the options menu\n-fix the laser in the brain bossfight\n-negate stuttering in specific areas by loading all graphics on launch\n-miscellaneous optimizations"
     },
     "050050CE11E58000": {
         "id": "050050CE11E58000",
