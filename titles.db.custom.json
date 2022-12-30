@@ -4454,5 +4454,37 @@
         "name": "Quiplash Patched",
         "region": "US",
         "iconUrl": "https://tinfoil.media/ti/010015A0113E0000/128/128"
-    }
+    },
+   "0100A77019FBA000": {
+      "id": "0100A77019FBA000",
+      "size": 65344324,
+      "releaseDate": 20221228,
+      "name": "Arcade Archives BUBBLE BOBBLE",
+      "region": "JP",
+      "iconUrl": "https://i.postimg.cc/52MQcNVJ/0100-A77019-FBA000.png"
+   },
+   "010036C01960E000": {
+      "id": "010036C01960E000",
+      "size": 4294705988,
+      "releaseDate": 20221229,
+      "name": "Aircraft Carrier Survival",
+      "region": "US",
+      "iconUrl": "https://i.postimg.cc/B64M6y7y/010036-C01960-E000.png"
+   },
+   "0500D1D0113B8000": {
+      "id": "0500D1D0113B8000",
+      "size": 1603691001,
+      "releaseDate": 20221230,
+      "name": "\u3068\u306a\u308a\u306b\u5f7c\u5973\u306e\u3044\u308b\u5e78\u305b Summer Surprise 18+",
+      "region": "JP",
+      "iconUrl": "https://tinfoil.media/ti/0100D1D0113B8000/128/128"
+   },
+   "0500ECF00ECEE000": {
+      "id": "0500ECF00ECEE000",
+      "size": 901789466,
+      "releaseDate": 20221225,
+      "name": "\u3068\u306a\u308a\u306b\u5f7c\u5973\u306e\u3044\u308b\u5e78\u305b \uff5eTwo Farce\uff5e PC 18+",
+      "region": "JP",
+      "iconUrl": "https://tinfoil.media/ti/0100ECF00ECEE000/128/128"
+   }
 }
