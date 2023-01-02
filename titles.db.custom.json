@@ -10,7 +10,7 @@
     },
     "05004B900049001C": {
         "id": "05004B900049001C",
-        "name": "Nintendo Game Boy Emulator - TETRIS (EN)(TOUCH V3)",
+        "name": "Nintendo Game Boy Emulator - TETRIS (EN)(TOUCH V3) [HOMEBREW]",
         "region": "JP",
         "releaseDate": 20220418,
         "description": "hiyoko",
@@ -18,7 +18,7 @@
     },
     "05004B9000490000": {
         "id": "05004B9000490000",
-        "name": "Nintendo Game Boy Color Emulator -  Zelda no Densetsu - Yume o Miru Shima DX (JP)",
+        "name": "Nintendo Game Boy Color Emulator -  Zelda no Densetsu - Yume o Miru Shima DX (JP) [HOMEBREW]",
         "region": "JP",
         "releaseDate": 20220418,
         "description": "hiyoko",
@@ -26,7 +26,7 @@
     },
     "05004B9000490011": {
         "id": "05004B9000490011",
-        "name": "Nintendo Game Boy Emulator - Super Mario Land",
+        "name": "Nintendo Game Boy Emulator - Super Mario Land [HOMEBREW]",
         "region": "JP",
         "releaseDate": 20220418,
         "description": "hiyoko",
@@ -34,7 +34,7 @@
     },
     "05004B9000490015": {
         "id": "05004B9000490015",
-        "name": "Nintendo Game Boy Emulator - QIX (EN)(Touch V2)",
+        "name": "Nintendo Game Boy Emulator - QIX (EN)(Touch V2) [HOMEBREW]",
         "region": "JP",
         "releaseDate": 20220418,
         "description": "hiyoko",
@@ -42,7 +42,7 @@
     },
     "05008BF00A1C8000": {
         "id": "05008BF00A1C8000",
-        "name": "Nintendo Game Boy Advance Emulator - Sloop",
+        "name": "Nintendo Game Boy Advance Emulator - Sloop [HOMEBREW]",
         "region": "JP",
         "releaseDate": 20220422,
         "description": "GBA Emulator",
@@ -50,7 +50,7 @@
     },
     "050027100372F000": {
         "id": "050027100372F000",
-        "name": "Anime Movie Player - Hunter x Hunter Phantom Troupe",
+        "name": "Anime Movie Player - Hunter x Hunter Phantom Troupe [HOMEBREW]",
         "region": "JP",
         "iconUrl": "https://i.postimg.cc/BvbzfH09/h.jpg",
         "releaseDate": 20220409,
@@ -58,7 +58,7 @@
     },
     "050050CE11E48000": {
         "id": "050050CE11E48000",
-        "name": "Anime Movie Player - Made in Abyss",
+        "name": "Anime Movie Player - Made in Abyss [HOMEBREW]",
         "region": "JP",
         "iconUrl": "https://i.postimg.cc/DzrcP748/a.jpg",
         "releaseDate": 20220409,
@@ -69,12 +69,12 @@
         "releaseDate": 20221223,
         "region": "US",
         "iconUrl": "https://i.postimg.cc/FzMMJ9JD/z.jpg",
-        "name": "ZeroRanger fix9",
+        "name": "ZeroRanger fix9 [HOMEBREW]",
         "description": "ZeroRanger is a vertically-scrolling 2D co-op shoot'em up with heavy emphasis on shooting, dodging and... mystery? Changelog fix9:\n-port all significant, known changes from the latest official patch (29/9/2022 B)\n-remove obsolete fullscreen option, readd 'DESTRUCTION' debris option\n-actually fix a certain bossfight's background\n-fix 'OVERLOAD' score display option\n-fix minor graphical issues in the options menu\n-fix the laser in the brain bossfight\n-negate stuttering in specific areas by loading all graphics on launch\n-miscellaneous optimizations"
     },
     "050050CE11E58000": {
         "id": "050050CE11E58000",
-        "name": "Anime Movie Player - ERASED",
+        "name": "Anime Movie Player - ERASED [HOMEBREW]",
         "region": "JP",
         "iconUrl": "https://i.postimg.cc/V6tL694C/e.jpg",
         "releaseDate": 20220409,
@@ -240,7 +240,7 @@
     },
     "054507E0B7552000": {
         "id": "054507E0B7552000",
-        "name": "Super Mario 64 v8",
+        "name": "Super Mario 64 v8 [HOMEBREW]",
         "region": "US",
         "releaseDate": 20200918,
         "iconUrl": "https://i.postimg.cc/NMGR9YYy/m.jpg",
@@ -291,7 +291,7 @@
         "region": "US",
         "releaseDate": 20210119,
         "iconUrl": "https://i.postimg.cc/9XKqVy4w/s.jpg",
-        "name": "Sonic The Hedgehog 2",
+        "name": "Sonic The Hedgehog 2 [HOMEBREW]",
         "description": "One of the greatest adventures of all time re-mastered for Nintendo Switch! This definitive version has been fully built from the ground up for Nintendo Switch, featuring re-mastered graphics and audio, and all new game content.\n\nA CLASSIC ADVENTURE\n\nRace as Sonic and Tails through high speed environments, or aim for the high score in Sonic 2's iconic half pipe Special Stage.\n\nEXCLUSIVE NEW CONTENT\n\nAn all new 'Boss Attack mode' challenges the player to defeat all of the game's devious bosses in one run. Additionally choose to play the game as Knuckles in addition to Sonic and Tails.\n\nEXCLUSIVE NEW LEVELS\n\nFor the first time ever explore the mysterious Hidden Palace Zone. These lost levels feature undiscovered enemies, new hazards and a climatic showdown with Dr. Eggman.\n\nREMASTERED FOR SWITCH\n\nRebuilt from the ground up, Sonic The Hedgehog 2 offers upgraded graphics, including widescreen display and a smooth 60fps frame rate, plus a re-mastered soundtrack."
     },
     "0579FF579A28A000": {
@@ -300,7 +300,7 @@
         "releaseDate": 20210119,
         "size": 40682200,
         "iconUrl": "https://i.postimg.cc/vBjt6BzP/1.jpg",
-        "name": "Sonic The Hedgehog 1",
+        "name": "Sonic The Hedgehog 1 [HOMEBREW]",
         "description": "This re-mastered version of the SEGA Genesis classic features the full Sonic The Hedgehog game, plus these EXCLUSIVE features:\n\nNEW PLAYABLE CHARACTERS\n\nPlay as Sonic's friends Tails & Knuckles for the first time. Use their unique abilities to fly, climb, and glide around levels offering exciting new ways to explore.\n\nOPTIMIZED FOR SWITCH\n\nSonic The Hedgehog now plays in widescreen at a smooth 60FPS offering unrivalled performance and the game's legendary soundtrack has been fully re-mastered.\n\nGOTTA GO FAST\n\nChallenge yourself with an all-new Time Attack Mode!\n\nCONTROLLER SUPPORT"
     },
     "010043A0132AA000": {
@@ -327,7 +327,7 @@
         "region": "US",
         "iconUrl": "https://i.postimg.cc/Gtmn9XXP/g.jpg",
         "size": 83000024,
-        "name": "Youtube v2.0.0 Patched",
+        "name": "Youtube v2.0.0 Patched [HOMEBREW]",
         "description": "The latest patched YouTube v2.0.0 that works without connecting to Nintendo. The base game has the v2.0.0 update included."
     },
     "054548454C4C0000": {
@@ -335,12 +335,12 @@
         "releaseDate": 20211002,
         "iconUrl": "https://i.postimg.cc/sD8CD97S/g.jpg",
         "region": "US",
-        "name": "Helltaker 1.1.0",
+        "name": "Helltaker 1.1.0 [HOMEBREW]",
         "description": "Helltaker is a short game about sharply dressed demon girls."
     },
     "050050CE11E68000": {
         "id": "050050CE11E68000",
-        "name": "Anime Movie Player - Panty & Stocking with Garterbelt",
+        "name": "Anime Movie Player - Panty & Stocking with Garterbelt [HOMEBREW]",
         "region": "JP",
         "iconUrl": "https://i.postimg.cc/52hJpqt1/g.jpg",
         "releaseDate": 20210904,
@@ -348,7 +348,7 @@
     },
     "050050CE11ED8000": {
         "id": "050050CE11ED8000",
-        "name": "Movie Player - Doctor Strange",
+        "name": "Movie Player - Doctor Strange [HOMEBREW]",
         "region": "US",
         "iconUrl": "https://i.postimg.cc/T3Svd1dd/s.jpg",
         "releaseDate": 20220410,
@@ -356,7 +356,7 @@
     },
     "0500C14007E42000": {
         "id": "0500C14007E42000",
-        "name": "Movie Player - The Matrix Trilogy",
+        "name": "Movie Player - The Matrix Trilogy [HOMEBREW]",
         "region": "US",
         "iconUrl": "https://i.postimg.cc/VksZx8XY/m.jpg",
         "releaseDate": 20220410,
@@ -364,7 +364,7 @@
     },
     "05006D300BDA0000": {
         "id": "05006D300BDA0000",
-        "name": "Anime Movie Player - Darling in the Franxx",
+        "name": "Anime Movie Player - Darling in the Franxx [HOMEBREW]",
         "region": "JP",
         "iconUrl": "https://i.postimg.cc/PxtPqXSj/x.jpg",
         "releaseDate": 20220409,
@@ -372,7 +372,7 @@
     },
     "05005A400DB52000": {
         "id": "05005A400DB52000",
-        "name": "The Jackbox Party Pack 6 v1.1.0 Patched",
+        "name": "The Jackbox Party Pack 6 v1.1.0 Patched [HOMEBREW]",
         "region": "US",
         "iconUrl": "https://i.postimg.cc/B6ZVCX24/6.jpg",
         "releaseDate": 20210905,
@@ -380,7 +380,7 @@
     },
     "0500E1F003EE8000": {
         "id": "0500E1F003EE8000",
-        "name": "The Jackbox Party Pack 4 v1.1.0 Patched",
+        "name": "The Jackbox Party Pack 4 v1.1.0 Patched [HOMEBREW]",
         "region": "US",
         "iconUrl": "https://i.postimg.cc/Mpy32yDz/4.jpg",
         "releaseDate": 20210905,
@@ -388,7 +388,7 @@
     },
     "0500AE5003EE6000": {
         "id": "0500AE5003EE6000",
-        "name": "The Jackbox Party Pack Patched",
+        "name": "The Jackbox Party Pack Patched [HOMEBREW]",
         "region": "US",
         "iconUrl": "https://i.postimg.cc/HxPB43p9/j.jpg",
         "releaseDate": 20210905,
@@ -396,7 +396,7 @@
     },
     "050015D003EE4000": {
         "id": "050015D003EE4000",
-        "name": "The Jackbox Party Pack 2 Patched",
+        "name": "The Jackbox Party Pack 2 Patched [HOMEBREW]",
         "region": "US",
         "iconUrl": "https://i.postimg.cc/fLF1TM0s/a.jpg",
         "releaseDate": 20210905,
@@ -404,7 +404,7 @@
     },
     "0500CC80013D6000": {
         "id": "0500CC80013D6000",
-        "name": "The Jackbox Party Pack 3 Patched",
+        "name": "The Jackbox Party Pack 3 Patched [HOMEBREW]",
         "region": "US",
         "iconUrl": "https://i.postimg.cc/zvv9nB6s/g.jpg",
         "releaseDate": 20210905,
@@ -412,7 +412,7 @@
     },
     "05006FE0096AC000": {
         "id": "05006FE0096AC000",
-        "name": "The Jackbox Party Pack 5 v1.0.1 Patched",
+        "name": "The Jackbox Party Pack 5 v1.0.1 Patched [HOMEBREW]",
         "region": "US",
         "iconUrl": "https://i.postimg.cc/xTkw8XKH/g.jpg",
         "releaseDate": 20210905,
@@ -420,7 +420,7 @@
     },
     "05007F30113A6000": {
         "id": "05007F30113A6000",
-        "name": "The Jackbox Party Pack 7 v1.0.1 Patched",
+        "name": "The Jackbox Party Pack 7 v1.0.1 Patched [HOMEBREW]",
         "region": "US",
         "iconUrl": "https://i.postimg.cc/KzvV2jG1/g.jpg",
         "releaseDate": 20210905,
@@ -428,7 +428,7 @@
     },
     "050050CE11E98000": {
         "id": "050050CE11E98000",
-        "name": "Anime Movie Player - Steins;Gate",
+        "name": "Anime Movie Player - Steins;Gate [HOMEBREW]",
         "region": "JP",
         "iconUrl": "https://i.postimg.cc/cCqV753j/i.jpg",
         "releaseDate": 20210905,
@@ -436,7 +436,7 @@
     },
     "0500E8500A780000": {
         "id": "0500E8500A780000",
-        "name": "Anime Movie Player - Your Lie in April",
+        "name": "Anime Movie Player - Your Lie in April [HOMEBREW]",
         "region": "JP",
         "iconUrl": "https://i.postimg.cc/7Zw6qzFt/ylia.jpg",
         "releaseDate": 20210916,
@@ -444,7 +444,7 @@
     },
     "05450B00BA020000": {
         "id": "05450B00BA020000",
-        "name": "AM2R (Another Metroid 2 Remake) 1.5.2-nx fix4",
+        "name": "AM2R (Another Metroid 2 Remake) 1.5.2-nx fix4 [HOMEBREW]",
         "region": "US",
         "size": 150955224,
         "releaseDate": 20211102,
@@ -453,7 +453,7 @@
     },
     "0500E80B00BA0000": {
         "id": "0500E80B00BA0000",
-        "name": "Anime Movie Player - Flip Flappers",
+        "name": "Anime Movie Player - Flip Flappers [HOMEBREW]",
         "region": "JP",
         "iconUrl": "https://i.postimg.cc/qMSZRLdr/f.jpg",
         "releaseDate": 20210918,
@@ -461,7 +461,7 @@
     },
     "0500CA8888884000": {
         "id": "0500CA8888884000",
-        "name": "cate bossfight v1.3.1",
+        "name": "cate bossfight v1.3.1 [HOMEBREW]",
         "region": "US",
         "iconUrl": "https://i.postimg.cc/0NgNRLrb/c.jpg",
         "releaseDate": 20211214,
@@ -472,7 +472,7 @@
         "releaseDate": 20211015,
         "region": "US",
         "iconUrl": "https://i.postimg.cc/dtHGH0XW/g.jpg",
-        "name": "The Jackbox Party Pack 8 Patched"
+        "name": "The Jackbox Party Pack 8 Patched [HOMEBREW]"
     },
     "0100FAF015212000": {
         "id": "0100FAF015212000",
@@ -914,7 +914,25 @@
         "iconUrl": "https://i.postimg.cc/8ccWCr7n/o.jpg",
         "description": "A port of the fangame Sonic 1 SMS Remake for the Nintendo Switch.",
         "releaseDate": 20220620,
-        "name": "Sonic 1 SMS Remake"
+        "name": "Sonic 1 SMS Remake [HOMEBREW]"
+    },
+    "0500595C59CA0000": {
+        "id": "0500595C59CA0000",
+        "size": 44613149,
+        "region": "US",
+        "iconUrl": "https://i.postimg.cc/FsnL59VZ/1.jpg",
+        "description": "Now in 60 FPS (switch 30/60 modes)\nNew optimization system\nNew main camera\nNew menu: Gameplay\nNew Badnik Roller in Spring Yard Zone\nNew chain sound effects in Marble Zone\nNew physics of Ray the Flying Squirrel\nSpring Yard Act 2 level design changes\nMask bug fixed on big buttons at Zones\nPolishing the physics of zones\nCorrection in the Shaders of Labyrinth Zone\nOption to enable/disable Air Jump\nChange(B) button is used as a back function in the options\nRemoved cameras option\nSuper animation fix\nFixed bugs on platforms\nPress 4x on version to unclock cheats",
+        "releaseDate": 20221201,
+        "name": "Sonic 1 SMS Remake v1.9.2 [HOMEBREW]"
+    },
+    "0500525C51CA0000": {
+        "id": "0500525C51CA0000",
+        "size": 45954136,
+        "region": "US",
+        "iconUrl": "https://i.postimg.cc/PJM3J1kC/9.jpg",
+        "description": "A port of the fangame Sonic 2 SMS Remake for the Nintendo Switch.",
+        "releaseDate": 20220623,
+        "name": "Sonic 2 SMS Remake [HOMEBREW]"
     },
     "0100F35017750000": {
         "id": "0100F35017750000",
@@ -924,14 +942,14 @@
         "releaseDate": 20220622,
         "name": "KLONOA Phantasy Reverie Series Demo"
     },
-    "0500525C51CA0000": {
-        "id": "0500525C51CA0000",
-        "size": 45954136,
+    "0500585C58CA0000": {
+        "id": "0500585C58CA0000",
+        "size": 59158030,
         "region": "US",
-        "iconUrl": "https://i.postimg.cc/PJM3J1kC/9.jpg",
-        "description": "A port of the fangame Sonic 2 SMS Remake for the Nintendo Switch.",
-        "releaseDate": 20220623,
-        "name": "Sonic 2 SMS Remake"
+        "iconUrl": "https://i.postimg.cc/sgZM5yZz/s.png",
+        "description": "Now in 60 FPS (switch 30/60 modes)\nNew optimization system\nNew main camera\nNew menu: Gameplay\nUpdated save game icons\nNew sprite of Super Shadow running\nNew animation of big rings and red star ring\nFixed hyper Sonic and Tails sprite waiting\nUnder Ground boss does not kill player when exploding\nScrambled Egg boss does not lose life with spin dash\nOil Ocean boss can now be hit in the air\nOption to enable/disable Air Jump\nChange(B) button is used as a back function in the options\nRemoved cameras option\nSuper animation fix\nFixed bugs on platforms\nPress 4x on version to unclock cheats",
+        "releaseDate": 20221201,
+        "name": "Sonic 2 SMS Remake v2.9.2 [HOMEBREW]"
     },
     "0100FD50185E2000": {
         "id": "0100FD50185E2000",
@@ -956,7 +974,7 @@
         "description": "A port of the fangame Sonic Time Twisted for the Nintendo Switch.",
         "region": "US",
         "releaseDate": 20220626,
-        "name": "Sonic Time Twisted v1.1.2.1"
+        "name": "Sonic Time Twisted v1.1.2.1 [HOMEBREW]"
     },
     "01007BB017812000": {
         "id": "01007BB017812000",
@@ -1112,7 +1130,7 @@
         "region": "US",
         "iconUrl": "https://i.postimg.cc/ZR60jsDH/0100814017-CB6000.jpg",
         "releaseDate": 20220630,
-        "name": "The Jackbox Party Starter Patched"
+        "name": "The Jackbox Party Starter Patched [HOMEBREW]"
     },
     "01001900145B2000": {
         "id": "01001900145B2000",
@@ -3004,7 +3022,7 @@
         "iconUrl": "https://tinfoil.media/ti/0100BFB018134000/128/128",
         "region": "US",
         "releaseDate": 20221021,
-        "name": "The Jackbox Party Pack 9 Patched"
+        "name": "The Jackbox Party Pack 9 Patched [HOMEBREW]"
     },
     "010004A019B52000": {
         "id": "010004A019B52000",
@@ -3514,7 +3532,7 @@
         "id": "0500DBA0169C2000",
         "size": 602584184,
         "releaseDate": 20221116,
-        "name": "Virtual Maid Streamer Ramie 18+",
+        "name": "Virtual Maid Streamer Ramie 18+ [HOMEBREW]",
         "region": "US",
         "iconUrl": "https://tinfoil.media/ti/0100DBA0169C2000/128/128"
     },
@@ -3562,7 +3580,7 @@
         "id": "0500AA700B9A2000",
         "size": 3528841653,
         "releaseDate": 20221117,
-        "name": "\u30ce\u30e9\u3068\u7687\u5973\u3068\u91ce\u826f\u732b\u30cf\u30fc\u30c8 HD 18+",
+        "name": "\u30ce\u30e9\u3068\u7687\u5973\u3068\u91ce\u826f\u732b\u30cf\u30fc\u30c8 HD 18+ [HOMEBREW]",
         "region": "JP",
         "iconUrl": "https://tinfoil.media/ti/0100AA700B9A2000/128/128"
     },
@@ -3594,7 +3612,7 @@
         "id": "0500A4300BEFC000",
         "size": 5684255486,
         "releaseDate": 20221119,
-        "name": "\u30ce\u30e9\u3068\u7687\u5973\u3068\u91ce\u826f\u732b\u30cf\u30fc\u30c82 18+",
+        "name": "\u30ce\u30e9\u3068\u7687\u5973\u3068\u91ce\u826f\u732b\u30cf\u30fc\u30c82 18+ [HOMEBREW]",
         "region": "JP",
         "iconUrl": "https://tinfoil.media/ti/0100A4300BEFC000/128/128"
     },
@@ -3610,7 +3628,7 @@
         "id": "05005EA012430000",
         "size": 565357448,
         "releaseDate": 20221123,
-        "name": "TroubleDays 18+",
+        "name": "TroubleDays 18+ [HOMEBREW]",
         "region": "US",
         "iconUrl": "https://tinfoil.media/ti/01005EA012430000/128/128"
     },
@@ -3698,7 +3716,7 @@
         "id": "05002EC014BCA000",
         "size": 864994990,
         "releaseDate": 20221124,
-        "name": "Idol Days 18+",
+        "name": "Idol Days 18+ [HOMEBREW]",
         "region": "US",
         "iconUrl": "https://tinfoil.media/ti/01002EC014BCA000/128/128"
     },
@@ -3762,7 +3780,7 @@
         "id": "0500746010E4C000",
         "size": 500942428,
         "releaseDate": 20221126,
-        "name": "NinNinDays 18+",
+        "name": "NinNinDays 18+ [HOMEBREW]",
         "region": "US",
         "iconUrl": "https://tinfoil.media/ti/0100746010E4C000/128/128"
     },
@@ -3770,7 +3788,7 @@
         "id": "0500DEF016364000",
         "size": 1182322074,
         "releaseDate": 20221127,
-        "name": "NinNinDays2 18+",
+        "name": "NinNinDays2 18+ [HOMEBREW]",
         "region": "US",
         "iconUrl": "https://tinfoil.media/ti/0100DEF016364000/128/128"
     },
@@ -3778,7 +3796,7 @@
         "id": "050043200F874000",
         "size": 831495542,
         "releaseDate": 20221128,
-        "name": "NekoMiko 18+",
+        "name": "NekoMiko 18+ [HOMEBREW]",
         "region": "US",
         "iconUrl": "https://tinfoil.media/ti/010043200F874000/128/128"
     },
@@ -3794,7 +3812,7 @@
         "id": "0500CB600E1F6000",
         "size": 4771156419,
         "releaseDate": 20221129,
-        "name": "\u30e9\u30ba\u30d9\u30ea\u30fc\u30ad\u30e5\u30fc\u30d6 18+",
+        "name": "\u30e9\u30ba\u30d9\u30ea\u30fc\u30ad\u30e5\u30fc\u30d6 18+ [HOMEBREW]",
         "region": "JP",
         "iconUrl": "https://tinfoil.media/ti/0100CB600E1F6000/128/128"
     },
@@ -3802,7 +3820,7 @@
         "id": "05000E2012F6E000",
         "size": 711044715,
         "releaseDate": 20221130,
-        "name": "Fantasy Tavern Sextet -Vol.1 New World Days- 18+",
+        "name": "Fantasy Tavern Sextet -Vol.1 New World Days- 18+ [HOMEBREW]",
         "region": "US",
         "iconUrl": "https://tinfoil.media/ti/01000E2012F6E000/128/128"
     },
@@ -3866,7 +3884,7 @@
         "id": "05005C10136CA000",
         "size": 729209385,
         "releaseDate": 20221201,
-        "name": "Fantasy Tavern Sextet -Vol.2 Adventurer's Days- 18+",
+        "name": "Fantasy Tavern Sextet -Vol.2 Adventurer's Days- 18+ [HOMEBREW]",
         "region": "US",
         "iconUrl": "https://tinfoil.media/ti/01005C10136CA000/128/128"
     },
@@ -3874,7 +3892,7 @@
         "id": "050043D014336000",
         "size": 991224075,
         "releaseDate": 20221202,
-        "name": "Fantasy Tavern Sextet -Vol.3 Postlude Days- 18+",
+        "name": "Fantasy Tavern Sextet -Vol.3 Postlude Days- 18+ [HOMEBREW]",
         "region": "US",
         "iconUrl": "https://tinfoil.media/ti/010043D014336000/128/128"
     },
@@ -3986,7 +4004,7 @@
         "id": "0500CA2017EAC000",
         "size": 1287461128,
         "releaseDate": 20221211,
-        "name": "\u69c7\u6751\u8449\u6708\u306e\u604b\u8a9e\u308a 18+",
+        "name": "\u69c7\u6751\u8449\u6708\u306e\u604b\u8a9e\u308a 18+ [HOMEBREW]",
         "region": "US",
         "iconUrl": "https://tinfoil.media/ti/0100CA2017EAC000/128/128"
     },
@@ -4002,7 +4020,7 @@
         "id": "0503030304B52000",
         "size": 202743106,
         "releaseDate": 20221212,
-        "name": "Katawa Shoujo",
+        "name": "Katawa Shoujo [HOMEBREW]",
         "region": "US",
         "iconUrl": "https://i.postimg.cc/J7YfTQHR/1.jpg"
     },
@@ -4010,7 +4028,7 @@
         "id": "0506B73726570000",
         "size": 176479510,
         "releaseDate": 20221212,
-        "name": "Katawa Shoujo Repair",
+        "name": "Katawa Shoujo Repair [HOMEBREW]",
         "region": "US",
         "iconUrl": "https://i.postimg.cc/WzxfsX0r/r.jpg",
         "description": "The Katawa Shoujo prealpha repaired to a playable state."
@@ -4019,7 +4037,7 @@
         "id": "050022801242C000",
         "size": 519912342,
         "releaseDate": 20221213,
-        "name": "KukkoroDays 18+",
+        "name": "KukkoroDays 18+ [HOMEBREW]",
         "region": "US",
         "iconUrl": "https://tinfoil.media/ti/010022801242C000/128/128"
     },
@@ -4027,7 +4045,7 @@
         "id": "0500312015C1A000",
         "size": 600365111,
         "releaseDate": 20221214,
-        "name": "Secret Kiss is Sweet and Tender 18+",
+        "name": "Secret Kiss is Sweet and Tender 18+ [HOMEBREW]",
         "region": "US",
         "iconUrl": "https://tinfoil.media/ti/0100312015C1A000/128/128"
     },
@@ -4091,7 +4109,7 @@
         "id": "05006FF014152000",
         "size": 5548516920,
         "releaseDate": 20221215,
-        "name": "\u30cf\u30df\u30c0\u30b7\u30af\u30ea\u30a8\u30a4\u30c6\u30a3\u30d6 18+",
+        "name": "\u30cf\u30df\u30c0\u30b7\u30af\u30ea\u30a8\u30a4\u30c6\u30a3\u30d6 18+ [HOMEBREW]",
         "region": "US",
         "iconUrl": "https://tinfoil.media/ti/01006FF014152000/128/128"
     },
@@ -4179,7 +4197,7 @@
         "id": "05004A5017C50000",
         "size": 178845789,
         "releaseDate": 20221217,
-        "name": "\u7d76\u5bfe\u541b\u4e3b\uff01\u5c0f\u591c\u69d8 \uff5e\u30d0\u30a4\u30c8\u9762\u63a5\u306b\u884c\u3063\u305f\u3089\u5c0f\u591c\u69d8\u306e\u4e0b\u50d5\u3060\u3063\u305f\u4ef6\uff5e My Lady Sayo 18+",
+        "name": "\u7d76\u5bfe\u541b\u4e3b\uff01\u5c0f\u591c\u69d8 \uff5e\u30d0\u30a4\u30c8\u9762\u63a5\u306b\u884c\u3063\u305f\u3089\u5c0f\u591c\u69d8\u306e\u4e0b\u50d5\u3060\u3063\u305f\u4ef6\uff5e My Lady Sayo 18+ [HOMEBREW]",
         "region": "JP",
         "iconUrl": "https://tinfoil.media/ti/01004A5017C50000/128/128"
     },
@@ -4187,7 +4205,7 @@
         "id": "0500F7800A434000",
         "size": 151155165,
         "releaseDate": 20221219,
-        "name": "Drawful 2 v1.1.0 Patched",
+        "name": "Drawful 2 v1.1.0 Patched [HOMEBREW]",
         "region": "US",
         "iconUrl": "https://tinfoil.media/ti/0100F7800A434000/128/128"
     },
@@ -4443,7 +4461,7 @@
         "id": "0500AF100EE76000",
         "size": 307738942,
         "releaseDate": 20221224,
-        "name": "Quiplash 2 InterLASHional v1.1.0 Patched",
+        "name": "Quiplash 2 InterLASHional v1.1.0 Patched [HOMEBREW]",
         "region": "US",
         "iconUrl": "https://tinfoil.media/ti/0100AF100EE76000/128/128"
     },
@@ -4451,40 +4469,80 @@
         "id": "050015A0113E0000",
         "size": 69098928,
         "releaseDate": 20221224,
-        "name": "Quiplash Patched",
+        "name": "Quiplash Patched [HOMEBREW]",
         "region": "US",
         "iconUrl": "https://tinfoil.media/ti/010015A0113E0000/128/128"
     },
-   "0100A77019FBA000": {
-      "id": "0100A77019FBA000",
-      "size": 65344324,
-      "releaseDate": 20221228,
-      "name": "Arcade Archives BUBBLE BOBBLE",
-      "region": "JP",
-      "iconUrl": "https://i.postimg.cc/52MQcNVJ/0100-A77019-FBA000.png"
-   },
-   "010036C01960E000": {
-      "id": "010036C01960E000",
-      "size": 4294705988,
-      "releaseDate": 20221229,
-      "name": "Aircraft Carrier Survival",
-      "region": "US",
-      "iconUrl": "https://i.postimg.cc/B64M6y7y/010036-C01960-E000.png"
-   },
-   "0500D1D0113B8000": {
-      "id": "0500D1D0113B8000",
-      "size": 1603691001,
-      "releaseDate": 20221230,
-      "name": "\u3068\u306a\u308a\u306b\u5f7c\u5973\u306e\u3044\u308b\u5e78\u305b Summer Surprise 18+",
-      "region": "JP",
-      "iconUrl": "https://tinfoil.media/ti/0100D1D0113B8000/128/128"
-   },
-   "0500ECF00ECEE000": {
-      "id": "0500ECF00ECEE000",
-      "size": 901789466,
-      "releaseDate": 20221225,
-      "name": "\u3068\u306a\u308a\u306b\u5f7c\u5973\u306e\u3044\u308b\u5e78\u305b \uff5eTwo Farce\uff5e PC 18+",
-      "region": "JP",
-      "iconUrl": "https://tinfoil.media/ti/0100ECF00ECEE000/128/128"
-   }
+    "0500ECF00ECEE000": {
+        "id": "0500ECF00ECEE000",
+        "size": 901789466,
+        "releaseDate": 20221225,
+        "name": "\u3068\u306a\u308a\u306b\u5f7c\u5973\u306e\u3044\u308b\u5e78\u305b \uff5eTwo Farce\uff5e PC 18+ [HOMEBREW]",
+        "region": "JP",
+        "iconUrl": "https://tinfoil.media/ti/0100ECF00ECEE000/128/128"
+    },
+    "0100A77019FBA000": {
+        "id": "0100A77019FBA000",
+        "size": 65344324,
+        "releaseDate": 20221228,
+        "name": "Arcade Archives BUBBLE BOBBLE",
+        "region": "JP",
+        "iconUrl": "https://i.postimg.cc/52MQcNVJ/0100-A77019-FBA000.png"
+    },
+    "010036C01960E000": {
+        "id": "010036C01960E000",
+        "size": 4294705988,
+        "releaseDate": 20221229,
+        "name": "Aircraft Carrier Survival",
+        "region": "US",
+        "iconUrl": "https://i.postimg.cc/B64M6y7y/010036-C01960-E000.png"
+    },
+    "0500D1D0113B8000": {
+        "id": "0500D1D0113B8000",
+        "size": 1603691001,
+        "releaseDate": 20221230,
+        "name": "\u3068\u306a\u308a\u306b\u5f7c\u5973\u306e\u3044\u308b\u5e78\u305b Summer Surprise 18+ [HOMEBREW]",
+        "region": "JP",
+        "iconUrl": "https://tinfoil.media/ti/0100D1D0113B8000/128/128"
+    },
+    "05003460150F2000": {
+        "id": "05003460150F2000",
+        "size": 1475266341,
+        "releaseDate": 20221231,
+        "name": "\u3068\u306a\u308a\u306b\u5f7c\u5973\u306e\u3044\u308b\u5e78\u305b\uff5eWinter Guest\uff5e PC 18+ [HOMEBREW]",
+        "region": "JP",
+        "iconUrl": "https://tinfoil.media/ti/01003460150F2000/128/128"
+    },
+    "0500A18011BE4000": {
+        "id": "0500A18011BE4000",
+        "size": 968498092,
+        "releaseDate": 20230101,
+        "name": "\u3068\u306a\u308a\u306b\u5f7c\u5973\u306e\u3044\u308b\u5e78\u305b\uff5eCurious Queen\uff5e 18+ [HOMEBREW]",
+        "region": "JP",
+        "iconUrl": "https://tinfoil.media/ti/0100A18011BE4000/128/128"
+    },
+    "010029C012DB6000": {
+        "id": "010029C012DB6000",
+        "size": 28406596,
+        "releaseDate": 20210225,
+        "name": "DARIUS EXTRA Ver. (MEGA DRIVE)",
+        "region": "JP",
+        "iconUrl": "https://i.postimg.cc/prYfFNWW/010029-C012-DB6000.jpg"
+    },
+    "050A0582A332A000": {
+        "id": "050A0582A332A000",
+        "size": 379184796,
+        "releaseDate": 20230102,
+        "name": "\u3068\u306a\u308a\u306b\u5f7c\u5973\u306e\u3044\u308b\u5e78\u305b\uff5eTwo Farce\uff5e \u30bb\u30ab\u30f3\u30c9\u30b5\u30de\u30fc PC 18+ [HOMEBREW]",
+        "region": "JP",
+        "iconUrl": "https://i.postimg.cc/0yLnKbbR/j.jpg"
+    },
+    "01000D5011794000": {
+        "id": "01000D5011794000",
+        "size": 1097745232,
+        "releaseDate": 20200702,
+        "name": "Ｅスクールライフ　体験版",
+        "region": "JP",
+        "iconUrl": "https://tinfoil.media/ti/0100CC4011790000/128/128"
+    }
 }
