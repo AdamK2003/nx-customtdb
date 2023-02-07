@@ -4544,5 +4544,21 @@
         "name": "Ｅスクールライフ　体験版",
         "region": "JP",
         "iconUrl": "https://tinfoil.media/ti/0100CC4011790000/128/128"
-    }
+    },
+   "0100A70019EC6000": {
+      "id": "0100A70019EC6000",
+      "size": 978406785,
+      "releaseDate": 20230206,
+      "name": "void tRrLM2(); Void Terrarium 2 DEMO",
+      "region": "US",
+      "iconUrl": "https://i.postimg.cc/JzhDsrS6/0100-A70019-EC6000.jpg"
+   },
+   "050C91DBD7AE8000": {
+      "id": "050C91DBD7AE8000",
+      "size": 9267800,
+      "releaseDate": 20221026,
+      "name": "Mario Maker Linx (MMLINX) [HOMEBREW]",
+      "region": "US",
+      "iconUrl": "https://i.postimg.cc/BbzhBBSm/l.jpg"
+   }
 }
