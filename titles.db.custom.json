@@ -4560,5 +4560,14 @@
       "name": "Mario Maker Linx (MMLINX) [HOMEBREW]",
       "region": "US",
       "iconUrl": "https://i.postimg.cc/BbzhBBSm/l.jpg"
+   }, 
+   "0500D22512158000": {
+      "id": "0500D22512158000",
+      "size": 171090668,
+      "releaseDate": 20230130,
+      "name": "Sonic Dimensions [HOMEBREW]",
+      "region": "US",
+      "iconUrl": "https://i.postimg.cc/DyLQPsGK/d.jpg",
+      "description": "Sonic Dimensions is a fan-made 2D Sonic game that offers fast-paced and action-packed Boost style gameplay, created by Phantom-Radea.\nWith 9 action stages, each set in a unique environment with multiple branching paths, gimmicks, and challenges, your quick decision making and reaction time will be put to the test.\nPlay as either Sonic or Shadow, and unlock Skills that match your playstyle with the rings you collect.\nFor further replay value, a ranking system is featured, and 5 Red Rings are hidden throughout each stage.\nGetting good ranks and numerous Red Rings will unlock additional content.\nThe game is not fully complete and is not under active development as of today. However, all the content that is implemented is worthwhile."
    }
 }
