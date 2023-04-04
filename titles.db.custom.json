@@ -4577,5 +4577,13 @@
       "region": "US",
       "iconUrl": "https://i.postimg.cc/DyLQPsGK/d.jpg",
       "description": "Switch port version 2:\n-minor text changes\n-fix odd behavior where the game would accidentally buffer inputs forever under some circumstances\n-fix skills UI\n-change (hopefully) all UI buttons to match joy-cons\n-some small changes to a few objects to fix inaccurate behavior"
+   },
+   "05000FD261232000": {
+      "id": "05000FD261232000",
+      "size": 216446939,
+      "releaseDate": 20230405,
+      "name": "Pizza Tower v1.0.3 SR 1 [HOMEBREW]",
+      "region": "US",
+      "iconUrl": "https://i.postimg.cc/SNvwX5RW/p.jpg"
    }
 }
