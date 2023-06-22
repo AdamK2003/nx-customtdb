@@ -4585,5 +4585,21 @@
       "name": "Pizza Tower v1.0.311 SR 3 [HOMEBREW]",
       "region": "US",
       "iconUrl": "https://i.postimg.cc/SNvwX5RW/p.jpg"
+   },
+   "05009C200F45A000": {
+      "id": "05009C200F45A000",
+      "size": 158768453,
+      "releaseDate": 20230218,
+      "name": "Ascendant Hearts 18+",
+      "region": "US",
+      "iconUrl": "https://tinfoil.media/ti/01009C200F45A000/128/128"
+   },
+   "050093700ECEC000": {
+      "id": "050093700ECEC000",
+      "size": 971112159,
+      "releaseDate": 20230105,
+      "name": "\u30dc\u30af\u3068\u5f7c\u5973\u306e\u7814\u4fee\u65e5\u8a8c PC 18+ [HOMEBREW]",
+      "region": "JP",
+      "iconUrl": "https://tinfoil.media/ti/010093700ECEC000/128/128"
    }
 }
